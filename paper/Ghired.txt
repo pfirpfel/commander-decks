@@ -1,4 +1,3 @@
-1 Ghired's Belligerence
 1 Kiki-Jiki, Mirror Breaker
 1 Feldon of the Third Path
 1 Inferno Titan
@@ -24,7 +23,6 @@
 1 Wood Elves
 1 Yavimaya Dryad
 1 Nature's Lore
-1 Skyshroud Claim
 1 Kodama's Reach
 1 Farhaven Elf
 1 Sakura-Tribe Elder
@@ -44,7 +42,6 @@
 1 Swiftfoot Boots
 1 Mimic Vat
 1 Sol Ring
-1 Solemn Simulacrum
 1 Karmic Guide
 1 Rootborn Defenses
 1 Mosswort Bridge
@@ -75,7 +72,6 @@
 1 Clifftop Retreat
 1 Terastodon
 1 Three Visits
-1 Elvish Visionary
 1 Twinflame
 1 God-Eternal Oketra
 1 Wheel of Fortune
@@ -87,6 +83,10 @@
 1 Needleverge Pathway
 1 Terror of the Peaks
 1 Esika's Chariot
+1 Magus of the Wheel
+1 Garruk's Uprising
+1 Blade of Selves
+1 Iroas, God of Victory
 
 1 Ghired, Conclave Exile
 
