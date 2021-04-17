@@ -20,7 +20,6 @@
 1 The Immortal Sun
 1 Utter End
 1 Mystic Confluence
-1 Despark
 1 Arcane Denial
 1 Mystical Tutor
 1 Brainstorm
@@ -41,10 +40,11 @@
 1 Tempt with Discovery
 1 Dream Cache
 1 Blatant Thievery
-1 Time Stretch
+1 Sandwurm Convergence
 1 Praetor's Counsel
 1 Reliquary Tower
 1 Nicol Bolas, Planeswalker
+1 Etali, Primal Storm
 1 The Eldest Reborn
 1 Rhystic Study
 1 Smothering Tithe
@@ -78,13 +78,9 @@
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
-1 Swamp
-1 Plains
-1 Mountain
-1 Forest
-1 Island
-1 Cruel Ultimatum
-1 Greenwarden of Murasa
+1 Mind's Dilation
+1 Bountiful Promenade
+1 Nexus of Fate
 1 Leyline of Anticipation
 1 Vindicate
 1 Elvish Rejuvenator
@@ -92,11 +88,15 @@
 1 Thought Vessel
 1 Pir's Whim
 1 Sylvan Library
+1 Assassin's Trophy
 1 Mana Reflection
-1 Hellkite Tyrant
-1 Morphic Pool
-1 Bountiful Promenade
 1 Spire Garden
+1 Morphic Pool
+1 Plains
+1 Island
+1 Swamp
+1 Mountain
+1 Forest
 
 1 Golos, Tireless Pilgrim
 
