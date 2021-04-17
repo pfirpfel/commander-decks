@@ -1,15 +1,13 @@
 1 Ghired's Belligerence
 1 Kiki-Jiki, Mirror Breaker
 1 Feldon of the Third Path
-1 Arcane Signet
 1 Inferno Titan
 1 Sun Titan
 1 Dockside Extortionist
-1 Zealous Conscripts
+1 Ancient Tomb
 1 Hate Mirage
-1 Dragonmaster Outcast
+1 Gruul Signet
 1 Flamerush Rider
-1 Hour of Reckoning
 1 Phyrexian Rebirth
 1 Angel of Sanctions
 1 Meteor Golem
@@ -17,7 +15,6 @@
 1 Swords to Plowshares
 1 Parallel Lives
 1 Garruk, Primal Hunter
-1 Hornet Queen
 1 Luminate Primordial
 1 Acidic Slime
 1 Eternal Witness
@@ -33,19 +30,14 @@
 1 Sakura-Tribe Elder
 1 Farseek
 1 Harmonize
-1 Zendikar Resurgent
-1 Growing Rites of Itlimoc
 1 Druid's Deliverance
 1 Elemental Bond
-1 Miren, the Moaning Well
 1 Aurelia, the Warleader
 1 Beast Within
 1 Reclamation Sage
 1 Trostani, Selesnya's Voice
-1 Omnath, Locus of Rage
 1 Sundering Growth
 1 Skullclamp
-1 Minion Reflector
 1 God-Pharaoh's Gift
 1 Lightning Greaves
 1 Combustible Gearhulk
@@ -59,15 +51,13 @@
 1 Cinder Glade
 1 Canopy Vista
 1 Rogue's Passage
-1 Krosan Verge
 1 Stomping Ground
 1 Command Tower
-1 Gargoyle Castle
+1 Bala Ged Recovery
 1 Sunpetal Grove
 1 Grove of the Guardian
 1 Rootbound Crag
-1 Jungle Shrine
-1 Path of Ancestry
+1 Ondu Inversion
 1 Taiga
 1 Plateau
 1 Savannah
@@ -76,16 +66,27 @@
 1 Windswept Heath
 1 Sacred Foundry
 1 Temple Garden
-4 Plains
+3 Plains
 4 Mountain
 6 Forest
 1 Flametongue Kavu
 1 Flameshadow Conjuring
 1 Helm of the Host
 1 Clifftop Retreat
-1 Heat Shimmer
 1 Terastodon
-1 Teferi's Protection
+1 Three Visits
+1 Elvish Visionary
+1 Twinflame
+1 God-Eternal Oketra
+1 Wheel of Fortune
+1 Bonders' Enclave
+1 Arcane Signet
+1 Winds of Abandon
+1 Branchloft Pathway
+1 Cragcrown Pathway
+1 Needleverge Pathway
+1 Terror of the Peaks
+1 Esika's Chariot
 
 1 Ghired, Conclave Exile
 
