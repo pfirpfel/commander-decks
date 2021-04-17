@@ -62,7 +62,6 @@
 1 Wall of Blossoms
 5 Forest
 1 Growing Rites of Itlimoc
-1 Cleansing Nova
 1 Guardian Project
 1 Zendikar Resurgent
 1 Yavimaya Elder
@@ -74,7 +73,6 @@
 1 Panharmonicon
 1 Eerie Interlude
 1 Rashmi, Eternities Crafter
-1 Time Wipe
 1 Cyclonic Rift
 1 Oracle of Mul Daya
 1 Eladamri's Call
@@ -88,6 +86,8 @@
 3 Plains
 1 Luminate Primordial
 1 Meteor Golem
+1 Evacuation
+1 Flood of Tears
 
 1 Chulane, Teller of Tales
 
