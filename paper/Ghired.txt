@@ -1,7 +1,7 @@
 1 Ghired's Belligerence
 1 Kiki-Jiki, Mirror Breaker
 1 Feldon of the Third Path
-1 Heart-Piercer Manticore
+1 Arcane Signet
 1 Inferno Titan
 1 Sun Titan
 1 Dockside Extortionist
@@ -19,7 +19,6 @@
 1 Garruk, Primal Hunter
 1 Hornet Queen
 1 Luminate Primordial
-1 Giant Adephage
 1 Acidic Slime
 1 Eternal Witness
 1 Duplicant
@@ -37,11 +36,9 @@
 1 Zendikar Resurgent
 1 Growing Rites of Itlimoc
 1 Druid's Deliverance
-1 Heroic Intervention
 1 Elemental Bond
 1 Miren, the Moaning Well
-1 Thragtusk
-1 Elvish Visionary
+1 Aurelia, the Warleader
 1 Beast Within
 1 Reclamation Sage
 1 Trostani, Selesnya's Voice
@@ -86,6 +83,9 @@
 1 Flameshadow Conjuring
 1 Helm of the Host
 1 Clifftop Retreat
+1 Heat Shimmer
+1 Terastodon
+1 Teferi's Protection
 
 1 Ghired, Conclave Exile
 
