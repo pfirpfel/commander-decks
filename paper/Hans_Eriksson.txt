@@ -15,13 +15,11 @@
 1 Radha, Heart of Keld
 1 Meteor Golem
 1 Castle Garenbrig
-1 Reclamation Sage
 1 Mana Crypt
 1 Selvala, Heart of the Wilds
 1 Ancient Tomb
 1 Sensei's Divining Top
 1 Windswept Heath
-1 Eternal Witness
 1 Kogla, the Titan Ape
 1 Kodama of the East Tree
 1 Hellkite Tyrant
@@ -40,16 +38,13 @@
 1 Heroic Intervention
 1 Taiga
 1 Cinder Glade
-1 Guardian Project
 1 Scavenger Grounds
 1 Drakuseth, Maw of Flames
 1 Terastodon
 1 Anara, Wolvid Familiar
-1 Champion of Rhonas
 1 Dragonlord Atarka
 1 Rootbound Crag
 1 Courser of Kruphix
-1 Magus of the Wheel
 1 Rogue's Passage
 1 Sheltered Thicket
 1 Manglehorn
@@ -59,7 +54,6 @@
 1 Bala Ged Recovery
 1 Blasphemous Act
 1 Return of the Wildspeaker
-1 Call of the Wild
 1 Vandalblast
 1 Nature's Lore
 1 Three Visits
@@ -67,7 +61,6 @@
 1 Farseek
 1 Command Tower
 1 Bonders' Enclave
-1 Greater Good
 1 Stomping Ground
 6 Snow-Covered Forest
 1 Mirri's Guile
@@ -86,6 +79,13 @@
 1 Once and Future
 1 Arid Mesa
 1 Karplusan Forest
+1 Noxious Revival
+1 Nature's Claim
+1 Rampant Growth
+1 Elemental Bond
+1 Garruk's Uprising
+1 Turntimber Symbiosis
+1 Disaster Radius
 
 1 Hans Eriksson
 
