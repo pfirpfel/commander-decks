@@ -1,0 +1,93 @@
+1 Temur Sabertooth
+1 Craterhoof Behemoth
+1 Vizier of the Menagerie
+1 Null Rod
+1 Collector Ouphe
+1 Gaddock Teeg
+1 Shrieking Drake
+1 Aura Shards
+1 Stonecloaker
+1 Whitemane Lion
+1 Coiling Oracle
+1 Beast Whisperer
+1 Mosswort Bridge
+1 Hallowed Fountain
+1 Agent of Treachery
+1 Frilled Mystic
+1 Knight of Autumn
+1 Elvish Rejuvenator
+1 Bountiful Promenade
+1 Sea of Clouds
+1 Scattered Groves
+1 Irrigated Farmland
+1 Cloudblazer
+1 Canopy Vista
+1 Prairie Stream
+1 Aluren
+4 Island
+1 Lumbering Falls
+1 Yavimaya Coast
+1 Command Tower
+1 Simic Growth Chamber
+1 Selesnya Sanctuary
+1 Elvish Visionary
+1 Karmic Guide
+1 Sun Titan
+1 Tundra
+1 Sakura-Tribe Elder
+1 Mirari's Wake
+1 Flooded Strand
+1 Windswept Heath
+1 Eternal Witness
+1 Temple Garden
+1 Birds of Paradise
+1 Azorius Chancery
+1 Mystic Snake
+1 Breeding Pool
+1 Mulldrifter
+1 Farhaven Elf
+1 Flooded Grove
+1 Hinterland Harbor
+1 Bant Charm
+1 Reliquary Tower
+1 Krosan Verge
+1 Sunpetal Grove
+1 Acidic Slime
+1 Misty Rainforest
+1 God-Eternal Oketra
+1 Lavinia, Azorius Renegade
+1 Solemn Simulacrum
+1 Heroic Intervention
+1 Beastmaster Ascension
+1 Wall of Blossoms
+5 Forest
+1 Growing Rites of Itlimoc
+1 Cleansing Nova
+1 Guardian Project
+1 Zendikar Resurgent
+1 Yavimaya Elder
+1 Phantasmal Image
+1 Fblthp, the Lost
+1 Greenwarden of Murasa
+1 Enlightened Tutor
+1 Woodfall Primus
+1 Panharmonicon
+1 Eerie Interlude
+1 Rashmi, Eternities Crafter
+1 Time Wipe
+1 Cyclonic Rift
+1 Oracle of Mul Daya
+1 Eladamri's Call
+1 Reclamation Sage
+1 End-Raze Forerunners
+1 Sylvan Ranger
+1 Swords to Plowshares
+1 Wall of Roots
+1 Glen Elendra Archmage
+1 Jace, Wielder of Mysteries
+3 Plains
+1 Luminate Primordial
+1 Meteor Golem
+
+1 Chulane, Teller of Tales
+

@@ -1,0 +1,101 @@
+1 Panharmonicon
+1 Treachery
+1 Wood Elves
+1 Coiling Oracle
+1 Sunken Hollow
+1 Gonti, Lord of Luxury
+1 Temple of Malady
+1 Hostage Taker
+1 Courser of Kruphix
+1 Deadeye Navigator
+1 Reclamation Sage
+1 Mulldrifter
+1 Eternal Witness
+1 Acidic Slime
+1 Solemn Simulacrum
+1 Necromancy
+1 Elvish Rejuvenator
+1 Ravenous Chupacabra
+1 Noxious Gearhulk
+1 Tireless Tracker
+1 Sidisi, Undead Vizier
+1 Snow-Covered Swamp
+1 Agent of Treachery
+1 Tatyova, Benthic Druid
+1 Growing Rites of Itlimoc
+1 Rhystic Study
+2 Snow-Covered Forest
+1 Field of the Dead
+1 Snow-Covered Island
+1 Drowned Catacomb
+1 Avenger of Zendikar
+1 Yavimaya Dryad
+1 Lightning Greaves
+1 Duplicant
+1 Helm of the Host
+1 Rune-Scarred Demon
+1 Temple of Deceit
+1 Fierce Empath
+1 Cyclonic Rift
+1 Lotus Cobra
+1 Urborg, Tomb of Yawgmoth
+1 Temple of Mystery
+1 Farseek
+1 Sol Ring
+1 Sakura-Tribe Elder
+1 Damnation
+1 Risen Reef
+1 Demonic Tutor
+1 Hour of Promise
+1 Cabal Coffers
+1 Venser, Shaper Savant
+1 Oracle of Mul Daya
+1 Ulvenwald Hydra
+1 Finale of Devastation
+1 Hinterland Harbor
+1 Woodland Cemetery
+1 Watery Grave
+1 Overgrown Tomb
+1 Breeding Pool
+1 Bayou
+1 Underground Sea
+1 Tropical Island
+1 Polluted Delta
+1 Verdant Catacombs
+1 Command Tower
+1 Reliquary Tower
+1 Opulent Palace
+1 Flooded Strand
+1 Forest
+1 Swamp
+1 Bojuka Bog
+1 Island
+1 Gaea's Cradle
+1 Wooded Foothills
+1 Zendikar Resurgent
+1 Phantasmal Image
+1 Strip Mine
+1 Arcane Signet
+1 Muldrotha, the Gravetide
+1 The Great Henge
+1 Pir's Whim
+1 Beast Within
+1 Lumbering Falls
+1 Puppeteer Clique
+1 Heroic Intervention
+1 Windgrace's Judgment
+1 Mana Crypt
+1 Misty Rainforest
+1 Dance of Many
+1 Sylvan Library
+1 Reflecting Pool
+1 Craterhoof Behemoth
+1 Temur Sabertooth
+1 Nature's Lore
+1 Volrath's Stronghold
+1 The Scarab God
+1 Kenrith's Transformation
+1 Thassa, Deep-Dwelling
+
+1 Yarok, the Desecrated
+
