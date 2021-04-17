@@ -32,7 +32,6 @@
 1 Painful Truths
 1 Read the Bones
 1 Harmonize
-1 Jarad's Orders
 1 Golgari Findbroker
 1 Swiftfoot Boots
 1 Lightning Greaves
@@ -55,10 +54,8 @@
 1 Nyx Weaver
 1 Deadbridge Chant
 1 Karmic Guide
-1 Sepulchral Primordial
 1 Abhorrent Overlord
 1 End-Raze Forerunners
-1 Angelic Arbiter
 1 Evolving Wilds
 1 Terramorphic Expanse
 1 Golgari Rot Farm
@@ -74,12 +71,15 @@
 8 Forest
 6 Swamp
 1 Grisly Salvage
-1 Artisan of Kozilek
 1 Reya Dawnbringer
-1 Splinterfright
+1 Final Parting
 1 Steel Hellkite
 1 Whip of Erebos
 1 Key to the City
+1 Deathbringer Regent
+1 Foe-Razer Regent
+1 Kokusho, the Evening Star
+1 Dragon's Hoard
 
 1 Teneb, the Harvester
 
