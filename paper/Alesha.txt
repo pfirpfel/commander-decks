@@ -7,15 +7,14 @@
 1 Solemn Simulacrum
 1 Grim Haruspex
 1 Judith, the Scourge Diva
-3 Swamp
+2 Swamp
 1 Kiki-Jiki, Mirror Breaker
 1 Master of Cruelties
 1 Midnight Reaper
-1 Noosegraf Mob
 1 Pitiless Plunderer
 1 Sun Titan
 1 Reveillark
-3 Plains
+2 Plains
 1 Teysa Karlov
 1 Teysa, Orzhov Scion
 1 Tymna the Weaver
@@ -23,7 +22,7 @@
 1 Vindictive Vampire
 1 Viscera Seer
 1 Whisper, Blood Liturgist
-1 Yahenni, Undying Partisan
+1 Grenzo, Dungeon Warden
 1 Yawgmoth, Thran Physician
 1 Zulaport Cutthroat
 1 Anguished Unmaking
@@ -58,14 +57,13 @@
 1 Sol Ring
 1 Skullclamp
 1 Liliana, Heretical Healer
-1 Nomad Outpost
 1 Wheel of Fortune
 1 Living Death
 1 Luxury Suite
 1 Phyrexian Arena
 1 Iroas, God of Victory
 1 Demonic Tutor
-3 Mountain
+2 Mountain
 1 Rogue's Passage
 1 Path of Ancestry
 1 Dockside Extortionist
@@ -73,7 +71,6 @@
 1 Clifftop Retreat
 1 Siege-Gang Commander
 1 Karmic Guide
-1 Expedition Map
 1 Isolated Chapel
 1 Urborg, Tomb of Yawgmoth
 1 Hanweir Battlements
@@ -87,10 +84,16 @@
 1 Ayli, Eternal Pilgrim
 1 Gray Merchant of Asphodel
 1 Militia Bugler
-1 Angel of Invention
+1 Dismissive Pyromancer
 1 Exotic Orchard
 1 Teferi's Protection
 1 Arcane Signet
+1 Key to the City
+1 Brightclimb Pathway
+1 Needleverge Pathway
+1 Angel of Invention
+1 Spectator Seating
+1 Vault of Champions
 
 1 Alesha, Who Smiles at Death
 
