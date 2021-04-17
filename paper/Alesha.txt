@@ -1,0 +1,96 @@
+1 Blood Artist
+1 Burnished Hart
+1 Cruel Celebrant
+1 Duplicant
+1 Elenda, the Dusk Rose
+1 Gonti, Lord of Luxury
+1 Solemn Simulacrum
+1 Grim Haruspex
+1 Judith, the Scourge Diva
+3 Swamp
+1 Kiki-Jiki, Mirror Breaker
+1 Master of Cruelties
+1 Midnight Reaper
+1 Noosegraf Mob
+1 Pitiless Plunderer
+1 Sun Titan
+1 Reveillark
+3 Plains
+1 Teysa Karlov
+1 Teysa, Orzhov Scion
+1 Tymna the Weaver
+1 Mentor of the Meek
+1 Vindictive Vampire
+1 Viscera Seer
+1 Whisper, Blood Liturgist
+1 Yahenni, Undying Partisan
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+1 Anguished Unmaking
+1 Boros Charm
+1 Scrubland
+1 Utter End
+1 Sacred Foundry
+1 Austere Command
+1 Plateau
+1 Phyrexian Tower
+1 Dragonskull Summit
+1 Faithless Looting
+1 Homeward Path
+1 High Market
+1 Boros Signet
+1 Nim Deathmantle
+1 Orzhov Signet
+1 Godless Shrine
+1 Rakdos Signet
+1 Command Tower
+1 Cabal Coffers
+1 Blood Crypt
+1 Dictate of Erebos
+1 Badlands
+1 Grave Pact
+1 Rugged Prairie
+1 Reconnaissance
+1 Smothering Tithe
+1 Goblin Bombardment
+1 Animate Dead
+1 Bojuka Bog
+1 Sol Ring
+1 Skullclamp
+1 Liliana, Heretical Healer
+1 Nomad Outpost
+1 Wheel of Fortune
+1 Living Death
+1 Luxury Suite
+1 Phyrexian Arena
+1 Iroas, God of Victory
+1 Demonic Tutor
+3 Mountain
+1 Rogue's Passage
+1 Path of Ancestry
+1 Dockside Extortionist
+1 Duergar Hedge-Mage
+1 Clifftop Retreat
+1 Siege-Gang Commander
+1 Karmic Guide
+1 Expedition Map
+1 Isolated Chapel
+1 Urborg, Tomb of Yawgmoth
+1 Hanweir Battlements
+1 Hanweir Garrison
+1 Dusk/Dawn
+1 Arid Mesa
+1 Bloodstained Mire
+1 Marsh Flats
+1 Fetid Heath
+1 Mindclaw Shaman
+1 Ayli, Eternal Pilgrim
+1 Gray Merchant of Asphodel
+1 Militia Bugler
+1 Angel of Invention
+1 Exotic Orchard
+1 Teferi's Protection
+1 Arcane Signet
+
+1 Alesha, Who Smiles at Death
+
