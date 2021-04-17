@@ -1,0 +1,84 @@
+1 Talisman of Progress
+1 Spreading Seas
+1 Kor Cartographer
+1 Whirler Rogue
+1 Basalt Monolith
+1 Exclusion Ritual
+1 Spine of Ish Sah
+1 Reality Acid
+1 Nevermaker
+1 Duplicant
+1 Phyrexian Ingester
+1 Nevermore
+1 Sunblast Angel
+1 Meandering River
+1 Oath of Jace
+1 Act of Authority
+1 Luminate Primordial
+1 Terramorphic Expanse
+1 Heliod's Pilgrim
+1 Unquestioned Authority
+1 Lightform
+1 Treasure Mage
+1 Resolute Archangel
+1 Darksteel Citadel
+1 Evolving Wilds
+1 Command Tower
+1 Azorius Chancery
+1 Command Beacon
+1 Flood Plain
+1 Coastal Tower
+1 Azorius Guildgate
+1 Sejiri Refuge
+1 Rogue's Passage
+1 Temple of the False God
+1 Boreal Shelf
+1 Tranquil Cove
+1 Fact or Fiction
+1 Myr Battlesphere
+1 Karmic Guide
+1 Lavinia of the Tenth
+1 Reliquary Tower
+1 Thawing Glaciers
+1 Counterspell
+1 Sphinx of Uthuun
+1 Wayfarer's Bauble
+1 Knight-Captain of Eos
+10 Island
+10 Plains
+1 Phyrexia's Core
+1 Swords to Plowshares
+1 Reflector Mage
+1 Trinket Mage
+1 Peregrine Drake
+1 Swiftfoot Boots
+1 Azorius Signet
+1 Solemn Simulacrum
+1 Slithermuse
+1 Sol Ring
+1 Sea Gate Oracle
+1 Mulldrifter
+1 Eldrazi Displacer
+1 Cyclonic Rift
+1 Dreams of the Dead
+1 Deadeye Navigator
+1 Aven Fogbringer
+1 Geist-Honored Monk
+1 Captain of the Watch
+1 Tower Geist
+1 Grim Poppet
+1 Cloudgoat Ranger
+1 Thought Vessel
+1 Hedron Archive
+1 Gilded Lotus
+1 Thran Dynamo
+1 Stonehorn Dignitary
+1 Auramancer
+1 Mastery of the Unseen
+1 Mana Vault
+1 Ichor Wellspring
+1 Rishadan Footpad
+1 Cloudform
+
+1 Brago, King Eternal
+

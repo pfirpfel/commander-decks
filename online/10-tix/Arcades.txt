@@ -1,0 +1,89 @@
+1 Resolute Watchdog
+1 Seaside Citadel
+1 Sylvan Caryatid
+1 Crashing Drawbridge
+1 Tranquil Cove
+1 Azorius Guildgate
+1 Zendikar Resurgent
+1 Kodama's Reach
+1 Wall of Kelp
+1 Mirari's Wake
+1 Tree of Redemption
+1 Assault Formation
+1 Sidar Kondo of Jamuraa
+1 Bant Charm
+1 Mnemonic Wall
+1 Explosive Vegetation
+6 Forest
+1 Cloudstone Curio
+1 Swiftfoot Boots
+1 Carven Caryatid
+1 Tetsuko Umezawa, Fugitive
+1 Wall of Shards
+1 Lightning Greaves
+1 Reclamation Sage
+1 Meishin, the Mind Cage
+5 Island
+1 Circuitous Route
+1 Eladamri's Call
+1 Thornwood Falls
+1 Vine Trellis
+1 Temple of Enlightenment
+1 Axebane Guardian
+1 Temple of Mystery
+1 Wall of Mulch
+1 Angelic Chorus
+1 Wall of Roots
+1 Blossoming Sands
+1 Monastery Flock
+1 Eerie Interlude
+1 Stalwart Shield-Bearers
+1 Drift of Phantasms
+1 Guardian Project
+1 Shalai, Voice of Plenty
+1 Swords to Plowshares
+5 Plains
+1 Hinterland Harbor
+1 Scattered Groves
+1 Heliod's Intervention
+1 Wall of Denial
+1 Command Tower
+1 Sunscape Familiar
+1 Overgrown Battlement
+1 Orator of Ojutai
+1 Ulvenwald Captive
+1 Sylvan Library
+1 Jeskai Barricade
+1 Adarkar Wastes
+1 Rampant Growth
+1 Marble Titan
+1 Tower Defense
+1 Generous Gift
+1 Slaughter the Strong
+1 Simic Growth Chamber
+1 Wall of Omens
+1 Teyo, the Shieldmage
+1 Hover Barrier
+1 Jungle Barrier
+1 Solar Tide
+1 Selesnya Guildgate
+1 Simic Guildgate
+1 Azorius Chancery
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Gatecreeper Vine
+1 Wall of Blossoms
+1 Harmonize
+1 Temur Sabertooth
+1 Reliquary Tower
+1 Counterspell
+1 Fell the Mighty
+1 High Alert
+1 Temple of Plenty
+1 Cultivate
+1 Selesnya Sanctuary
+1 Dovin's Veto
+1 Dusk/Dawn
+
+1 Arcades, the Strategist
+

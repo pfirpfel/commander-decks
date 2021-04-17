@@ -1,0 +1,92 @@
+1 Gonti, Lord of Luxury
+1 Grim Haruspex
+1 Flayer of the Hatebound
+1 Merciless Executioner
+1 Mindclaw Shaman
+1 Hostage Taker
+1 Captivating Crew
+1 Puppeteer Clique
+1 Etali, Primal Storm
+1 Noosegraf Mob
+1 Rune-Scarred Demon
+1 Sphinx of Uthuun
+1 Chromatic Lantern
+1 Blasphemous Act
+1 Warstorm Surge
+1 Vandalblast
+1 Cyclonic Rift
+1 Keiga, the Tide Star
+1 Agent of Treachery
+1 Rakdos Signet
+1 Dimir Signet
+1 Izzet Signet
+1 Darksteel Ingot
+1 Stalking Vengeance
+1 Simic Fluxmage
+1 Unspeakable Symbol
+1 Solemn Simulacrum
+1 Dominus of Fealty
+1 Chasm Skulker
+1 Conjurer's Closet
+1 Mass Mutiny
+1 Wayfarer's Bauble
+1 Mark of Mutiny
+1 Dack's Duplicate
+1 Dictate of Erebos
+1 Threaten
+1 Grab the Reins
+1 Act of Treason
+1 Grimgrin, Corpse-Born
+1 Read the Bones
+1 Pyreheart Wolf
+1 Spawning Pit
+1 Stolen Strategy
+1 Ogre Battledriver
+1 Temple of Deceit
+1 Phyrexian Reclamation
+1 Sadistic Hypnotist
+1 Lightning Greaves
+1 Archaeomancer
+1 Fleshbag Marauder
+1 Damnation
+1 Bojuka Bog
+1 Attrition
+1 Bad River
+1 Fact or Fiction
+4 Island
+4 Swamp
+1 Drowned Catacomb
+1 Temple of Malice
+1 Rupture Spire
+1 Dimir Guildgate
+1 Izzet Guildgate
+1 Rakdos Guildgate
+1 Talisman of Creativity
+1 Dragonskull Summit
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Crumbling Necropolis
+1 Highland Lake
+1 Sulfurous Springs
+1 Rakdos Carnarium
+1 Dimir Aqueduct
+1 Izzet Boilerworks
+5 Mountain
+1 Painful Truths
+1 Sulfur Falls
+1 Goblin Bombardment
+1 Culling Dais
+1 Molten Primordial
+1 Bedevil
+1 Nevermaker
+1 Mulldrifter
+1 Command Tower
+1 Zealous Conscripts
+1 Fellwar Stone
+1 Cinder Barrens
+1 Submerged Boneyard
+1 Salt Marsh
+1 Urborg Volcano
+
+1 Marchesa, the Black Rose
+
