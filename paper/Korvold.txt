@@ -1,5 +1,6 @@
 1 Dockside Extortionist
 1 Caustic Caterpillar
+1 Deathsprout
 1 Awakening Zone
 1 From Beyond
 1 Dreadhorde Invasion
@@ -23,7 +24,6 @@
 1 Dictate of Erebos
 1 Lightning Greaves
 1 Doubling Season
-1 Burnished Hart
 1 Nature's Lore
 1 Journey to Eternity
 1 Helm of Possession
@@ -38,13 +38,13 @@
 1 Springbloom Druid
 1 Grave Pact
 1 Kiki-Jiki, Mirror Breaker
+1 Dragon Broodmother
 1 Wood Elves
 1 Ravenous Chupacabra
 1 Oracle of Mul Daya
 1 Acidic Slime
 1 Sakura-Tribe Elder
 1 Stalking Vengeance
-1 Rampaging Baloths
 1 Viridian Emissary
 1 Farhaven Elf
 1 Golgari Findbroker
