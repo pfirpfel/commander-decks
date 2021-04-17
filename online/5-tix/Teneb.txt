@@ -1,0 +1,85 @@
+1 Orzhov Signet
+1 Golgari Signet
+1 Selesnya Signet
+1 Command Tower
+1 Springbloom Druid
+1 Satyr Wayfinder
+1 Circuitous Route
+1 Adarkar Valkyrie
+1 Elvish Rejuvenator
+1 Growing Rites of Itlimoc
+1 Orzhov Guildgate
+1 Yavimaya Elder
+1 Rampant Growth
+1 Farseek
+1 Cultivate
+1 Kodama's Reach
+1 Golgari Guildgate
+1 Selesnya Guildgate
+1 Mirari's Wake
+1 Zendikar Resurgent
+1 Dawntreader Elk
+1 Farhaven Elf
+1 Eerie Interlude
+1 Animate Dead
+1 Victimize
+1 Sandsteppe Citadel
+1 The Eldest Reborn
+1 Sylvan Library
+1 Vampiric Tutor
+1 Regrowth
+1 Underworld Connections
+1 Painful Truths
+1 Read the Bones
+1 Harmonize
+1 Jarad's Orders
+1 Golgari Findbroker
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Swords to Plowshares
+1 Plaguecrafter
+1 Reclamation Sage
+1 Acidic Slime
+1 Ravenous Chupacabra
+1 Shriekmaw
+1 Angel of Despair
+1 Luminate Primordial
+1 Avatar of Woe
+1 Crux of Fate
+1 Merciless Eviction
+1 Duneblast
+1 Putrefy
+1 Mortify
+1 Abzan Charm
+1 Despark
+1 Nyx Weaver
+1 Deadbridge Chant
+1 Karmic Guide
+1 Sepulchral Primordial
+1 Abhorrent Overlord
+1 End-Raze Forerunners
+1 Angelic Arbiter
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Golgari Rot Farm
+1 Orzhov Basilica
+1 Selesnya Sanctuary
+1 Jungle Hollow
+1 Scoured Barrens
+1 Blossoming Sands
+1 Foul Orchard
+1 Forsaken Sanctuary
+1 Temple of Plenty
+6 Plains
+8 Forest
+6 Swamp
+1 Grisly Salvage
+1 Artisan of Kozilek
+1 Reya Dawnbringer
+1 Splinterfright
+1 Steel Hellkite
+1 Whip of Erebos
+1 Key to the City
+
+1 Teneb, the Harvester
+
