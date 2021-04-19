@@ -1,0 +1,103 @@
+1 Panharmonicon
+1 Indatha Triome
+1 Ketria Triome
+1 Zagoth Triome
+1 Atris, Oracle of Half-Truths
+1 Faeburrow Elder
+1 Elvish Rejuvenator
+1 Risen Reef
+1 Golos, Tireless Pilgrim
+1 Yarok, the Desecrated
+1 Soulherder
+1 Sol Ring
+1 Evil Twin
+1 Despark
+1 Elite Guardmage
+1 Swamp
+1 Growth Spiral
+1 Misty Rainforest
+1 Arid Mesa
+1 Assassin's Trophy
+1 Merciless Eviction
+1 Knight of Autumn
+1 Last One Standing
+1 Dockside Extortionist
+1 Tatyova, Benthic Druid
+1 Mulldrifter
+1 Hostage Taker
+1 The Scarab God
+1 Spire Garden
+1 Cloudblazer
+1 Restoration Gearsmith
+1 Overgrown Tomb
+1 Scalding Tarn
+1 Anguished Unmaking
+1 Plains
+1 Reflector Mage
+1 Marsh Flats
+1 Dovin's Veto
+1 Dragonlord Atarka
+1 Dragonlord Silumgar
+1 Island
+1 Utter End
+1 Baleful Strix
+1 Brago, King Eternal
+1 Dack's Duplicate
+1 Tishana, Voice of Thunder
+1 Bring to Light
+1 Duplicant
+1 Temple Garden
+1 Arixmethes, Slumbering Isle
+1 Farseek
+1 Verdant Catacombs
+1 Progenitor Mimic
+1 Wood Elves
+1 Arcane Signet
+1 Thassa, Deep-Dwelling
+1 Duergar Hedge-Mage
+1 Chromatic Lantern
+1 Etherium-Horn Sorcerer
+1 Conjurer's Closet
+1 Izzet Chronarch
+1 Commander's Sphere
+1 Fellwar Stone
+1 Bayou
+1 Plateau
+1 Scrubland
+1 Volcanic Island
+1 Eerie Interlude
+1 Forest
+1 Vithian Renegades
+1 Luxury Suite
+1 Exotic Orchard
+1 Taiga
+1 Tundra
+1 Underground Sea
+1 Savannah
+1 Badlands
+1 Mistmeadow Witch
+1 Nature's Lore
+1 Mountain
+1 Bountiful Promenade
+1 Coiling Oracle
+1 Sea of Clouds
+1 Morphic Pool
+1 Breeding Pool
+1 Aura Shards
+1 Bloodstained Mire
+1 Flooded Strand
+1 Polluted Delta
+1 Windswept Heath
+1 Wooded Foothills
+1 Windgrace's Judgment
+1 Meren of Clan Nel Toth
+1 Mirari's Wake
+1 Tropical Island
+1 Three Visits
+1 Terminate
+1 Captain Sisay
+1 Command Tower
+
+1 Niv-Mizzet Reborn
+1 Jegantha, the Wellspring
+

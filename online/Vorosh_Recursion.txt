@@ -1,0 +1,92 @@
+1 Vampiric Tutor
+1 Helm of Possession
+1 Mirri's Guile
+1 Wasteland
+1 Grave Pact
+1 Volrath's Stronghold
+1 Wood Elves
+1 Survival of the Fittest
+1 Phyrexian Tower
+1 Palinchron
+1 Bone Shredder
+1 Malevolent Awakening
+1 Cabal Coffers
+1 Genesis
+1 Riptide Shapeshifter
+1 Polluted Delta
+1 Wooded Foothills
+1 Decree of Pain
+1 Bribery
+1 Reiver Demon
+1 Tooth and Nail
+1 Verdant Confluence
+1 Duplicant
+1 Sword of Light and Shadow
+1 Eternal Witness
+1 Sakura-Tribe Elder
+1 Phyrexian Arena
+1 Golgari Rot Farm
+1 Mulldrifter
+1 Overgrown Tomb
+1 Breeding Pool
+1 Voidslime
+1 Draining Whelk
+1 Mystic Snake
+1 Harmonize
+1 Body Double
+1 Urborg, Tomb of Yawgmoth
+1 Venser, Shaper Savant
+1 Tolaria West
+1 Mosswort Bridge
+1 Primal Command
+1 Shriekmaw
+1 Bitterblossom
+1 Mana Reflection
+1 Woodfall Primus
+1 Reflecting Pool
+1 Glen Elendra Archmage
+1 Mana Crypt
+1 Kederekt Leviathan
+1 Fleshbag Marauder
+1 Reliquary Tower
+1 Demonic Tutor
+1 Maelstrom Pulse
+1 Acidic Slime
+1 Terramorphic Expanse
+1 Watery Grave
+1 Rhystic Study
+1 Putrefy
+1 Simic Growth Chamber
+1 Miren, the Moaning Well
+1 Mana Drain
+1 Skullclamp
+1 Oracle of Mul Daya
+1 Misty Rainforest
+1 Bloodghast
+1 Verdant Catacombs
+1 Expedition Map
+4 Island
+3 Swamp
+6 Forest
+1 Hinder
+1 Bojuka Bog
+1 Terastodon
+1 Creeping Tar Pit
+1 Avenger of Zendikar
+1 Lightning Greaves
+1 Pernicious Deed
+1 Artisan of Kozilek
+1 Recurring Insight
+1 Solemn Simulacrum
+1 Fauna Shaman
+1 Reassembling Skeleton
+1 Sol Ring
+1 Geth, Lord of the Vault
+1 Bayou
+1 Regrowth
+1 Tropical Island
+1 Underground Sea
+1 Maze of Ith
+
+1 Vorosh, the Hunter
+

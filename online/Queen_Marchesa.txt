@@ -1,0 +1,94 @@
+1 Palace Sentinels
+1 Thorn of the Black Rose
+1 Skyline Despot
+1 Throne of the High City
+1 Custodi Lich
+1 Marchesa's Decree
+1 Palace Jailer
+1 Protector of the Crown
+1 Magister of Worth
+1 Royal Assassin
+1 Baird, Steward of Argive
+1 Blind Obedience
+1 Ghostly Prison
+1 Utter End
+1 Kambal, Consul of Allocation
+1 Swords to Plowshares
+1 Mathas, Fiend Seeker
+1 Savai Triome
+1 Assemble the Legion
+1 Teysa, Envoy of Ghosts
+1 Kazuul, Tyrant of the Cliffs
+1 Arcane Signet
+1 Rakdos Signet
+1 Orzhov Signet
+1 Boros Signet
+1 Windborn Muse
+1 Sun Titan
+1 Solemn Simulacrum
+1 Gisela, Blade of Goldnight
+1 Dockside Extortionist
+1 Ruinous Ultimatum
+1 Despark
+1 Anguished Unmaking
+1 Teferi's Protection
+1 Boros Charm
+1 Merciless Eviction
+1 Vandalblast
+1 Blasphemous Act
+1 Phyrexian Arena
+1 Austere Command
+1 Cleansing Nova
+1 Sol Ring
+1 Thaumatic Compass
+1 Smothering Tithe
+1 Sphere of Safety
+1 Stolen Strategy
+1 No Mercy
+1 Lightning Greaves
+1 Swiftfoot Boots
+1 Land Tax
+1 Mind Stone
+1 Hedron Archive
+1 Scrubland
+1 Badlands
+1 Plateau
+1 Arid Mesa
+1 Bloodstained Mire
+1 Command Tower
+1 Orzhov Basilica
+1 Boros Garrison
+4 Plains
+1 Clifftop Retreat
+1 Isolated Chapel
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Godless Shrine
+1 Luxury Suite
+1 Marsh Flats
+1 Blood Crypt
+1 Sacred Foundry
+3 Swamp
+4 Mountain
+1 Fabled Passage
+1 Norn's Annex
+1 Virtus's Maneuver
+1 Lotus Field
+1 Avatar of Woe
+1 Bojuka Bog
+1 Rogue's Passage
+1 Archon of Coronation
+1 Court of Grace
+1 Keeper of the Accord
+1 Court of Ambition
+1 Emberwilde Captain
+1 Court of Ire
+1 Jeska's Will
+1 Spectator Seating
+1 Vault of Champions
+1 Brightclimb Pathway
+1 Needleverge Pathway
+1 Skyclave Relic
+
+1 Queen Marchesa
+

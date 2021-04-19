@@ -1,0 +1,94 @@
+1 Swords to Plowshares
+1 Arcane Signet
+1 Archaeomancer
+1 Arcum's Astrolabe
+1 Arid Mesa
+1 Artful Dodge
+1 Azorius Signet
+1 Sun Titan
+1 Cascading Cataracts
+1 Castle Vantress
+1 Command Beacon
+1 Sol Ring
+1 Crush of Tentacles
+1 Cyclonic Rift
+4 Snow-Covered Plains
+1 Devastation Tide
+1 Dig Through Time
+1 Disallow
+1 Drawn from Dreams
+1 Enlightened Tutor
+1 Expedition Map
+1 Finale of Revelation
+1 Flood of Tears
+6 Snow-Covered Island
+1 Serum Visions
+1 Rhystic Study
+1 Generous Gift
+1 Reliquary Tower
+1 Ponder
+1 Heliod's Intervention
+1 Polluted Delta
+1 Inkmoth Nexus
+1 Irrigated Farmland
+1 Kederekt Leviathan
+1 Mother of Runes
+1 Mana Vault
+1 Lightning Greaves
+1 Mana Drain
+1 Mana Crypt
+1 Land Tax
+1 Merchant Scroll
+1 Mission Briefing
+1 Misty Rainforest
+1 Knight of the White Orchid
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Nimbus Maze
+1 Weathered Wayfarer
+1 Omen of the Sea
+1 Impulse
+1 Hallowed Fountain
+1 Prairie Stream
+1 Preordain
+1 Pull from Tomorrow
+1 Recruiter of the Guard
+1 Glacial Fortress
+1 Frantic Search
+1 Rogue's Passage
+1 Scalding Tarn
+1 Sea of Clouds
+1 Search for Azcanta
+1 Force of Will
+1 Sevinne's Reclamation
+1 Slip Through Space
+1 Smothering Tithe
+1 Snapcaster Mage
+1 Flooded Strand
+1 Darksteel Citadel
+1 Command Tower
+1 Soul-Guide Lantern
+1 Spellseeker
+1 Brainstorm
+1 Supreme Verdict
+1 Swan Song
+1 Adarkar Wastes
+1 Teferi's Response
+1 Temple of Enlightenment
+1 Thassa's Intervention
+1 Time Wipe
+1 Tithe
+1 Tolaria West
+1 Tomik, Distinguished Advokist
+1 Treasure Cruise
+1 Trinket Mage
+1 Unwind
+1 Victory Chimes
+1 View from Above
+1 Hour of Revelation
+1 Whirlwind Denial
+1 Ondu Inversion
+
+1 Noyan Dar, Roil Shaper
+

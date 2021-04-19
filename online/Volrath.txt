@@ -1,0 +1,86 @@
+1 Armorcraft Judge
+1 Ashnod's Altar
+1 Biovisionary
+1 Blighted Agent
+1 Bojuka Bog
+1 Bred for the Hunt
+1 Cephalid Constable
+1 Cold-Eyed Selkie
+1 Swan Song
+1 Devoted Druid
+1 Diabolic Tutor
+5 Swamp
+1 Evolution Sage
+1 Exotic Orchard
+1 Farmstead Gleaner
+1 Sol Ring
+1 Fathom Mage
+1 Fertilid
+1 Finale of Devastation
+1 Find/Finality
+1 Regrowth
+1 Rampant Growth
+1 Gaze of Granite
+1 Generous Patron
+1 Glen Elendra Archmage
+1 Grim Poppet
+1 Gyre Sage
+1 Hadana's Climb
+1 Overgrown Tomb
+1 Incubation Druid
+1 Inkmoth Nexus
+1 Inspiring Call
+1 Negate
+1 Jiang Yanggu, Wildcrafter
+1 Jodah's Avenger
+1 Master Biomancer
+1 Mist-Syndicate Naga
+1 Nacatl War-Pride
+1 Nature's Claim
+1 Nature's Lore
+1 Needle Specter
+6 Island
+1 Neoform
+1 Opulent Palace
+1 Oran-Rief, the Vastwood
+1 Hinterland Harbor
+1 Painful Truths
+1 Phyrexian Scriptures
+1 Pili-Pala
+1 Plaxcaster Frogling
+1 Prime Speaker Zegana
+1 Forgotten Ancient
+1 Ravenous Slime
+8 Forest
+1 Renata, Called to the Hunt
+1 Rishkar, Peema Renegade
+1 Sakura-Tribe Elder
+1 Simic Ascendancy
+1 Farseek
+1 Spawnwrithe
+1 Sultai Charm
+1 Drowned Catacomb
+1 Demonic Tutor
+1 Tetzimoc, Primal Death
+1 Tezzeret's Gambit
+1 The Great Henge
+1 Utopia Sprawl
+1 Viridian Joiner
+1 Wild Growth
+1 Watery Grave
+1 Wickerbough Elder
+1 Breeding Pool
+1 Woodfall Primus
+1 Worldly Tutor
+1 Command Tower
+1 Young Wolf
+1 Bayou
+1 Tropical Island
+1 Underground Sea
+1 Misty Rainforest
+1 Polluted Delta
+1 Verdant Catacombs
+1 Woodland Cemetery
+
+1 Volrath, the Shapestealer
+

@@ -1,0 +1,88 @@
+6 Island
+1 Arcane Signet
+6 Mountain
+1 Izzet Signet
+1 Dimir Signet
+1 Rakdos Signet
+1 Talisman of Creativity
+1 Talisman of Indulgence
+1 Talisman of Dominance
+1 Wayfarer's Bauble
+5 Swamp
+1 Sundial of the Infinite
+1 Discontinuity
+1 Ideas Unbound
+1 Mulldrifter
+1 Broodbirth Viper
+1 Path of Ancestry
+1 Whip of Erebos
+1 Cauldron Dance
+1 Araumi of the Dead Tide
+1 Puppeteer Clique
+1 Macabre Mockery
+1 Gruesome Encore
+1 Identity Thief
+1 Voidwalk
+1 Voyager Staff
+1 Slave of Bolas
+1 Shriekmaw
+1 Ingot Chewer
+1 Mimic Vat
+1 Flamerush Rider
+1 Hate Mirage
+1 Mirror March
+1 Felhide Spiritbinder
+1 Zara, Renegade Recruiter
+1 Ilharg, the Raze-Boar
+1 Rakshasa Debaser
+1 Inferno Titan
+1 Etali, Primal Storm
+1 Noxious Gearhulk
+1 Rune-Scarred Demon
+1 Diluvian Primordial
+1 Lightning Greaves
+1 Swiftfoot Boots
+1 Tribute Mage
+1 Myriad Landscape
+1 Evolving Wilds
+1 Bedevil
+1 Crosis's Charm
+1 Shivan Reef
+1 Feed the Swarm
+1 Rakdos Charm
+1 Vandalblast
+1 Blasphemous Act
+1 Drowned Catacomb
+1 Dragonskull Summit
+1 Sulfur Falls
+1 Forbidden Alchemy
+1 Command Tower
+1 Thirst for Knowledge
+1 Compulsive Research
+1 Thrill of Possibility
+1 Exotic Orchard
+1 Crumbling Necropolis
+1 Fact or Fiction
+1 Windfall
+1 Decree of Pain
+1 Sunken Hollow
+1 Smoldering Marsh
+1 Izzet Boilerworks
+1 Reality Shift
+1 Underground River
+1 Sulfurous Springs
+1 Clearwater Pathway
+1 Riverglide Pathway
+1 Arcane Denial
+1 Terramorphic Expanse
+1 Counterspell
+1 Feldon of the Third Path
+1 Bojuka Bog
+1 Solemn Simulacrum
+1 Fellwar Stone
+1 Sol Ring
+1 Blightstep Pathway
+1 Malakir Rebirth
+
+1 Obeka, Brute Chronologist
+
