@@ -1,0 +1,75 @@
+1 Aetherflux Reservoir
+1 All Is Dust
+1 Yawgmoth's Will
+1 Anvil of Bogardan
+1 Ashnod's Altar
+1 Balthor the Defiled
+1 Beseech the Queen
+1 Vilis, Broker of Blood
+1 Boseiju, Who Shelters All
+1 Vampiric Tutor
+1 Thran Dynamo
+1 Caged Sun
+1 Phyrexian Arena
+1 Syphon Mind
+1 Codex Shredder
+1 Corpse Connoisseur
+1 Crypt Ghast
+1 Damnation
+1 Dark Deal
+1 Dead of Winter
+1 Sol Ring
+1 Disciple of Bolas
+28 Snow-Covered Swamp
+1 Expedition Map
+1 Extraplanar Lens
+1 Gauntlet of Power
+1 Reanimate
+1 Graveborn Muse
+1 Gravecrawler
+1 Promise of Power
+1 Phyrexian Tower
+1 Kokusho, the Evening Star
+1 Krav, the Unredeemed
+1 Liliana's Contract
+1 Phyrexian Altar
+1 Mutilate
+1 Mesmeric Orb
+1 Mikaeus, the Unhallowed
+1 Mind Stone
+1 Mindslicer
+1 Mirage Mirror
+1 Moonlight Bargain
+1 Memory Jar
+1 Nirkana Revenant
+1 Nykthos, Shrine to Nyx
+1 Perpetual Timepiece
+1 Mana Crypt
+1 Living Death
+1 Phyrexian Delver
+1 Jet Medallion
+1 Plague Belcher
+1 Gray Merchant of Asphodel
+1 Razaketh, the Foulblooded
+1 Gilded Lotus
+1 Rune-Scarred Demon
+1 Sensei's Divining Top
+1 Sidisi, Undead Vizier
+1 Entomb
+1 Demonic Tutor
+1 Charcoal Diamond
+1 The Immortal Sun
+1 Thought Vessel
+1 Cabal Coffers
+1 Toxic Deluge
+1 Triskelion
+1 Urborg, Tomb of Yawgmoth
+1 Buried Alive
+1 Bolas's Citadel
+1 Wand of Vertebrae
+1 Xiahou Dun, the One-Eyed
+1 Altar of Dementia
+1 Yawgmoth, Thran Physician
+
+1 Chainer, Dementia Master
+
