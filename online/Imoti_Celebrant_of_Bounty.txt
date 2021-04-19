@@ -6,10 +6,9 @@
 1 Rejuvenating Springs
 1 Three Visits
 1 Arcane Signet
-1 Scroll Rack
-1 Thryx, the Sudden Storm
-1 Gilanra, Caller of Wirewood
-1 Fierce Empath
+1 Reality Shift
+1 Sphinx of the Second Sun
+1 Natural Reclamation
 1 Sakura-Tribe Elder
 1 Rampant Growth
 1 Nature's Lore
@@ -23,7 +22,6 @@
 1 Kodama of the East Tree
 1 Kogla, the Titan Ape
 1 Beanstalk Giant
-1 Shardless Agent
 1 Bane of Progress
 1 Agent of Treachery
 1 Paleoloth
@@ -48,7 +46,6 @@
 1 Terastodon
 1 Reclamation Sage
 1 Eternal Witness
-1 Mulldrifter
 1 Consecrated Sphinx
 1 Phyrexian Ingester
 1 Supreme Will
@@ -58,7 +55,6 @@
 1 Alchemist's Refuge
 1 Ancient Tomb
 1 Dawnglade Regent
-1 Clever Impersonator
 1 Strip Mine
 1 Sol Ring
 1 Command Tower
@@ -75,7 +71,7 @@
 1 Ugin, the Spirit Dragon
 1 Sword of Feast and Famine
 1 Flooded Grove
-1 Wurmcoil Engine
+1 Kenrith's Transformation
 1 Glen Elendra Archmage
 1 Kamahl, Heart of Krosa
 1 Glasspool Mimic
@@ -83,6 +79,10 @@
 1 Mana Crypt
 1 Barkchannel Pathway
 1 Rimewood Falls
+1 Mystic Reflection
+1 Gilded Drake
+1 Uro, Titan of Nature's Wrath
+1 Oko, Thief of Crowns
 
 1 Imoti, Celebrant of Bounty
 
