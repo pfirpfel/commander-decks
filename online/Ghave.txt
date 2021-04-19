@@ -1,0 +1,91 @@
+1 Wasteland
+1 Grave Pact
+1 Volrath's Stronghold
+1 Wood Elves
+1 Gaea's Cradle
+1 Phyrexian Tower
+1 Karmic Guide
+1 Academy Rector
+1 Replenish
+1 Attrition
+1 Skyshroud Claim
+1 Aura Shards
+1 Diabolic Intent
+1 Eladamri's Call
+1 Vindicate
+1 Genesis
+1 Kamahl, Fist of Krosa
+1 Windswept Heath
+1 Decree of Pain
+1 Fecundity
+1 Collective Unconscious
+1 Tooth and Nail
+1 Duplicant
+1 Darksteel Ingot
+1 Eternal Witness
+1 Sensei's Divining Top
+1 Sakura-Tribe Elder
+1 Golgari Guildmage
+1 Selesnya Sanctuary
+1 Chord of Calling
+1 Doubling Season
+1 Twilight Drover
+1 Overgrown Tomb
+1 Temple Garden
+1 Juniper Order Ranger
+1 Wrath of God
+1 Sylvan Library
+1 Austere Command
+1 Seedguide Ash
+1 Reveillark
+1 Fertilid
+1 Idyllic Tutor
+1 Murmuring Bosk
+1 Mana Reflection
+1 Puppeteer Clique
+1 Woodfall Primus
+1 Twilight Mire
+1 Savannah
+1 Necrogenesis
+1 Reliquary Tower
+1 Demonic Tutor
+1 Sigil Captain
+1 Maelstrom Pulse
+1 Acidic Slime
+1 Sunpetal Grove
+1 Yavimaya Elder
+1 Sterling Grove
+1 Mirari's Wake
+1 Bayou
+1 Scrubland
+1 Marsh Flats
+1 Eldrazi Monument
+1 Verdant Catacombs
+3 Swamp
+6 Forest
+5 Plains
+1 Bojuka Bog
+1 Avenger of Zendikar
+1 Awakening Zone
+1 Sol Ring
+1 Ashnod's Altar
+1 Maze of Ith
+1 Martyr's Bond
+1 Command Tower
+1 Hornet Queen
+1 Skullclamp
+1 Solemn Simulacrum
+1 Gavony Township
+1 Isolated Chapel
+1 Woodland Cemetery
+1 Mentor of the Meek
+1 Parallel Lives
+1 Sorin, Lord of Innistrad
+1 Vault of the Archangel
+1 Godless Shrine
+1 Swords to Plowshares
+1 Scavenging Ooze
+1 Phyrexian Arena
+
+1 Ghave, Guru of Spores
+

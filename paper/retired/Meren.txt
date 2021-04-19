@@ -1,0 +1,89 @@
+1 Corpse Augur
+1 Command Beacon
+1 Smothering Abomination
+1 Elvish Visionary
+1 Eternal Witness
+1 Skirsdag High Priest
+1 Avenger of Zendikar
+1 Farhaven Elf
+1 Llanowar Wastes
+1 Wall of Blossoms
+1 Viscera Seer
+1 Mosswort Bridge
+1 Sifter of Skulls
+1 Gaea's Cradle
+1 Verdant Catacombs
+7 Forest
+1 Sylvok Replica
+1 Damnation
+1 Ashnod's Altar
+1 Fleshbag Marauder
+1 Misty Rainforest
+1 Burnished Hart
+1 Grim Backwoods
+1 Grim Haruspex
+1 Satyr Wayfinder
+1 Wood Elves
+1 Demonic Tutor
+1 Grave Titan
+1 Mikaeus, the Unhallowed
+1 Disciple of Bolas
+1 Bloodstained Mire
+1 Woodfall Primus
+1 Dawntreader Elk
+1 Butcher of Malakir
+1 Reclamation Sage
+1 Shriekmaw
+8 Swamp
+1 Birthing Pod
+1 Urborg, Tomb of Yawgmoth
+1 Solemn Simulacrum
+1 Phyrexian Tower
+1 Acidic Slime
+1 Fierce Empath
+1 Woodland Cemetery
+1 Gray Merchant of Asphodel
+1 Yavimaya Dryad
+1 Fertilid
+1 Overgrown Tomb
+1 Dictate of Erebos
+1 Buried Alive
+1 Viridian Emissary
+1 Phyrexian Plaguelord
+1 Caustic Caterpillar
+1 Viridian Zealot
+1 Moriok Replica
+1 Shadowborn Demon
+1 Sidisi, Undead Vizier
+1 Wasteland
+1 Hornet Queen
+1 Bojuka Bog
+1 Jarad, Golgari Lich Lord
+1 Oracle of Mul Daya
+1 Savra, Queen of the Golgari
+1 Kokusho, the Evening Star
+1 Puppeteer Clique
+1 Marsh Flats
+1 Animate Dead
+1 Khalni Garden
+1 Windswept Heath
+1 Sol Ring
+1 Creakwood Liege
+1 Skullclamp
+1 Catacomb Sifter
+1 Sheoldred, Whispering One
+1 Golgari Rot Farm
+1 Tainted Wood
+1 High Market
+1 Temple of Malady
+1 Sakura-Tribe Elder
+1 Victimize
+1 Lightning Greaves
+1 Bayou
+1 Eldrazi Monument
+1 Merciless Executioner
+1 Vulturous Aven
+1 Hell's Caretaker
+
+1 Meren of Clan Nel Toth
+
