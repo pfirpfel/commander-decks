@@ -1,0 +1,95 @@
+1 Academy Ruins
+1 Agent of Treachery
+1 Arcane Lighthouse
+1 Arcane Signet
+1 Atris, Oracle of Half-Truths
+1 Worn Powerstone
+1 Vampiric Tutor
+1 Blue Sun's Zenith
+1 Bojuka Bog
+1 Thran Dynamo
+1 Choked Estuary
+1 Command Beacon
+1 Hostage Taker
+1 Talisman of Dominance
+1 Temple of Deceit
+1 Coveted Jewel
+1 Crystal Shard
+1 Deadeye Navigator
+1 Sol Ring
+4 Swamp
+1 Detection Tower
+1 Dig Through Time
+1 Dimir Aqueduct
+1 Rogue's Passage
+1 Dimir Locket
+1 Dimir Signet
+1 Strip Mine
+1 Dowsing Dagger
+1 Underground Sea
+1 Elbrus, the Binding Blade
+1 Rhystic Study
+1 Concentrate
+1 Reliquary Tower
+1 Fallen Shinobi
+1 Propaganda
+1 Gonti, Lord of Luxury
+1 Helm of the Host
+1 Identity Thief
+1 Ingenious Infiltrator
+1 Ink-Eyes, Servant of Oni
+1 Polluted Delta
+1 Mystic Confluence
+1 Lightning Greaves
+1 No Mercy
+1 Meteor Golem
+1 Mirror Gallery
+1 Morphic Pool
+1 Mulldrifter
+1 Lonely Sandbar
+1 Leyline of Anticipation
+1 Mystic Sanctuary
+1 Ninja of the Deep Hours
+1 Noxious Gearhulk
+5 Island
+1 Portal of Sanctuary
+1 Fellwar Stone
+1 Quietus Spike
+1 Fact or Fiction
+1 Erratic Portal
+1 Rite of Replication
+1 Rune-Scarred Demon
+1 Sakashima the Impostor
+1 Sakashima's Student
+1 Sanctum of Eternity
+1 Drowned Catacomb
+1 Secrets of the Golden City
+1 Shadowmage Infiltrator
+1 Shadowspear
+1 Sidisi, Undead Vizier
+1 Silent-Blade Oni
+1 Solemn Simulacrum
+1 Spark Double
+1 Strionic Resonator
+1 Urborg, Tomb of Yawgmoth
+1 Thief of Sanity
+1 Sunken Hollow
+1 Demonic Tutor
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Decree of Pain
+1 Counterspell
+1 Command Tower
+1 Thespian's Stage
+1 Capsize
+1 Underground River
+1 Barren Moor
+1 Sunken Ruins
+1 Watery Grave
+1 Wayfarer's Bauble
+1 Baleful Strix
+1 Fetid Pools
+1 Clearwater Pathway
+
+1 Etrata, the Silencer
+
