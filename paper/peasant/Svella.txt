@@ -26,17 +26,16 @@
 1 Conclave Naturalists
 1 Elemental Bond
 1 Savage Ventmaw
-1 Temur Sabertooth
+1 Pheres-Band Brawler
 1 Rugged Highlands
 1 Halana, Kessig Ranger
 1 Flametongue Kavu
 1 Rampant Growth
 1 Kazandu Refuge
 1 Great Oak Guardian
-1 Scab-Clan Giant
+1 Spitebellows
 1 Street Spasm
 1 Pelakka Wurm
-1 Roaring Primadox
 1 Sol Ring
 1 Rapacious One
 1 Cultivate
@@ -68,7 +67,6 @@
 1 Lightning Greaves
 1 Swiftfoot Boots
 1 Quest for Renewal
-1 Archetype of Endurance
 1 Blighted Woodland
 1 Garruk's Packleader
 1 Wickerbough Elder
@@ -76,6 +74,8 @@
 1 Wild Growth
 1 Meteor Blast
 1 Llanowar Elves
+1 Skullclamp
+1 Loxodon Warhammer
 
 1 Svella, Ice Shaper
 
