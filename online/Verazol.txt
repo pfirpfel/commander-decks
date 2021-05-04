@@ -1,89 +1,88 @@
-1 Yavimaya Coast
+1 Arctic Merfolk
 1 Bala Ged Recovery
-1 Strip Mine
+1 Bane of Progress
+1 Beast Within
 1 Blink of an Eye
-1 Citanul Woodreaders
-1 Coralhelm Chronicler
-1 Three Visits
-1 Elfhame Druid
+1 Breeding Pool
 1 Castle Garenbrig
+1 Castle Vantress
+1 Citanul Woodreaders
+1 Command Tower
+1 Coralhelm Chronicler
+1 Cultivate
+1 Cyclonic Rift
+1 Elfhame Druid
+1 Everflowing Chalice
+1 Fabled Passage
 1 Farseek
 1 Fathom Mage
-1 Castle Vantress
 1 Field Research
-1 Hinterland Harbor
-1 Praetor's Counsel
-1 Tropical Island
+1 Fierce Guardianship
+1 Flooded Grove
+8 Forest
+1 Forgotten Ancient
+1 Gnarlid Colony
 1 Grow from the Ashes
+1 Gyre Sage
+1 Hadana's Climb
+1 Heroic Intervention
+1 Hinterland Harbor
 1 Hunter's Insight
+1 Hunting Wilds
 1 Increasing Savagery
 1 Incubation Druid
 1 Inscription of Abundance
 1 Inscription of Insight
-1 Kodama's Reach
-1 Sol Ring
-7 Island
-1 Flooded Grove
+1 Inspiring Call
 1 Into the Roil
-1 Kenrith's Transformation
-1 Beast Within
+7 Island
 1 Karn's Bastion
+1 Kenrith's Transformation
+1 Kodama's Reach
+1 Master Biomancer
+1 Misty Rainforest
 1 Mold Shambler
 1 Murasa Sproutling
 1 Myriad Construct
+1 Mystic Sanctuary
 1 Nature's Claim
-1 Inspiring Call
-1 Breeding Pool
+1 Nature's Lore
 1 Oran-Rief, the Vastwood
 1 Ordeal of Nylea
 1 Ordeal of Thassa
-1 Arctic Merfolk
+1 Pir, Imaginative Rascal
+1 Praetor's Counsel
 1 Primal Growth
-1 Forgotten Ancient
+1 Prime Speaker Zegana
+1 Rejuvenating Springs
+1 Reliquary Tower
 1 Rishkar, Peema Renegade
 1 Rite of Replication
 1 Rogue's Passage
 1 Roost of Drakes
-1 Misty Rainforest
 1 Scavenger Grounds
-8 Forest
-1 Mystic Sanctuary
+1 Sea Gate Restoration
 1 Simic Growth Chamber
-1 Reliquary Tower
-1 Cyclonic Rift
 1 Skyclave Relic
 1 Slinn Voda, the Rising Deep
+1 Sol Ring
 1 Sphinx of Lost Truths
 1 Strength of the Tajuru
-1 Sea Gate Restoration
-1 Cultivate
+1 Strip Mine
+1 Tazeem Roilmage
 1 Territorial Allosaurus
 1 Thicket Elemental
 1 Thieving Skydiver
-1 Command Tower
+1 Three Visits
 1 Throne of Makindi
+1 Toothy, Imaginary Friend
+1 Tropical Island
+1 Turntimber Symbiosis
 1 Twinning Staff
 1 Urban Evolution
 1 Vastwood Surge
-1 Tazeem Roilmage
-1 Fabled Passage
-1 Heroic Intervention
-1 Wolfbriar Elemental
-1 Nature's Lore
-1 Hadana's Climb
 1 Verdeloth the Ancient
-1 Hunting Wilds
-1 Everflowing Chalice
-1 Pir, Imaginative Rascal
-1 Toothy, Imaginary Friend
-1 Master Biomancer
-1 Bane of Progress
-1 Gyre Sage
-1 Prime Speaker Zegana
-1 Fierce Guardianship
-1 Gnarlid Colony
-1 Turntimber Symbiosis
-1 Rejuvenating Springs
+1 Wolfbriar Elemental
+1 Yavimaya Coast
 
 1 Verazol, the Split Current
-

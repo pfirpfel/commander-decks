@@ -2,15 +2,16 @@
 1 Blood Artist
 1 Bojuka Bog
 1 Burnished Hart
-29 Swamp
+1 Cabal Coffers
 1 Caged Sun
 1 Corpse Augur
 1 Crypt Ghast
 1 Crypt of Agadeem
+1 Decree of Pain
 1 Deserted Temple
 1 Dictate of Erebos
 1 Disciple of Bolas
-1 Strip Mine
+1 Dregs of Sorrow
 1 Duplicant
 1 Endless Cockroaches
 1 Erebos, God of the Dead
@@ -24,8 +25,8 @@
 1 Go for the Throat
 1 God-Pharaoh's Gift
 1 Gonti, Lord of Luxury
-1 Sol Ring
-1 Skullclamp
+1 Grave Pact
+1 Gray Merchant of Asphodel
 1 Grim Haruspex
 1 Harvester of Souls
 1 Hedron Archive
@@ -33,11 +34,11 @@
 1 Kokusho, the Evening Star
 1 Magus of the Coffers
 1 Malicious Affliction
-1 Sheoldred, Whispering One
-1 Reliquary Tower
+1 Mana Crypt
+1 Mana Vault
 1 Mimic Vat
-1 Reassembling Skeleton
-1 Promise of Power
+1 Mindslicer
+1 Mutilate
 1 Necromantic Selection
 1 Nim Deathmantle
 1 Noxious Gearhulk
@@ -45,30 +46,28 @@
 1 Palace Siege
 1 Phyrexian Reclamation
 1 Profane Command
-1 Mutilate
+1 Promise of Power
 1 Puppeteer Clique
 1 Razaketh's Rite
-1 Mindslicer
-1 Mana Vault
+1 Reassembling Skeleton
+1 Reliquary Tower
 1 Rune-Scarred Demon
 1 Scuttling Doom Engine
 1 Shadowborn Demon
-1 Mana Crypt
+1 Sheoldred, Whispering One
 1 Shriekmaw
-1 Gray Merchant of Asphodel
+1 Skullclamp
+1 Sol Ring
 1 Solemn Simulacrum
 1 Soul of Innistrad
-1 Dregs of Sorrow
-1 Decree of Pain
-1 Cabal Coffers
+1 Strip Mine
+29 Swamp
+1 Temple of the False God
 1 Torment of Hailfire
 1 Tragic Slip
 1 Underworld Connections
 1 Urborg, Tomb of Yawgmoth
 1 Whip of Erebos
 1 Zulaport Cutthroat
-1 Temple of the False God
-1 Grave Pact
 
 1 Razaketh, the Foulblooded
-

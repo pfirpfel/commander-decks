@@ -1,88 +1,87 @@
-1 Enlightened Tutor
-1 Aura of Silence
-1 Mirri's Guile
-1 Propaganda
-1 Awakening
-1 Burgeoning
+1 Abundance
+1 Act of Authority
 1 Argothian Enchantress
-1 Serra's Sanctum
-1 Fertile Ground
-1 Energy Field
-1 Exploration
-1 Crop Rotation
-1 Restock
-1 Temple of Plenty
-1 Hanna, Ship's Navigator
-1 Deserted Temple
-1 Petrified Field
-1 Karmic Justice
-1 Solitary Confinement
-1 Genesis
-1 Future Sight
-1 Enchantress's Presence
-1 Flooded Strand
-1 Windswept Heath
-1 Planar Portal
-1 Verduran Enchantress
-1 Eternal Witness
-1 Ghostly Prison
-1 Faith's Fetters
-1 Privileged Position
+1 Aura of Silence
+1 Awakening
+1 Breeding Pool
+1 Burgeoning
+1 Celestial Colonnade
+1 Command Tower
 1 Copy Enchantment
-1 Tropical Island
+1 Crop Rotation
+1 Deserted Temple
+1 Dovescape
 1 Dowsing Shaman
+1 Enchantress's Presence
+1 Energy Field
+1 Enlightened Tutor
+1 Eternal Witness
+1 Exploration
+1 Faith's Fetters
+1 Fertile Ground
+1 Flooded Strand
+6 Forest
+1 Future Sight
+1 Genesis
+1 Genesis Wave
+1 Ghostly Prison
+1 Greater Auramancy
+1 Hallowed Fountain
+1 Hanna, Ship's Navigator
+1 Idyllic Tutor
+5 Island
+1 Karmic Justice
+1 Land Tax
+1 Leyline of Anticipation
+1 Leyline of Sanctity
+1 Luminarch Ascension
+1 Mana Crypt
+1 Mana Reflection
+1 Mesa Enchantress
+1 Mirari's Wake
+1 Mirri's Guile
+1 Mistveil Plains
+1 Misty Rainforest
+1 Moat
+1 Mystic Remora
+1 Mystical Tutor
+1 Mystifying Maze
+1 Oblivion Ring
+1 Open the Vaults
+1 Oracle of Mul Daya
+1 Petrified Field
+6 Plains
+1 Planar Portal
+1 Privileged Position
+1 Propaganda
+1 Reliquary Tower
+1 Restock
+1 Rhystic Study
+1 Rite of Replication
+1 Runed Halo
+1 Savannah
+1 Seal of Cleansing
+1 Seal of Primordium
+1 Seedborn Muse
+1 Serra's Sanctum
+1 Sigil of the Empty Throne
+1 Sol Ring
+1 Solitary Confinement
+1 Spitting Image
+1 Sterling Grove
+1 Stirring Wildwood
+1 Sylvan Library
+1 Take Possession
 1 Temple Garden
 1 Temple of Enlightenment
-1 Breeding Pool
-1 Dovescape
-1 Seal of Primordium
-1 Tolaria West
-1 Take Possession
-1 Abundance
-1 Seedborn Muse
-1 Sylvan Library
-1 Mystic Remora
-1 Moat
-1 Idyllic Tutor
-1 Mistveil Plains
-1 Wheel of Sun and Moon
-1 Mana Reflection
-1 Greater Auramancy
-1 Runed Halo
-1 Spitting Image
-1 Savannah
-1 Tundra
-1 Mana Crypt
-1 Oblivion Ring
-1 Sigil of the Empty Throne
-1 Reliquary Tower
-1 Wargate
-1 Mesa Enchantress
-1 Open the Vaults
-1 Seal of Cleansing
-1 Rhystic Study
-1 Sterling Grove
-1 Mirari's Wake
-1 Hallowed Fountain
-1 Act of Authority
-1 Command Tower
-1 Land Tax
-1 Mystical Tutor
-1 Oracle of Mul Daya
-1 Misty Rainforest
-1 Rite of Replication
-1 Luminarch Ascension
-5 Island
-6 Forest
-6 Plains
-1 Celestial Colonnade
-1 Stirring Wildwood
-1 Mystifying Maze
-1 Leyline of Sanctity
-1 Leyline of Anticipation
-1 Sol Ring
-1 Genesis Wave
+1 Temple of Plenty
 1 Time Spiral
+1 Tolaria West
+1 Tropical Island
+1 Tundra
+1 Verduran Enchantress
+1 Wargate
+1 Wheel of Sun and Moon
+1 Windswept Heath
 
 1 Treva, the Renewer
-

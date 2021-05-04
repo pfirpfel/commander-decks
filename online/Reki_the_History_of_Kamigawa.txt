@@ -1,78 +1,77 @@
+1 Akroma's Memorial
+1 Ancient Tomb
 1 Azusa, Lost but Seeking
-1 Dosan the Falling Leaf
-1 Ghalta, Primal Hunger
-1 God-Eternal Rhonas
-1 Sword of the Animist
-1 Kamahl, Fist of Krosa
-1 Marwyn, the Nurturer
-1 Multani, Yavimaya's Avatar
-1 Nissa, Vastwood Seer
-1 Nylea, Keen-Eyed
-1 Oviya Pashiri, Sage Lifecrafter
-1 Polukranos, World Eater
-1 Three Visits
-1 Rhonas the Indomitable
-1 Rishkar, Peema Renegade
-1 Strip Mine
-1 Selvala, Heart of the Wilds
-1 Surrak, the Hunt Caller
-1 Thrun, the Last Troll
-1 Traxos, Scourge of Kroog
-1 Yeva, Nature's Herald
-1 Yorvo, Lord of Garenbrig
+1 Bala Ged Recovery
 1 Beast Within
-25 Snow-Covered Forest
-1 Return of the Wildspeaker
-1 Unravel the Aether
+1 Caged Sun
+1 Castle Garenbrig
+1 Dosan the Falling Leaf
+1 Dust Bowl
+1 Emerald Medallion
+1 Extraplanar Lens
 1 Finale of Devastation
+1 Force of Vigor
+1 Garruk Wildspeaker
 1 Genesis Wave
-1 Into the North
-1 Kamahl's Druidic Vow
-1 Nature's Lore
-1 Reliquary Tower
-1 Rishkar's Expertise
+1 Ghalta, Primal Hunger
+1 Glissa Sunseeker
+1 God-Eternal Rhonas
 1 Growing Rites of Itlimoc
 1 Guardian Project
-1 Kenrith's Transformation
-1 Mana Reflection
-1 Nylea, God of the Hunt
-1 Oath of Nissa
-1 Song of the Dryads
-1 Homeward Path
-1 Nyx Lotus
-1 Castle Garenbrig
-1 Dust Bowl
-1 Shadowspear
-1 Caged Sun
-1 Ancient Tomb
-1 Extraplanar Lens
 1 Heroes' Podium
-1 Lightning Greaves
-1 Mox Amber
-1 Vivien, Champion of the Wilds
-1 Rhonas's Monument
-1 Garruk Wildspeaker
-1 The Great Henge
-1 Glissa Sunseeker
-1 Sol Ring
-1 Nissa, Who Shakes the World
-1 Emerald Medallion
-1 Akroma's Memorial
-1 Sylvan Library
-1 Nykthos, Shrine to Nyx
-1 Rampant Growth
-1 Scavenger Grounds
 1 Heroic Intervention
-1 Untaidake, the Cloud Keeper
-1 Yavimaya Hollow
-1 Wild Growth
-1 Vernal Bloom
-1 Force of Vigor
-1 Bala Ged Recovery
-1 Utopia Sprawl
-1 Kolvori, God of Kinship
-1 Kodama of the East Tree
+1 Homeward Path
+1 Into the North
+1 Kamahl's Druidic Vow
+1 Kamahl, Fist of Krosa
 1 Kamahl, Heart of Krosa
+1 Kenrith's Transformation
+1 Kodama of the East Tree
+1 Kolvori, God of Kinship
+1 Lightning Greaves
+1 Mana Reflection
+1 Marwyn, the Nurturer
+1 Mox Amber
+1 Multani, Yavimaya's Avatar
+1 Nature's Lore
+1 Nissa, Vastwood Seer
+1 Nissa, Who Shakes the World
+1 Nykthos, Shrine to Nyx
+1 Nylea, God of the Hunt
+1 Nylea, Keen-Eyed
+1 Nyx Lotus
+1 Oath of Nissa
+1 Oviya Pashiri, Sage Lifecrafter
+1 Polukranos, World Eater
+1 Rampant Growth
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rhonas the Indomitable
+1 Rhonas's Monument
+1 Rishkar's Expertise
+1 Rishkar, Peema Renegade
+1 Scavenger Grounds
+1 Selvala, Heart of the Wilds
+1 Shadowspear
+25 Snow-Covered Forest
+1 Sol Ring
+1 Song of the Dryads
+1 Strip Mine
+1 Surrak, the Hunt Caller
+1 Sword of the Animist
+1 Sylvan Library
+1 The Great Henge
+1 Three Visits
+1 Thrun, the Last Troll
+1 Traxos, Scourge of Kroog
+1 Unravel the Aether
+1 Untaidake, the Cloud Keeper
+1 Utopia Sprawl
+1 Vernal Bloom
+1 Vivien, Champion of the Wilds
+1 Wild Growth
+1 Yavimaya Hollow
+1 Yeva, Nature's Herald
+1 Yorvo, Lord of Garenbrig
 
 1 Reki, the History of Kamigawa
-

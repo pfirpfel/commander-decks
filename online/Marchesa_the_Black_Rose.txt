@@ -1,97 +1,96 @@
-1 Demonic Tutor
-1 Grim Haruspex
-1 Flayer of the Hatebound
-1 Zara, Renegade Recruiter
-1 Baleful Strix
-1 Noxious Gearhulk
-1 Phyrexian Metamorph
-1 Puppeteer Clique
-1 Urborg, Tomb of Yawgmoth
-1 Gonti, Lord of Luxury
-1 Luxury Suite
-1 Bojuka Bog
-1 Vandalblast
-1 Cyclonic Rift
-1 Glen Elendra Archmage
-1 Sol Ring
-1 Rakdos Signet
-1 Attrition
-1 Izzet Signet
-1 Clearwater Pathway
-1 Stalking Vengeance
-1 Burnished Hart
-1 Drana, Liberator of Malakir
-1 Unspeakable Symbol
-1 Solemn Simulacrum
-1 Dominus of Fealty
-1 Mass Mutiny
-1 Captivating Crew
-1 Mark of Mutiny
-1 Dack's Duplicate
-1 Dictate of Erebos
-1 Threaten
-1 Training Center
-1 Mikaeus, the Unhallowed
-1 Grimgrin, Corpse-Born
-1 Oona's Blackguard
-1 Pyreheart Wolf
-1 Spawning Pit
-1 Sidisi, Undead Vizier
-1 Ogre Battledriver
-1 Phyrexian Tower
-1 Phyrexian Reclamation
-1 Lightning Greaves
-1 Morphic Pool
-1 Phyrexian Arena
-1 Drowned Catacomb
-1 Blood Crypt
-1 Badlands
-3 Island
-2 Swamp
-1 Volcanic Island
-1 Sulfur Falls
-1 Steam Vents
-1 Bloodstained Mire
-1 Scalding Tarn
-3 Mountain
-1 Izzet Boilerworks
-1 Dragonskull Summit
-1 Vampiric Rites
-1 Watery Grave
-1 Underground Sea
-1 Command Tower
-1 Opal Palace
-1 Polluted Delta
-1 Night's Whisper
-1 Sunken Hollow
-1 Goblin Bombardment
-1 Culling Dais
-1 Molten Primordial
-1 Nevermaker
-1 Mulldrifter
-1 High Market
-1 Smoldering Marsh
-1 Damnation
-1 Grave Betrayal
-1 Urabrask the Hidden
-1 Talisman of Dominance
-1 Glasspool Mimic
-1 Riverglide Pathway
-1 Malakir Rebirth
-1 Sea Gate Restoration
 1 Arcane Signet
-1 Kazuul's Fury
-1 Dockside Extortionist
-1 Phyrexian Delver
-1 Syr Konrad, the Grim
+1 Attrition
+1 Badlands
+1 Baleful Strix
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Burnished Hart
+1 Captivating Crew
+1 Clearwater Pathway
+1 Command Tower
+1 Culling Dais
+1 Cyclonic Rift
+1 Dack's Duplicate
+1 Damnation
 1 Demon's Disciple
-1 Song-Mad Treachery
-1 Toxic Deluge
-1 Plaguecrafter
-1 Watcher for Tomorrow
+1 Demonic Tutor
+1 Dictate of Erebos
+1 Dockside Extortionist
+1 Dominus of Fealty
+1 Dragonskull Summit
+1 Drana, Liberator of Malakir
+1 Drowned Catacomb
+1 Flayer of the Hatebound
+1 Glasspool Mimic
+1 Glen Elendra Archmage
+1 Goblin Bombardment
+1 Gonti, Lord of Luxury
+1 Grave Betrayal
+1 Grim Haruspex
+1 Grimgrin, Corpse-Born
+1 High Market
+3 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Kazuul's Fury
 1 Krav, the Unredeemed
+1 Lightning Greaves
+1 Luxury Suite
+1 Malakir Rebirth
+1 Mark of Mutiny
+1 Mass Mutiny
+1 Mikaeus, the Unhallowed
+1 Molten Primordial
+1 Morphic Pool
+3 Mountain
+1 Mulldrifter
+1 Nevermaker
+1 Night's Whisper
+1 Noxious Gearhulk
+1 Ogre Battledriver
+1 Oona's Blackguard
+1 Opal Palace
+1 Phyrexian Arena
+1 Phyrexian Delver
+1 Phyrexian Metamorph
+1 Phyrexian Reclamation
+1 Phyrexian Tower
+1 Plaguecrafter
+1 Polluted Delta
+1 Puppeteer Clique
+1 Pyreheart Wolf
+1 Rakdos Signet
+1 Riverglide Pathway
+1 Scalding Tarn
+1 Sea Gate Restoration
+1 Sidisi, Undead Vizier
+1 Smoldering Marsh
+1 Sol Ring
+1 Solemn Simulacrum
+1 Song-Mad Treachery
+1 Spawning Pit
+1 Stalking Vengeance
+1 Steam Vents
+1 Sulfur Falls
+1 Sunken Hollow
+2 Swamp
+1 Syr Konrad, the Grim
 1 Talisman of Creativity
+1 Talisman of Dominance
 1 Talisman of Indulgence
+1 Threaten
+1 Toxic Deluge
+1 Training Center
+1 Underground Sea
+1 Unspeakable Symbol
+1 Urabrask the Hidden
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Rites
+1 Vandalblast
+1 Volcanic Island
+1 Watcher for Tomorrow
+1 Watery Grave
+1 Zara, Renegade Recruiter
 
 1 Marchesa, the Black Rose
-

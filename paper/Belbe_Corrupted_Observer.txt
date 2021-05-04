@@ -1,86 +1,85 @@
-1 Court of Ambition
-1 Deathrite Shaman
-1 Mardu Shadowspear
-1 Vicious Conquistador
-1 Pulse Tracker
-1 Night Market Lookout
-1 Loyal Subordinate
-1 Sanctum of Stone Fangs
-1 Retreat to Hagra
-1 Ill-Gotten Inheritance
-1 Castle Locthwain
-1 Palace Siege
-1 Sol Ring
-1 Sakura-Tribe Elder
-1 Talisman of Resilience
-1 Golgari Signet
+1 Apex Devastator
 1 Arcane Signet
-1 Skyclave Relic
-1 Cryptolith Fragment
+1 Assassin's Trophy
+1 Bala Ged Recovery
+1 Bayou
 1 Beanstalk Giant
-1 Solemn Simulacrum
-1 Gilded Lotus
-1 Dreamstone Hedron
-1 Zendikar Resurgent
-1 Tectonic Edge
-1 Woodland Cemetery
-1 Bojuka Bog
-1 Mana Confluence
-1 Llanowar Wastes
-1 Undergrowth Stadium
+1 Beast Within
 1 Blooming Marsh
+1 Bojuka Bog
+1 Castle Locthwain
+1 Command Tower
+1 Court of Ambition
+1 Cryptolith Fragment
+1 Darkbore Pathway
+1 Deathrite Shaman
+1 Decree of Pain
+1 Demonic Tutor
+1 Demonlord Belzenlok
+1 Dreamstone Hedron
+10 Forest
+1 Gilded Lotus
+1 Golgari Signet
+1 Guardian Project
+1 Hagra Mauling
+1 Heroic Intervention
+1 Ill-Gotten Inheritance
+1 In Garruk's Wake
+1 Kogla, the Titan Ape
+1 Leechridden Swamp
+1 Llanowar Wastes
+1 Loyal Subordinate
+1 Mana Confluence
+1 Mana Reflection
+1 Mardu Shadowspear
+1 Mind Stone
+1 Nature's Lore
+1 Night Market Lookout
+1 Nissa's Revelation
+1 Noxious Gearhulk
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Palace Siege
+1 Plague Wind
+1 Prismatic Vista
+1 Pulse Tracker
+1 Putrefy
+1 Rakshasa Debaser
+1 Rankle, Master of Pranks
+1 Retreat to Hagra
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Rune-Scarred Demon
+1 Sakura-Tribe Elder
+1 Sanctum of Stone Fangs
+1 Sandstone Oracle
+1 Sandwurm Convergence
+1 Shepherd of Rot
+1 Skyclave Relic
+1 Sol Ring
+1 Solemn Simulacrum
+1 Staff of Nin
+1 Steel Hellkite
+8 Swamp
+1 Talisman of Resilience
+1 Tectonic Edge
+1 Terastodon
+1 The Great Henge
+1 The Immortal Sun
+1 Tireless Tracker
+1 Turntimber Symbiosis
 1 Twilight Mire
 1 Twilight Prophet
-1 Overgrown Tomb
-1 Verdant Catacombs
-1 Bayou
-1 Command Tower
-1 Nurturing Peatland
-1 Prismatic Vista
-1 Hagra Mauling
-1 Bala Ged Recovery
-1 Leechridden Swamp
-1 Assassin's Trophy
-8 Swamp
-10 Forest
-1 Putrefy
-1 Beast Within
-1 Heroic Intervention
-1 Wurmcoil Engine
-1 Rakshasa Debaser
-1 World Breaker
-1 Ulamog, the Ceaseless Hunger
-1 Sandstone Oracle
-1 Terastodon
 1 Ugin, the Ineffable
-1 The Immortal Sun
-1 Decree of Pain
-1 Plague Wind
-1 Sandwurm Convergence
-1 In Garruk's Wake
-1 Mana Reflection
-1 Shepherd of Rot
-1 Rankle, Master of Pranks
-1 Yawgmoth's Vile Offering
-1 Staff of Nin
-1 Turntimber Symbiosis
-1 Return of the Wildspeaker
-1 Mind Stone
-1 Tireless Tracker
-1 Steel Hellkite
-1 Guardian Project
+1 Ulamog, the Ceaseless Hunger
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Vicious Conquistador
 1 Voracious Hydra
-1 Nissa's Revelation
-1 Apex Devastator
-1 Rune-Scarred Demon
-1 Demonic Tutor
-1 Noxious Gearhulk
-1 The Great Henge
-1 Rishkar's Expertise
-1 Demonlord Belzenlok
-1 Kogla, the Titan Ape
-1 Nature's Lore
-1 Darkbore Pathway
+1 Woodland Cemetery
+1 World Breaker
+1 Wurmcoil Engine
+1 Yawgmoth's Vile Offering
+1 Zendikar Resurgent
 
 1 Belbe, Corrupted Observer
-

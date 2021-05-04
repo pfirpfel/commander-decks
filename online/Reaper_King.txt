@@ -1,102 +1,101 @@
-1 Vampiric Tutor
-1 Wasteland
 1 Academy Rector
-1 Collective Restraint
-1 Allied Strategies
-1 Vindicate
-1 Krosan Verge
-1 Weathered Wayfarer
-1 Riptide Replicator
-1 Flooded Strand
-1 Polluted Delta
-1 Bloodstained Mire
-1 Wooded Foothills
-1 Windswept Heath
-1 Decree of Pain
-1 Tooth and Nail
-1 Gilded Lotus
-1 Mind's Eye
-1 Duplicant
-1 Darksteel Ingot
 1 All Suns' Dawn
-1 Trinket Mage
-1 Eternal Witness
-1 Bringer of the Blue Dawn
-1 Bringer of the Black Dawn
-1 Watery Grave
-1 Overgrown Tomb
-1 Temple Garden
-1 Steam Vents
-1 Godless Shrine
-1 Hallowed Fountain
-1 Breeding Pool
-1 Damnation
-1 Spin into Myth
-1 Crucible of Worlds
-1 Sylvan Library
+1 Allied Strategies
 1 Arcane Denial
-1 Cairn Wanderer
-1 Shapesharer
-1 Austere Command
-1 Mirror Entity
-1 Taurean Mauler
-1 Scuttlemutt
-1 Grim Poppet
-1 Mana Reflection
-1 Pili-Pala
-1 Reflecting Pool
-1 Hallowed Burial
-1 Scarecrone
-1 Bant Charm
-1 Relic of Progenitus
-1 Swords to Plowshares
-1 Fact or Fiction
-1 Shard Convergence
-1 Ethersworn Adjudicator
-1 Maelstrom Archangel
-1 Nicol Bolas, Planeswalker
-1 Reliquary Tower
-1 Demonic Tutor
-1 Wargate
-1 Rhystic Study
-1 Mirari's Wake
-1 Sensei's Divining Top
 1 Arid Mesa
-1 Oracle of Mul Daya
-1 Scalding Tarn
-1 Misty Rainforest
-1 Marsh Flats
-1 Verdant Catacombs
-1 Rite of Replication
-1 Island
-1 Swamp
-1 Forest
-1 Mountain
-1 Plains
-1 Hinder
-1 Bojuka Bog
-1 Path to Exile
-1 Linvala, Keeper of Silence
-1 Verdant Confluence
-1 Sol Ring
+1 Austere Command
 1 Badlands
+1 Bant Charm
 1 Bayou
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Breeding Pool
+1 Bringer of the Black Dawn
+1 Bringer of the Blue Dawn
+1 Cairn Wanderer
+1 Collective Restraint
+1 Command Tower
+1 Consecrated Sphinx
+1 Crucible of Worlds
+1 Damnation
+1 Darksteel Ingot
+1 Decree of Pain
+1 Demonic Tutor
+1 Duplicant
+1 Eternal Witness
+1 Ethersworn Adjudicator
+1 Fact or Fiction
+1 Flooded Strand
+1 Forest
+1 Gilded Lotus
+1 Godless Shrine
+1 Grim Poppet
+1 Hallowed Burial
+1 Hallowed Fountain
+1 Hinder
+1 Island
+1 Karn Liberated
+1 Krosan Verge
+1 Linvala, Keeper of Silence
+1 Maelstrom Archangel
+1 Mana Reflection
+1 Marsh Flats
+1 Maze of Ith
+1 Mind's Eye
+1 Mirari's Wake
+1 Mirror Entity
+1 Misty Rainforest
+1 Mountain
+1 Nicol Bolas, Planeswalker
+1 Oracle of Mul Daya
+1 Overgrown Tomb
+1 Path to Exile
+1 Phyrexian Metamorph
+1 Pili-Pala
+1 Plains
 1 Plateau
+1 Polluted Delta
+1 Propaganda
+1 Reflecting Pool
 1 Regrowth
+1 Relic of Progenitus
+1 Reliquary Tower
+1 Rhystic Study
+1 Riptide Replicator
+1 Rite of Replication
 1 Savannah
+1 Scalding Tarn
+1 Scarecrone
 1 Scrubland
+1 Scuttlemutt
+1 Sensei's Divining Top
+1 Shapesharer
+1 Shard Convergence
+1 Sol Ring
+1 Spell Crumple
+1 Spin into Myth
+1 Steam Vents
+1 Swamp
+1 Swords to Plowshares
+1 Sylvan Library
 1 Taiga
+1 Taurean Mauler
+1 Temple Garden
+1 Tooth and Nail
+1 Trinket Mage
 1 Tropical Island
 1 Tundra
 1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Verdant Confluence
+1 Vindicate
 1 Volcanic Island
-1 Maze of Ith
-1 Consecrated Sphinx
-1 Karn Liberated
-1 Phyrexian Metamorph
-1 Propaganda
-1 Command Tower
-1 Spell Crumple
+1 Wargate
+1 Wasteland
+1 Watery Grave
+1 Weathered Wayfarer
+1 Windswept Heath
+1 Wooded Foothills
 
 1 Reaper King
-

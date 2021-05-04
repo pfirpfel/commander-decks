@@ -1,91 +1,90 @@
-1 Dwarven Miner
-1 Vampiric Tutor
-1 Coffin Queen
-1 Puppet Strings
-1 Goblin Bombardment
-1 Volrath's Stronghold
-1 Intrepid Hero
-1 Mother of Runes
-1 Phyrexian Reclamation
-1 Viashino Heretic
-1 Tsabo Tavoc
-1 Weathered Wayfarer
-1 Dwarven Blastminer
-1 Bloodstained Mire
-1 Visara the Dreadful
-1 Graveborn Muse
-1 Mind's Eye
-1 Loxodon Warhammer
-1 Darksteel Ingot
-1 Sword of Fire and Ice
-1 Sword of Light and Shadow
-1 Kiki-Jiki, Mirror Breaker
-1 Phyrexian Arena
-1 Oathsworn Giant
-1 Razia, Boros Archangel
-1 Sunhome, Fortress of the Legion
-1 Sacred Foundry
 1 Adarkar Valkyrie
-1 Return to Dust
-1 Mangara of Corondor
-1 Withered Wretch
-1 Damnation
-1 Akroma's Memorial
-1 Wrath of God
-1 Thawing Glaciers
-1 Thousand-Year Elixir
-1 Spinerock Knoll
-1 Rings of Brighthearth
 1 Ajani Goldmane
+1 Akroma's Memorial
+1 Anger
+1 Animate Dead
+1 Arid Mesa
+1 Armillary Sphere
 1 Austere Command
-1 Stonehewer Giant
-1 Thornbite Staff
-1 Graven Cairns
-1 Rugged Prairie
-1 Fetid Heath
-1 Mana Crypt
-1 Vein Drinker
-1 Swords to Plowshares
-1 Reliquary Tower
+1 Avatar of Woe
+1 Badlands
+1 Blood Crypt
+1 Bloodgift Demon
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Clifftop Retreat
+1 Coffin Queen
+1 Command Tower
+1 Damnation
+1 Darksteel Ingot
 1 Demonic Tutor
 1 Dragonskull Summit
-1 Royal Assassin
-1 Animate Dead
-1 Miren, the Moaning Well
-1 Land Tax
-1 Grim Tutor
-1 Arid Mesa
-1 Marsh Flats
-4 Swamp
-5 Mountain
-5 Plains
-1 Yawgmoth's Will
-1 Bojuka Bog
-1 Kozilek, Butcher of Truth
-1 Sun Titan
-1 Sol Ring
-1 Necrotic Ooze
-1 Badlands
-1 Plateau
-1 Scrubland
-1 Wheel of Fortune
-1 Maze of Ith
-1 Urabrask the Hidden
-1 Terminate
-1 Avatar of Woe
-1 Homeward Path
-1 Command Tower
-1 Anger
-1 Oblivion Stone
-1 Mortify
-1 Swiftfoot Boots
-1 Solemn Simulacrum
-1 Isolated Chapel
-1 Clifftop Retreat
-1 Bloodgift Demon
+1 Dwarven Blastminer
+1 Dwarven Miner
+1 Fetid Heath
+1 Goblin Bombardment
 1 Godless Shrine
-1 Blood Crypt
-1 Armillary Sphere
+1 Graveborn Muse
+1 Graven Cairns
+1 Grim Tutor
+1 Homeward Path
+1 Intrepid Hero
+1 Isolated Chapel
+1 Kiki-Jiki, Mirror Breaker
+1 Kozilek, Butcher of Truth
+1 Land Tax
+1 Loxodon Warhammer
+1 Mana Crypt
+1 Mangara of Corondor
+1 Marsh Flats
+1 Maze of Ith
+1 Mind's Eye
+1 Miren, the Moaning Well
+1 Mortify
+1 Mother of Runes
+5 Mountain
+1 Necrotic Ooze
+1 Oathsworn Giant
+1 Oblivion Stone
+1 Phyrexian Arena
+1 Phyrexian Reclamation
+5 Plains
+1 Plateau
+1 Puppet Strings
+1 Razia, Boros Archangel
+1 Reliquary Tower
+1 Return to Dust
+1 Rings of Brighthearth
+1 Royal Assassin
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scrubland
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spinerock Knoll
+1 Stonehewer Giant
+1 Sun Titan
+1 Sunhome, Fortress of the Legion
+4 Swamp
+1 Swiftfoot Boots
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Swords to Plowshares
+1 Terminate
+1 Thawing Glaciers
+1 Thornbite Staff
+1 Thousand-Year Elixir
+1 Tsabo Tavoc
+1 Urabrask the Hidden
+1 Vampiric Tutor
+1 Vein Drinker
+1 Viashino Heretic
+1 Visara the Dreadful
+1 Volrath's Stronghold
+1 Weathered Wayfarer
+1 Wheel of Fortune
+1 Withered Wretch
+1 Wrath of God
+1 Yawgmoth's Will
 
 1 Tariel, Reckoner of Souls
-

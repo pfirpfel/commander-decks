@@ -1,61 +1,62 @@
 1 Amphin Mutineer
-1 Windfall
+1 Anger
+1 Apprentice Necromancer
 1 Araumi of the Dead Tide
 1 Arcane Signet
-1 Wheel of Fortune
+1 Badlands
 1 Blightsteel Colossus
-1 Volcanic Island
-1 Vampiric Tutor
+1 Blood Crypt
+1 Bloodstained Mire
 1 Bojuka Bog
 1 Broodbirth Viper
 1 Cauldron Dance
-1 Underground Sea
+1 Chaos Warp
 1 Clearwater Pathway
 1 Coalition Relic
-1 Toxic Deluge
+1 Command Tower
 1 Consecrated Sphinx
-1 Thought Vessel
-1 Temple of the False God
+1 Corpse Dance
+1 Counterspell
 1 Cyclonic Rift
-3 Swamp
+1 Demonic Tutor
 1 Desolation
 1 Diluvian Primordial
 1 Dimir Signet
-1 Sulfur Falls
-1 Steam Vents
-1 Sol Ring
-1 Sneak Attack
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Fact or Fiction
+1 Fellwar Stone
 1 Final Fortune
 1 Flamerush Rider
 1 Flameshadow Conjuring
+1 Glorious End
 1 Gruesome Encore
 1 Hellkite Courser
 1 Ideas Unbound
 1 Identity Thief
-1 Rhystic Study
+5 Island
 1 It That Betrays
 1 Izzet Signet
 1 Jace, Vryn's Prodigy
 1 Jin-Gitaxias, Core Augur
+1 Kiki-Jiki, Mirror Breaker
 1 Last Chance
 1 Lightning Greaves
-1 Reliquary Tower
+1 Luxury Suite
 1 Mana Geyser
 1 Mimic Vat
 1 Molten Primordial
-1 Polluted Delta
-1 Phyrexian Arena
+5 Mountain
+1 Myriad Landscape
 1 Mystic Confluence
 1 Mystical Tutor
-1 Glorious End
-1 Kiki-Jiki, Mirror Breaker
-1 Myriad Landscape
-5 Mountain
+1 Phyrexian Arena
+1 Polluted Delta
 1 Psychic Vortex
 1 Puppeteer Clique
 1 Rakdos Signet
-1 Luxury Suite
-5 Island
+1 Reliquary Tower
+1 Rhystic Study
 1 Scalding Tarn
 1 Scholar of the Ages
 1 Scourge of the Throne
@@ -63,30 +64,28 @@
 1 Sidisi, Undead Vizier
 1 Smoldering Marsh
 1 Snapcaster Mage
-1 Fellwar Stone
-1 Fact or Fiction
-1 Drowned Catacomb
-1 Dragonskull Summit
+1 Sneak Attack
+1 Sol Ring
+1 Steam Vents
+1 Sulfur Falls
 1 Sundial of the Infinite
 1 Sunken Hollow
-1 Demonic Tutor
+3 Swamp
 1 Swan Song
-1 Counterspell
-1 Corpse Dance
+1 Temple of the False God
+1 Thought Vessel
 1 Torrential Gearhulk
-1 Command Tower
+1 Toxic Deluge
 1 Training Center
-1 Chaos Warp
-1 Bloodstained Mire
+1 Underground Sea
+1 Vampiric Tutor
 1 Vandalblast
 1 Voidwalk
-1 Blood Crypt
+1 Volcanic Island
 1 Watery Grave
-1 Badlands
-1 Anger
+1 Wheel of Fortune
+1 Windfall
 1 Winding Canyons
 1 Zara, Renegade Recruiter
-1 Apprentice Necromancer
 
 1 Obeka, Brute Chronologist
-

@@ -1,102 +1,101 @@
-1 The Scarab God
-1 God-Eternal Kefnet
-1 Klothys, God of Destiny
-1 Keranos, God of Storms
-1 Athreos, Shroud-Veiled
-1 Progenitus
-1 Avacyn, Angel of Hope
-1 Ugin, the Spirit Dragon
-1 Sphinx of the Second Sun
-1 The World Tree
-1 Arcane Signet
-1 Urza's Ruinous Blast
-1 The Locust God
-1 Golos, Tireless Pilgrim
-1 Kenrith, the Returned King
-1 Liliana, Dreadhorde General
-1 Nicol Bolas, Dragon-God
-1 Nicol Bolas, God-Pharaoh
-1 Elspeth, Sun's Champion
-1 Vorinclex, Monstrous Raider
-1 Chromatic Orrery
 1 Altar of the Pantheon
-1 Sol Ring
-1 Fellwar Stone
-1 Command Tower
-1 Indatha Triome
-1 Ketria Triome
-1 Vault of Champions
-1 Undergrowth Stadium
-1 Zagoth Triome
-1 Exotic Orchard
-1 Farseek
-1 Three Visits
-1 Nature's Lore
-1 Fierce Guardianship
-1 Vandalblast
-1 Scroll Rack
-1 Cyclonic Rift
-1 Swords to Plowshares
-1 Path to Exile
-1 Counterspell
-1 Mana Drain
-1 Teferi's Protection
-1 Beast Within
-1 Generous Gift
-1 Despark
 1 Anguished Unmaking
-1 Kamahl's Druidic Vow
-1 Demonic Tutor
-1 Skyshroud Claim
-1 Hour of Promise
-1 Tempt with Discovery
-1 Ruinous Ultimatum
-1 Mirari's Wake
-1 Rhystic Study
-1 Smothering Tithe
-1 Consecrated Sphinx
-1 Maelstrom Nexus
-1 Door to Nothingness
-1 Timetwister
+1 Arcane Signet
 1 Assassin's Trophy
-1 Ranger's Path
-1 Toxic Deluge
-1 Sylvan Library
-1 Rejuvenating Springs
-1 Ondu Inversion
-1 Turntimber Symbiosis
-1 Forest
-1 Mountain
-1 Swamp
-1 Island
-1 Plains
-1 Field of the Dead
-1 Breeding Pool
-1 Mana Crypt
-1 Morphic Pool
-1 Sea of Clouds
-1 Growth Spiral
-1 Bountiful Promenade
+1 Athreos, Shroud-Veiled
+1 Avacyn, Angel of Hope
 1 Badlands
 1 Bayou
-1 Plateau
-1 Savannah
-1 Scrubland
-1 Volcanic Island
-1 Underground Sea
-1 Tundra
-1 Tropical Island
-1 Taiga
-1 Wooded Foothills
-1 Windswept Heath
-1 Polluted Delta
-1 Flooded Strand
+1 Beast Within
 1 Bloodstained Mire
-1 Temple Garden
-1 Stomping Ground
-1 Overgrown Tomb
+1 Bountiful Promenade
+1 Breeding Pool
 1 Cascading Cataracts
+1 Chromatic Orrery
+1 Command Tower
+1 Consecrated Sphinx
+1 Counterspell
+1 Cyclonic Rift
+1 Demonic Tutor
+1 Despark
+1 Door to Nothingness
+1 Elspeth, Sun's Champion
+1 Exotic Orchard
 1 Explore
+1 Farseek
+1 Fellwar Stone
+1 Field of the Dead
+1 Fierce Guardianship
+1 Flooded Strand
+1 Forest
+1 Generous Gift
+1 God-Eternal Kefnet
+1 Golos, Tireless Pilgrim
+1 Growth Spiral
+1 Hour of Promise
+1 Indatha Triome
+1 Island
+1 Kamahl's Druidic Vow
+1 Kenrith, the Returned King
+1 Keranos, God of Storms
+1 Ketria Triome
+1 Klothys, God of Destiny
+1 Liliana, Dreadhorde General
+1 Maelstrom Nexus
+1 Mana Crypt
+1 Mana Drain
+1 Mirari's Wake
+1 Morphic Pool
+1 Mountain
+1 Nature's Lore
+1 Nicol Bolas, Dragon-God
+1 Nicol Bolas, God-Pharaoh
+1 Ondu Inversion
+1 Overgrown Tomb
+1 Path to Exile
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Progenitus
+1 Ranger's Path
+1 Rejuvenating Springs
+1 Rhystic Study
+1 Ruinous Ultimatum
+1 Savannah
+1 Scroll Rack
+1 Scrubland
+1 Sea of Clouds
+1 Skyshroud Claim
+1 Smothering Tithe
+1 Sol Ring
+1 Sphinx of the Second Sun
+1 Stomping Ground
+1 Swamp
+1 Swords to Plowshares
+1 Sylvan Library
+1 Taiga
+1 Teferi's Protection
+1 Temple Garden
+1 Tempt with Discovery
+1 The Locust God
+1 The Scarab God
+1 The World Tree
+1 Three Visits
+1 Timetwister
+1 Toxic Deluge
+1 Tropical Island
+1 Tundra
+1 Turntimber Symbiosis
+1 Ugin, the Spirit Dragon
+1 Underground Sea
+1 Undergrowth Stadium
+1 Urza's Ruinous Blast
+1 Vandalblast
+1 Vault of Champions
+1 Volcanic Island
+1 Vorinclex, Monstrous Raider
+1 Windswept Heath
+1 Wooded Foothills
+1 Zagoth Triome
 
 1 Esika, God of the Tree
-

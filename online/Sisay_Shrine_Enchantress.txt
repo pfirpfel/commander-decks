@@ -1,59 +1,63 @@
 1 Abundant Growth
 1 Agent of Erebos
 1 Ajani's Chosen
+1 Anguished Unmaking
 1 Arcane Signet
 1 Archon of Sun's Grace
+1 Argothian Enchantress
+1 Arid Mesa
 1 Aura of Silence
-1 Ruinous Ultimatum
+1 Badlands
+1 Bayou
 1 Bring to Light
 1 Calix, Destiny's Hand
-1 Ghostly Prison
-1 Zur the Enchanter
-1 Windswept Heath
+1 Collective Restraint
+1 Command Tower
 1 Dance of the Manse
-1 Serra's Sanctum
-1 Hall of Heliod's Generosity
+1 Darksteel Mutation
 1 Doomwake Giant
 1 Eerie Ultimatum
-1 Extinguish All Hope
+1 Eidolon of Blossoms
 1 Elspeth Conquers Death
 1 Enchantress's Presence
 1 Energy Flux
 1 Exotic Orchard
-1 Anguished Unmaking
-1 Verduran Enchantress
-2 Swamp
-1 Propaganda
-1 Sol Ring
+1 Extinguish All Hope
+1 Fabled Passage
+1 Farseek
 1 Font of Fertility
-1 Replenish
-1 Seal of Cleansing
+1 Forbidden Orchard
+2 Forest
+1 Ghostly Prison
 1 Grasp of Fate
-1 Three Visits
+1 Hall of Heliod's Generosity
 1 Herald of the Pantheon
 1 Honden of Cleansing Fire
 1 Honden of Infinite Rage
 1 Honden of Life's Web
 1 Honden of Night's Reach
 1 Honden of Seeing Winds
-1 Sphere of Safety
+1 Idyllic Tutor
 1 Indatha Triome
-2 Plains
-1 Darksteel Mutation
+2 Island
 1 Kenrith's Transformation
 1 Ketria Triome
-2 Mountain
+1 Marsh Flats
+1 Merciless Eviction
 1 Mesa Enchantress
+1 Misty Rainforest
+2 Mountain
 1 Murmuring Bosk
-1 Temple Garden
 1 Nature's Lore
 1 Omen of the Hunt
 1 Open the Vaults
 1 Paradox Haze
-2 Island
-1 Argothian Enchantress
-1 Idyllic Tutor
-1 Forbidden Orchard
+2 Plains
+1 Plateau
+1 Propaganda
+1 Reflecting Pool
+1 Replenish
+1 Ruinous Ultimatum
 1 Sanctum of All
 1 Sanctum of Calm Waters
 1 Sanctum of Fruitful Harvest
@@ -61,37 +65,32 @@
 1 Sanctum of Stone Fangs
 1 Sanctum of Tranquil Light
 1 Satyr Enchanter
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Seal of Cleansing
 1 Seal of Primordium
+1 Serra's Sanctum
 1 Setessan Champion
 1 Sigil of the Empty Throne
-2 Forest
 1 Smothering Tithe
+1 Sol Ring
+1 Sphere of Safety
 1 Starfield Mystic
 1 Sterling Grove
-1 Collective Restraint
-1 Farseek
-1 Trace of Abundance
-1 Fabled Passage
-1 Wargate
-1 Eidolon of Blossoms
-1 Command Tower
-1 Merciless Eviction
-1 Reflecting Pool
-1 Underground Sea
-1 Tundra
+2 Swamp
 1 Taiga
-1 Badlands
-1 Volcanic Island
-1 Scrubland
-1 Bayou
-1 Verdant Catacombs
-1 Scalding Tarn
-1 Misty Rainforest
-1 Marsh Flats
-1 Arid Mesa
+1 Temple Garden
+1 Three Visits
+1 Trace of Abundance
 1 Tropical Island
-1 Plateau
-1 Savannah
+1 Tundra
+1 Underground Sea
+1 Verdant Catacombs
+1 Verduran Enchantress
+1 Volcanic Island
+1 Wargate
+1 Windswept Heath
+1 Zur the Enchanter
 
 1 Sisay, Weatherlight Captain
-

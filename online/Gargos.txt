@@ -1,78 +1,77 @@
-1 Heroic Intervention
-1 Verdant Confluence
-1 Garruk, Primal Hunter
+1 Bala Ged Recovery
+1 Bane of Progress
+1 Beanstalk Giant
 1 Beast Within
 1 Blossoming Defense
+1 Boundless Realms
 1 Castle Garenbrig
+1 Cultivate
+1 Dryad Arbor
 1 Emerald Medallion
+1 Eternal Witness
 1 Foe-Razer Regent
-1 Wild Growth
-1 Wasteland
+25 Forest
+1 Garruk, Primal Hunter
+1 Genesis
+1 Green Sun's Zenith
+1 Heroic Intervention
 1 Hunter's Insight
 1 Hunter's Prowess
+1 Hunting Wilds
+1 Hydra Broodmaster
 1 Hydra Omnivore
-1 Nykthos, Shrine to Nyx
-1 Dryad Arbor
+1 Invigorate
 1 Keen Sense
-25 Forest
+1 Khalni Ambush
+1 Lifeblood Hydra
 1 Managorger Hydra
-1 Setessan Tactics
 1 Mosswort Bridge
+1 Myriad Landscape
 1 Nature's Claim
-1 Genesis
+1 Nature's Lore
 1 Nessian Wilds Ravager
 1 Nissa's Pilgrimage
 1 Nissa, Vastwood Seer
 1 Nissa, Who Shakes the World
+1 Nykthos, Shrine to Nyx
 1 Ohran Viper
 1 Once and Future
-1 Eternal Witness
-1 Myriad Landscape
+1 Polukranos, World Eater
 1 Precursor Golem
+1 Rancor
+1 Ranger's Guile
+1 Reclamation Sage
 1 Return of the Wildspeaker
 1 Rhonas's Monument
 1 Rishkar's Expertise
 1 Rogue's Passage
+1 Sakura-Tribe Elder
 1 Scavenger Grounds
 1 Scavenging Ooze
 1 Season of Growth
-1 Reclamation Sage
-1 Bane of Progress
+1 Setessan Tactics
+1 Skyshroud Claim
 1 Snake Umbra
+1 Sol Ring
 1 Steelbane Hydra
 1 Swiftfoot Boots
-1 Sol Ring
+1 Three Visits
+1 Traverse the Outlands
+1 Turntimber Symbiosis
+1 Ulvenwald Hydra
+1 Vastwood Fortification
 1 Veil of Summer
+1 Verdant Confluence
+1 Vernal Bloom
 1 Vines of Vastwood
 1 Viridescent Wisps
 1 Voracious Hydra
 1 Warriors' Lesson
+1 Wasteland
 1 Whip Silk
-1 Green Sun's Zenith
-1 Ulvenwald Hydra
+1 Whiptongue Hydra
+1 Wild Growth
 1 Withstand Death
 1 Yeva, Nature's Herald
-1 Invigorate
-1 Beanstalk Giant
-1 Rancor
-1 Ranger's Guile
-1 Khalni Ambush
-1 Cultivate
-1 Sakura-Tribe Elder
-1 Traverse the Outlands
-1 Lifeblood Hydra
-1 Hydra Broodmaster
-1 Polukranos, World Eater
-1 Whiptongue Hydra
-1 Skyshroud Claim
-1 Nature's Lore
-1 Three Visits
-1 Hunting Wilds
-1 Boundless Realms
-1 Vernal Bloom
-1 Bala Ged Recovery
-1 Vastwood Fortification
-1 Turntimber Symbiosis
 
 1 Gargos, Vicious Watcher
-

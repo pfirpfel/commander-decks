@@ -1,9 +1,11 @@
 1 Aetherflux Reservoir
-1 Wood Elves
+1 Altar of Dementia
 1 Angel of Finality
 1 Angel of Sanctions
 1 Archon of Valor's Reach
+1 Austere Command
 1 Avenger of Zendikar
+1 Bane of Progress
 1 Beast Within
 1 Blade of Selves
 1 Blighted Woodland
@@ -13,78 +15,76 @@
 1 Cavalier of Dawn
 1 Cavalier of Thorns
 1 Chord of Calling
-1 Wall of Blossoms
+1 Cleansing Nova
+1 Command Tower
 1 Cultivate
-1 Tranquil Thicket
-1 Temple of Plenty
+1 Eladamri's Call
 1 Elemental Bond
 1 Emeria Shepherd
 1 Enlightened Tutor
 1 Eternal Witness
 1 Farhaven Elf
 1 Fauna Shaman
-1 Temple Garden
-1 Swords to Plowshares
+1 Fierce Empath
+8 Forest
 1 Fortified Village
 1 God-Pharaoh's Gift
-1 Three Visits
-1 Sunpetal Grove
+1 Greater Good
+1 Green Sun's Zenith
 1 Greenwarden of Murasa
 1 Helm of the Host
-1 Selesnya Sanctuary
+1 Karmic Guide
 1 Kodama's Reach
-1 Sun Titan
-1 Sol Ring
+1 Krosan Verge
+1 Loaming Shaman
 1 Mimic Vat
-1 Secluded Steppe
+1 Mirari's Wake
 1 Mirrorpool
 1 Momentous Fall
 1 Nature's Claim
 1 Nature's Lore
 1 Panharmonicon
 1 Path to Exile
-1 Savannah
-1 Reliquary Tower
-1 Reclamation Sage
-1 Rampant Growth
-1 Regal Force
+1 Phyrexian Processor
 5 Plains
+1 Rampant Growth
+1 Reclamation Sage
+1 Regal Force
+1 Reliquary Tower
 1 Restoration Angel
 1 Return to Dust
-1 Windswept Heath
 1 Rishkar's Expertise
 1 Rogue's Passage
 1 Rootborn Defenses
 1 Sakura-Tribe Elder
+1 Savannah
 1 Scattered Groves
 1 Scavenger Grounds
-1 Phyrexian Processor
-1 Mirari's Wake
+1 Secluded Steppe
 1 See the Unwritten
 1 Seedborn Muse
 1 Selesnya Eulogist
-1 Loaming Shaman
+1 Selesnya Sanctuary
+1 Sol Ring
 1 Stirring Wildwood
-1 Krosan Verge
+1 Sun Titan
 1 Sundering Growth
-1 Karmic Guide
-1 Green Sun's Zenith
-8 Forest
-1 Fierce Empath
-1 Eladamri's Call
-1 Austere Command
-1 Greater Good
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Séance
+1 Temple Garden
+1 Temple of Plenty
+1 Three Visits
+1 Tranquil Thicket
 1 Ulvenwald Hydra
-1 Command Tower
+1 Wall of Blossoms
 1 Wall of Omens
+1 Wasteland
+1 Windswept Heath
+1 Wood Elves
 1 Wooded Bastion
-1 Altar of Dementia
 1 Woodfall Primus
 1 Worldly Tutor
 1 Zendikar Resurgent
-1 Séance1 Wasteland
-1 Cleansing Nova
-1 Bane of Progress
 
 1 Trostani, Selesnya's Voice
-

@@ -1,71 +1,70 @@
-1 Winding Canyons
-1 Wasteland
-1 Horn of Greed
-1 Survival of the Fittest
-1 Gaea's Cradle
-1 Vernal Bloom
-1 Greater Good
-1 Yavimaya Hollow
-1 Skyshroud Claim
-1 Restock
-1 Genesis
-1 Kamahl, Fist of Krosa
-1 Krosan Tusker
-1 Fierce Empath
-1 Tooth and Nail
-1 Oblivion Stone
-1 Mind's Eye
-1 Duplicant
-1 Extraplanar Lens
-1 Beacon of Creation
-1 Eternal Witness
-1 Journeyer's Kite
-1 Seek the Horizon
-1 Scrying Sheets
-1 Gauntlet of Power
-1 Deadwood Treefolk
-1 Harmonize
-1 Akroma's Memorial
 1 Abundance
-1 Sylvan Library
-1 Mosswort Bridge
-1 Primal Command
-1 Woodfall Primus
-1 Regal Force
-1 Mana Crypt
-32 Snow-Covered Forest
-1 Terrain Generator
-1 Reliquary Tower
-1 Howl of the Night Pack
 1 Acidic Slime
-1 Yavimaya Elder
+1 Akroma's Memorial
+1 Artisan of Kozilek
+1 Avenger of Zendikar
+1 Beacon of Creation
+1 Boundless Realms
+1 Craterhoof Behemoth
+1 Cultivate
+1 Deadwood Treefolk
+1 Duplicant
+1 Eternal Witness
+1 Extraplanar Lens
+1 Eye of Ugin
+1 Fierce Empath
+1 Gaea's Cradle
 1 Gaea's Touch
-1 Sensei's Divining Top
+1 Garruk Wildspeaker
+1 Garruk's Packleader
+1 Gauntlet of Power
+1 Gelatinous Genesis
+1 Genesis
+1 Genesis Wave
+1 Greater Good
+1 Green Sun's Zenith
+1 Harmonize
+1 Horn of Greed
+1 Howl of the Night Pack
+1 Journeyer's Kite
+1 Kamahl, Fist of Krosa
+1 Kodama's Reach
+1 Kozilek, Butcher of Truth
+1 Krosan Tusker
+1 Lightning Greaves
+1 Mana Crypt
+1 Maze of Ith
+1 Mind's Eye
+1 Momentous Fall
+1 Mosswort Bridge
+1 Oblivion Stone
 1 Oracle of Mul Daya
 1 Oran-Rief, the Vastwood
+1 Primal Command
 1 Rampaging Baloths
-1 Garruk Wildspeaker
-1 Eye of Ugin
-1 Terastodon
-1 Avenger of Zendikar
-1 Seer's Sundial
-1 Wolfbriar Elemental
-1 Lightning Greaves
-1 Artisan of Kozilek
-1 Momentous Fall
-1 Gelatinous Genesis
-1 Kozilek, Butcher of Truth
-1 Ulamog, the Infinite Gyre
-1 Cultivate
-1 Kodama's Reach
-1 Garruk's Packleader
-1 Genesis Wave
+1 Regal Force
 1 Regrowth
-1 Maze of Ith
-1 Green Sun's Zenith
+1 Reliquary Tower
+1 Restock
+1 Scrying Sheets
+1 Seek the Horizon
+1 Seer's Sundial
+1 Sensei's Divining Top
+1 Skyshroud Claim
+32 Snow-Covered Forest
 1 Solemn Simulacrum
-1 Craterhoof Behemoth
-1 Boundless Realms
+1 Survival of the Fittest
+1 Sylvan Library
+1 Terastodon
+1 Terrain Generator
+1 Tooth and Nail
+1 Ulamog, the Infinite Gyre
+1 Vernal Bloom
+1 Wasteland
+1 Winding Canyons
+1 Wolfbriar Elemental
+1 Woodfall Primus
+1 Yavimaya Elder
+1 Yavimaya Hollow
 
 1 Azusa, Lost but Seeking
-

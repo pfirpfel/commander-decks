@@ -1,87 +1,86 @@
-1 Tombstone Stairwell
-1 Vampiric Tutor
-1 Capsize
-1 Helm of Possession
-1 Coffin Queen
-1 Living Death
-1 Wasteland
-1 Grave Pact
-1 Stronghold Assassin
-1 Volrath's Stronghold
-1 Plaguebearer
-1 Phyrexian Tower
+1 Bitterblossom
 1 Black Market
-1 Petrified Field
+1 Bloodghast
+1 Bojuka Bog
+1 Buried Ruin
 1 Cabal Coffers
-1 Wonder
-1 Filth
-1 Patriarch's Bidding
-1 Polluted Delta
-1 Unholy Grotto
-1 Undead Warchief
-1 Decree of Pain
+1 Call to the Grave
+1 Capsize
+1 Cemetery Reaper
+1 Coffin Queen
+1 Command Tower
+1 Consecrated Sphinx
+1 Creeping Tar Pit
 1 Darksteel Ingot
-1 Trinket Mage
-1 Nezumi Graverobber
-1 Minamo, School at Water's Edge
-1 Phyrexian Arena
+1 Death Baron
+1 Decree of Pain
+1 Demonic Tutor
 1 Dimir Aqueduct
 1 Dimir Signet
-1 Withered Wretch
-1 Urborg, Tomb of Yawgmoth
-1 Tolaria West
-1 Bitterblossom
-1 Sunken Ruins
-1 Underground Sea
-1 Mana Crypt
-1 Fleshbag Marauder
-1 Death Baron
-1 Fact or Fiction
-1 Reliquary Tower
-1 Demonic Tutor
-1 Lich Lord of Unx
-1 Cemetery Reaper
 1 Drowned Catacomb
-1 Rhystic Study
-1 Twisted Abomination
-1 Mana Drain
-1 Grim Tutor
-1 Skullclamp
-1 Jwar Isle Refuge
-1 Bloodghast
 1 Eldrazi Monument
-1 Expedition Map
-7 Island
-10 Swamp
-1 Hinder
-1 Bojuka Bog
-1 Creeping Tar Pit
-1 Lightning Greaves
-1 Recurring Insight
-1 Grave Titan
-1 Reassembling Skeleton
-1 Sol Ring
-1 Geth, Lord of the Vault
-1 Skinrender
-1 Maze of Ith
-1 Consecrated Sphinx
-1 Life's Finale
-1 Phyrexian Metamorph
-1 Sheoldred, Whispering One
-1 Command Tower
-1 Spell Crumple
-1 Phantasmal Image
-1 Rune-Scarred Demon
-1 Swiftfoot Boots
-1 Buried Ruin
-1 Solemn Simulacrum
-1 Call to the Grave
-1 Snapcaster Mage
 1 Evil Twin
-1 Mikaeus, the Unhallowed
-1 Increasing Ambition
+1 Expedition Map
+1 Fact or Fiction
+1 Filth
+1 Fleshbag Marauder
+1 Geth, Lord of the Vault
+1 Grave Pact
+1 Grave Titan
+1 Grim Tutor
 1 Havengul Lich
+1 Helm of Possession
+1 Hinder
+1 Increasing Ambition
+7 Island
+1 Jwar Isle Refuge
+1 Lich Lord of Unx
+1 Life's Finale
+1 Lightning Greaves
+1 Living Death
+1 Mana Crypt
+1 Mana Drain
+1 Maze of Ith
+1 Mikaeus, the Unhallowed
+1 Minamo, School at Water's Edge
+1 Nezumi Graverobber
+1 Patriarch's Bidding
+1 Petrified Field
+1 Phantasmal Image
+1 Phyrexian Arena
+1 Phyrexian Metamorph
+1 Phyrexian Tower
+1 Plaguebearer
+1 Polluted Delta
+1 Reassembling Skeleton
+1 Recurring Insight
+1 Reliquary Tower
+1 Rhystic Study
+1 Rune-Scarred Demon
+1 Sheoldred, Whispering One
+1 Skinrender
+1 Skullclamp
+1 Snapcaster Mage
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spell Crumple
+1 Stronghold Assassin
+1 Sunken Ruins
+10 Swamp
+1 Swiftfoot Boots
+1 Tolaria West
+1 Tombstone Stairwell
+1 Trinket Mage
+1 Twisted Abomination
+1 Undead Warchief
+1 Underground Sea
+1 Unholy Grotto
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Volrath's Stronghold
+1 Wasteland
 1 Watery Grave
+1 Withered Wretch
+1 Wonder
 
 1 Grimgrin, Corpse-Born
-

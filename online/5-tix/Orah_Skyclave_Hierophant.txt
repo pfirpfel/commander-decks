@@ -1,84 +1,83 @@
-1 Remorseful Cleric
-1 Westvale Abbey
-1 Erebos, Bleak-Hearted
-1 Caves of Koilos
-1 Reliquary Monk
 1 Anguished Unmaking
-1 War Priest of Thune
-1 Edgewalker
-1 Starlit Sanctum
-1 Whisper, Blood Liturgist
-1 Leonin Relic-Warder
-1 Midnight Reaper
-1 Soul Warden
-1 Orzhov Basilica
-1 Pitiless Pontiff
-1 Temple of Silence
-1 Soul's Attendant
-1 Teysa Karlov
-1 Ayli, Eternal Pilgrim
-1 Fiend Hunter
-1 Isolated Chapel
-1 Preacher
-1 Taborax, Hope's Demise
-1 Celestial Gatekeeper
-1 Cruel Celebrant
-1 Zulaport Cutthroat
-1 Syr Konrad, the Grim
-1 Orzhov Signet
-1 Talisman of Hierarchy
-1 Dusk/Dawn
+1 Attended Healer
 1 Austere Command
-1 Pious Evangel
-1 Devout Chaplain
-1 Swords to Plowshares
-1 Vault of the Archangel
-1 Doomed Necromancer
-1 Demon's Disciple
-1 High Market
-1 Skyclave Cleric
-1 Grim Haruspex
-1 Suture Priest
-1 Relic Vial
-1 Bygone Bishop
-1 Skirsdag High Priest
-1 Malakir Rebirth
-1 Bishop of Rebirth
-1 Entomber Exarch
-1 Viscera Seer
-1 Cleric of Life's Bond
-1 Benevolent Bodyguard
+1 Ayli, Eternal Pilgrim
+1 Bastion of Remembrance
 1 Battletide Alchemist
-1 Reliquary Tower
-1 Grave Pact
-1 Marauding Blight-Priest
-1 Etchings of the Chosen
-1 Pontiff of Blight
-1 Nullpriest of Oblivion
+1 Benevolent Bodyguard
+1 Bishop of Rebirth
+1 Bygone Bishop
+1 Caves of Koilos
+1 Celestial Gatekeeper
+1 Cleric of Life's Bond
+1 Cruel Celebrant
 1 Dark Supplicant
+1 Demon's Disciple
+1 Despark
+1 Devout Chaplain
+1 Disciple of Griselbrand
+1 Doomed Necromancer
+1 Dreadhorde Invasion
+1 Dusk/Dawn
+1 Edgewalker
+1 Entomber Exarch
+1 Erebos, Bleak-Hearted
+1 Etchings of the Chosen
+1 Evolving Wilds
+1 Fiend Hunter
+1 Forsaken Sanctuary
+1 Grave Pact
+1 Grim Haruspex
+1 Hanweir Militia Captain
+1 Heliod's Intervention
+1 High Market
+1 Isolated Chapel
+1 Kor Celebrant
+1 Leonin Relic-Warder
+1 Living Death
+1 Malakir Rebirth
+1 Marauding Blight-Priest
+1 Midnight Reaper
+1 Nullpriest of Oblivion
+1 Ondu Inversion
+1 Order of Whiteclay
+1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Orzhov Signet
+1 Pious Evangel
+1 Pitiless Pontiff
+10 Plains
+1 Pontiff of Blight
+1 Preacher
+1 Relic Vial
+1 Reliquary Monk
+1 Reliquary Tower
+1 Remorseful Cleric
 1 Scion of Darkness
 1 Scoured Barrens
-1 Evolving Wilds
-1 Terramorphic Expanse
-1 Orzhov Guildgate
-1 Forsaken Sanctuary
-1 Bastion of Remembrance
-1 Disciple of Griselbrand
-1 Kor Celebrant
-1 Hanweir Militia Captain
-1 Attended Healer
-1 Despark
-1 Heliod's Intervention
-10 Plains
-10 Swamp
-1 Living Death
-1 Order of Whiteclay
-1 Withered Wretch
-1 Soul-Guide Lantern
-1 Ondu Inversion
-1 Dreadhorde Invasion
-1 Smothering Abomination
 1 Shambling Vent
+1 Skirsdag High Priest
+1 Skyclave Cleric
+1 Smothering Abomination
+1 Soul Warden
+1 Soul's Attendant
+1 Soul-Guide Lantern
+1 Starlit Sanctum
+1 Suture Priest
+10 Swamp
+1 Swords to Plowshares
+1 Syr Konrad, the Grim
+1 Taborax, Hope's Demise
+1 Talisman of Hierarchy
+1 Temple of Silence
+1 Terramorphic Expanse
+1 Teysa Karlov
+1 Vault of the Archangel
+1 Viscera Seer
+1 War Priest of Thune
+1 Westvale Abbey
+1 Whisper, Blood Liturgist
+1 Withered Wretch
+1 Zulaport Cutthroat
 
 1 Orah, Skyclave Hierophant
-

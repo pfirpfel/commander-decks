@@ -1,69 +1,68 @@
-1 Pirate's Pillage
-1 Goblin Rally
-1 Beetleback Chief
-1 Krenko, Mob Boss
-1 Dragon Fodder
-1 Siege-Gang Commander
-1 Mogg War Marshal
-1 Hordeling Outburst
-1 Krenko's Command
-1 Young Pyromancer
-1 Second Harvest
-1 Harvest Season
-1 Thrill of Possibility
-1 Cathartic Reunion
-1 Harmonize
-1 Battle Hymn
-1 Tormenting Voice
-1 Jaya's Immolating Inferno
-1 Cultivate
-1 Kodama's Reach
-1 Rampant Growth
-1 Shamanic Revelation
-1 Harrow
-1 Primal Amulet
-1 Comet Storm
 1 Artifact Mutation
-1 Hull Breach
-1 Peregrination
-1 Explosive Vegetation
-1 Skullclamp
-1 Purphoros, God of the Forge
-1 Reap the Past
+1 Battle Hymn
+1 Beastmaster Ascension
+1 Beetleback Chief
+1 Blasphemous Act
+1 Burn at the Stake
+1 Cathartic Reunion
 1 Charmbreaker Devils
-1 Farseek
-1 Pashalik Mons
-18 Mountain
-1 Primal Growth
-1 Slice in Twain
-1 Goblin Instigator
-1 Goblin Matron
+1 Comet Storm
+1 Cryptolith Rite
+1 Cultivate
+1 Dragon Fodder
 1 Early Harvest
-1 Faithless Looting
-1 Increasing Vengeance
-1 Reiterate
-1 Scatter the Seeds
-1 Spore Swarm
-1 Mana Geyser
-1 Regrowth
 1 Empty the Warrens
 1 Escape to the Wilds
-1 Volcanic Vision
-17 Forest
-1 Goblin War Party
 1 Explore
-1 Burn at the Stake
+1 Explosive Vegetation
+1 Faithless Looting
+1 Farseek
+17 Forest
+1 Goblin Instigator
+1 Goblin Matron
+1 Goblin Rally
+1 Goblin War Party
+1 Harmonize
+1 Harrow
+1 Harvest Season
+1 Hordeling Outburst
+1 Hull Breach
+1 Increasing Vengeance
+1 Jaya's Immolating Inferno
+1 Kodama's Reach
+1 Krenko's Command
+1 Krenko, Mob Boss
+1 Lightning Greaves
+1 Mana Geyser
+1 Mogg War Marshal
+18 Mountain
+1 Parallel Lives
+1 Pashalik Mons
+1 Peregrination
+1 Pirate's Pillage
+1 Primal Amulet
+1 Primal Growth
+1 Purphoros, God of the Forge
+1 Pyromancer's Goggles
+1 Rampant Growth
+1 Reap the Past
+1 Regrowth
+1 Reiterate
 1 Revel of the Fallen God
 1 Rude Awakening
-1 Blasphemous Act
-1 Vandalblast
-1 Throne of the God-Pharaoh
-1 Lightning Greaves
-1 Cryptolith Rite
-1 Parallel Lives
-1 Beastmaster Ascension
+1 Scatter the Seeds
+1 Second Harvest
+1 Shamanic Revelation
+1 Siege-Gang Commander
+1 Skullclamp
+1 Slice in Twain
+1 Spore Swarm
 1 Sylvan Library
-1 Pyromancer's Goggles
+1 Thrill of Possibility
+1 Throne of the God-Pharaoh
+1 Tormenting Voice
+1 Vandalblast
+1 Volcanic Vision
+1 Young Pyromancer
 
 1 Wort, the Raidmother
-

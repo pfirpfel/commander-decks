@@ -1,72 +1,71 @@
-1 Ray of Command
-1 Kasmina, Enigmatic Mentor
-1 Fact or Fiction
-1 Crush of Tentacles
-1 Counterspell
-1 Reality Shift
-1 Lazotep Plating
-1 Cyclonic Rift
-1 Arcane Denial
-1 Swan Song
-1 Brainstorm
-1 Reef Worm
-1 Metallurgic Summonings
-1 Desertion
 1 Aetherspouts
-1 Primordial Mist
-1 Whelming Wave
-1 Thopter Spy Network
-1 Summoner's Bane
-1 Insidious Will
-1 Geist Snatch
-1 Dismiss
-1 Control Magic
-1 Sphinx of Uthuun
-1 Sphinx Ambassador
-1 Scourge of Fleets
-1 Quicksilver Gargantuan
-1 Diluvian Primordial
-1 Colossal Whale
+1 Arcane Denial
+1 Brainstorm
 1 Caged Sun
-1 Phyrexian Ingester
-1 Roil Elemental
-1 Guile
-1 Opportunity
-1 Frost Titan
-1 Impulse
-1 Precognitive Perception
-1 Pull from Tomorrow
-1 Curse of the Swine
-1 Epiphany at the Drownyard
-1 Stormtide Leviathan
-31 Island
-1 Foundry of the Consuls
-1 Cradle of the Accursed
-1 Sky Diamond
-1 Mind Stone
-1 Guardian Idol
-1 Wayfarer's Bauble
-1 Springjack Pasture
-1 Spawning Bed
-1 Rogue's Passage
-1 Minamo, School at Water's Edge
-1 Lonely Sandbar
-1 Myr Battlesphere
-1 Thopter Assembly
-1 Omen Machine
-1 Trading Post
-1 Throne of Empires
-1 Hedron Archive
-1 Proteus Staff
-1 Everflowing Chalice
-1 Nuisance Engine
-1 Druidic Satchel
-1 Swiftfoot Boots
-1 Star Compass
-1 Fountain of Ichor
-1 Kederekt Leviathan
 1 Chancellor of the Spires
+1 Colossal Whale
+1 Control Magic
+1 Counterspell
+1 Cradle of the Accursed
+1 Crush of Tentacles
+1 Curse of the Swine
+1 Cyclonic Rift
+1 Desertion
+1 Diluvian Primordial
+1 Dismiss
+1 Druidic Satchel
+1 Epiphany at the Drownyard
+1 Everflowing Chalice
+1 Fact or Fiction
+1 Foundry of the Consuls
+1 Fountain of Ichor
+1 Frost Titan
+1 Geist Snatch
+1 Guardian Idol
+1 Guile
+1 Hedron Archive
+1 Impulse
+1 Insidious Will
+31 Island
+1 Kasmina, Enigmatic Mentor
+1 Kederekt Leviathan
+1 Lazotep Plating
+1 Lonely Sandbar
+1 Metallurgic Summonings
+1 Minamo, School at Water's Edge
+1 Mind Stone
+1 Myr Battlesphere
+1 Nuisance Engine
+1 Omen Machine
+1 Opportunity
+1 Phyrexian Ingester
+1 Precognitive Perception
+1 Primordial Mist
+1 Proteus Staff
+1 Pull from Tomorrow
+1 Quicksilver Gargantuan
+1 Ray of Command
+1 Reality Shift
+1 Reef Worm
+1 Rogue's Passage
+1 Roil Elemental
+1 Scourge of Fleets
+1 Sky Diamond
+1 Spawning Bed
+1 Sphinx Ambassador
+1 Sphinx of Uthuun
+1 Springjack Pasture
+1 Star Compass
+1 Stormtide Leviathan
+1 Summoner's Bane
+1 Swan Song
+1 Swiftfoot Boots
+1 Thopter Assembly
+1 Thopter Spy Network
+1 Throne of Empires
 1 Tidal Force
+1 Trading Post
+1 Wayfarer's Bauble
+1 Whelming Wave
 
 1 Jalira, Master Polymorphist
-

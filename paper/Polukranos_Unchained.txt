@@ -1,88 +1,87 @@
-1 Wooded Foothills
-1 Windswept Heath
+1 Acidic Slime
+1 Altar of Dementia
 1 Assassin's Trophy
-1 Volrath's Stronghold
+1 Bala Ged Recovery
+1 Bane of Progress
+1 Bayou
+1 Beast Within
 1 Bojuka Bog
+1 Branching Evolution
+1 Brawn
+1 Cabal Coffers
+1 Casualties of War
 1 Command Tower
-7 Snow-Covered Swamp
-1 Reclamation Sage
 1 Corpsejack Menace
 1 Cultivate
 1 Damnation
 1 Deadbridge Chant
-1 Strip Mine
-1 Satyr Wayfinder
+1 Death's Presence
+1 Decree of Pain
+1 Demonic Tutor
 1 Disciple of Bolas
 1 Doubling Season
 1 Eternal Witness
-1 Far Wanderings
-1 Beast Within
-1 Overgrown Tomb
-1 Filth
-1 Loxodon Warhammer
 1 Expedition Map
+1 Far Wanderings
+1 Farseek
+1 Filth
+1 Genesis
+1 Golgari Grave-Troll
 1 Grapple with the Past
-1 Reyhan, Last of the Abzan
-1 Three Visits
+1 Greater Good
 1 Grisly Salvage
-1 Rogue's Passage
+1 Into the North
 1 Jarad, Golgari Lich Lord
 1 Journey to Eternity
 1 Life's Legacy
-1 Greater Good
-1 Golgari Grave-Troll
+1 Llanowar Wastes
+1 Loxodon Warhammer
 1 Marsh Flats
 1 Momentous Fall
-1 Into the North
+1 Nature's Lore
+1 Nurturing Peatland
 1 Nyx Weaver
-1 Genesis
-1 Casualties of War
+1 Overgrown Tomb
 1 Pir's Whim
-1 Skullwinder
 1 Praetor's Counsel
-1 Bayou
-9 Snow-Covered Forest
-1 Farseek
 1 Ramunap Excavator
+1 Ransack the Lab
+1 Reclamation Sage
 1 Relentless Pursuit
 1 Return of the Wildspeaker
+1 Reyhan, Last of the Abzan
+1 Rogue's Passage
 1 Sakura-Tribe Elder
-1 Demonic Tutor
+1 Satyr Wayfinder
 1 Seasons Past
 1 Shadowspear
+1 Skullwinder
+9 Snow-Covered Forest
+7 Snow-Covered Swamp
+1 Sol Ring
 1 Solidarity of Heroes
+1 Soul-Guide Lantern
 1 Stinkweed Imp
-1 Ransack the Lab
-1 Decree of Pain
-1 Cabal Coffers
+1 Strip Mine
 1 Swiftfoot Boots
-1 Brawn
 1 The Great Henge
+1 Three Visits
 1 Toxic Deluge
 1 Traverse the Outlands
 1 Twilight Mire
+1 Undergrowth Stadium
 1 Urborg, Tomb of Yawgmoth
-1 Death's Presence
 1 Verdant Catacombs
 1 Vigor
+1 Volrath's Stronghold
+1 War Room
 1 Wasteland
 1 Windgrace's Judgment
-1 Sol Ring
-1 Altar of Dementia
-1 Acidic Slime
-1 Zendikar Resurgent
-1 Bane of Progress
-1 Soul-Guide Lantern
+1 Windswept Heath
 1 Wood Elves
+1 Wooded Foothills
 1 Woodland Cemetery
-1 Bala Ged Recovery
-1 Undergrowth Stadium
-1 Branching Evolution
-1 War Room
-1 Llanowar Wastes
-1 Nurturing Peatland
-1 Nature's Lore
 1 Woodland Chasm
+1 Zendikar Resurgent
 
 1 Polukranos, Unchained
-

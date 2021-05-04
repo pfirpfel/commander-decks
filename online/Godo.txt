@@ -1,80 +1,79 @@
-1 Scroll Rack
-1 Wasteland
+1 Akroma, Angel of Fury
 1 Ancient Tomb
-1 Shard Phoenix
-1 Crater Hellion
-1 Grim Monolith
-1 Viashino Heretic
-1 Flametongue Kavu
-1 Bloodstained Mire
-1 Wooded Foothills
-1 Temple of the False God
-1 Blood Moon
-1 Grab the Reins
-1 Vulshok Battlemaster
-1 Tower of Fortunes
-1 Oblivion Stone
-1 Mind's Eye
-1 Solemn Simulacrum
-1 Duplicant
-1 Extraplanar Lens
-1 Loxodon Warhammer
-1 Darksteel Ingot
 1 Arcbound Reclaimer
+1 Argentum Armor
+1 Artisan of Kozilek
+1 Barbed Shocker
+1 Blood Moon
+1 Bloodstained Mire
+1 Caged Sun
+1 Chain Reaction
+1 Chandra Ablaze
+1 Comet Storm
+1 Crater Hellion
+1 Darksteel Ingot
+1 Duplicant
+1 Everflowing Chalice
+1 Extraplanar Lens
+1 Flameblast Dragon
+1 Flametongue Kavu
+1 Gauntlet of Might
+1 Gauntlet of Power
+1 Ghitu Encampment
+1 Grab the Reins
+1 Grafted Exoskeleton
+1 Grim Monolith
+1 Hoard-Smelter Dragon
+1 Hoarding Dragon
+1 Journeyer's Kite
+1 Kher Keep
+1 Koth of the Hammer
+1 Lightning Greaves
+1 Lord of Shatterskull Pass
+1 Loxodon Warhammer
+1 Madblind Mountain
+1 Magus of the Moon
+1 Mana Crypt
+1 Mana Vault
+1 Mind's Eye
+1 Mishra's Factory
+1 Mouth of Ronom
+1 Mutavault
+1 Oblivion Stone
+1 Pilgrim's Eye
+1 Rakka Mar
+1 Reiterate
+1 Relic of Progenitus
+1 Scroll Rack
+1 Scrying Sheets
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Shard Phoenix
+23 Snow-Covered Mountain
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spikeshot Elder
+1 Spinerock Knoll
+1 Steel Hellkite
+1 Strata Scythe
+1 Stuffy Doll
+1 Sword of Body and Mind
 1 Sword of Fire and Ice
 1 Sword of Light and Shadow
-1 Wayfarer's Bauble
-1 Journeyer's Kite
-1 Scrying Sheets
-1 Mouth of Ronom
-1 Barbed Shocker
-1 Vesuva
-1 Kher Keep
-1 Stuffy Doll
-1 Gauntlet of Power
-1 Reiterate
-1 Akroma, Angel of Fury
-1 Magus of the Moon
-1 Sculpting Steel
-1 Mishra's Factory
-1 Spinerock Knoll
-1 Wild Ricochet
-1 Mutavault
 1 Taurean Mauler
-1 Madblind Mountain
-1 Mana Crypt
-23 Snow-Covered Mountain
-1 Relic of Progenitus
-1 Flameblast Dragon
-1 Rakka Mar
-1 Sensei's Divining Top
-1 Chandra Ablaze
-1 Valakut, the Molten Pinnacle
-1 Chain Reaction
-1 Everflowing Chalice
-1 Comet Storm
-1 Pilgrim's Eye
-1 Lightning Greaves
-1 Artisan of Kozilek
-1 Ulamog, the Infinite Gyre
-1 Lord of Shatterskull Pass
-1 Hoarding Dragon
-1 Sol Ring
-1 Sword of Body and Mind
-1 Caged Sun
-1 Steel Hellkite
-1 Wurmcoil Engine
-1 Strata Scythe
-1 Grafted Exoskeleton
-1 Spikeshot Elder
-1 Koth of the Hammer
-1 Hoard-Smelter Dragon
-1 Argentum Armor
-1 Gauntlet of Might
-1 Mana Vault
-1 Wheel of Fortune
-1 Ghitu Encampment
+1 Temple of the False God
+1 Tower of Fortunes
 1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Infinite Gyre
+1 Valakut, the Molten Pinnacle
+1 Vesuva
+1 Viashino Heretic
+1 Vulshok Battlemaster
+1 Wasteland
+1 Wayfarer's Bauble
+1 Wheel of Fortune
+1 Wild Ricochet
+1 Wooded Foothills
+1 Wurmcoil Engine
 
 1 Godo, Bandit Warlord
-

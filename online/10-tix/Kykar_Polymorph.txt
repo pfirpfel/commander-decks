@@ -1,92 +1,91 @@
-1 Temple of Triumph
+1 Adarkar Wastes
+1 Anticipate
 1 Avacyn, Angel of Hope
 1 Azorius Signet
+1 Balefire Dragon
+1 Battlefield Forge
 1 Blazing Archon
 1 Boros Signet
-1 Temple of Epiphany
-1 Sulfur Falls
+1 Brainstorm
 1 Cleansing Nova
-1 Purphoros, Bronze-Blooded
-1 Stormtide Leviathan
-1 Sphinx of Uthuun
+1 Clifftop Retreat
 1 Consecrated Sphinx
+1 Cultural Exchange
+1 Cyclonic Rift
 1 Diluvian Primordial
 1 Distant Melody
 1 Dovin's Veto
 1 Drawn from Dreams
 1 Dream Cache
-1 Swiftwater Cliffs
+1 Elixir of Immortality
 1 Etali, Primal Storm
-1 Skullclamp
-1 Temple of Enlightenment
-1 Shivan Reef
-1 Narset, Parter of Veils
-1 Ponder
+1 Evolving Wilds
+1 Fact or Fiction
+1 Fellwar Stone
+1 Field of Ruin
 1 Fire Prophecy
-4 Plains
+1 Flood Plain
 1 Generous Gift
 1 Gisela, Blade of Goldnight
-1 Perilous Research
-1 Cultural Exchange
+1 Glacial Fortress
+1 Grasslands
 1 Hallowed Burial
-4 Mountain
 1 Hellkite Charger
 1 Irrigated Farmland
-1 Mishra's Factory
+5 Island
+1 Izzet Boilerworks
 1 Izzet Signet
-1 Role Reversal
+1 Kher Keep
 1 Lazotep Plating
 1 Mass Polymorph
 1 Medomai the Ageless
 1 Mind Stone
-5 Island
+1 Mishra's Factory
 1 Mission Briefing
 1 Mistveil Plains
-1 Kher Keep
-1 Grasslands
+4 Mountain
 1 Mystic Monastery
 1 Mystic Sanctuary
-1 Wind-Scarred Crag
-1 Glacial Fortress
-1 Flood Plain
+1 Narset, Parter of Veils
+1 Perilous Research
+4 Plains
 1 Polymorph
-1 Field of Ruin
+1 Ponder
 1 Prairie Stream
 1 Proteus Staff
-1 Adarkar Wastes
+1 Purphoros, Bronze-Blooded
 1 Reality Scramble
 1 Return to Dust
 1 Reweave
 1 Reya Dawnbringer
-1 Fellwar Stone
+1 Role Reversal
 1 Saheeli, Sublime Artificer
 1 See Beyond
 1 Sephara, Sky's Blade
-1 Fact or Fiction
-1 Evolving Wilds
-1 Cyclonic Rift
-1 Elixir of Immortality
-1 Void Winnower
-1 Izzet Boilerworks
+1 Shivan Reef
+1 Skullclamp
+1 Sphinx of Uthuun
 1 Steam Augury
-1 Clifftop Retreat
+1 Stormtide Leviathan
 1 Sudden Substitution
-1 Wayfarer's Bauble
+1 Sulfur Falls
 1 Swan Song
+1 Swiftwater Cliffs
 1 Synthetic Destiny
 1 Talisman of Conviction
 1 Talisman of Creativity
 1 Talisman of Progress
-1 Brainstorm
-1 Battlefield Forge
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
 1 Terminus
 1 Terramorphic Expanse
 1 Transmogrify
 1 Underworld Breach
 1 Urabrask the Hidden
-1 Anticipate
+1 Void Winnower
+1 Wayfarer's Bauble
+1 Wind-Scarred Crag
 1 Windbrisk Heights
-1 Balefire Dragon
 
 1 Kykar, Wind's Fury
-

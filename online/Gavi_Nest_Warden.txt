@@ -1,99 +1,98 @@
-2 Plains
-1 Valiant Rescuer
-1 Neutralize
-1 Reconnaissance Mission
-1 Shark Typhoon
-1 Drannith Stinger
-1 Unpredictable Cyclone
-1 Rielle, the Everwise
-1 Drake Haven
-1 Raugrin Crystal
-1 Flooded Strand
-1 Dismantling Wave
-1 Crystalline Resonance
-1 Spellpyre Phoenix
-1 Surly Badgersaur
-1 Fluctuator
+1 Abandoned Sarcophagus
+1 Agent of Treachery
+1 Akroma's Vengeance
+1 Alhammarret's Archive
+1 Angelsong
+1 Anointed Procession
 1 Arcane Signet
-1 The Locust God
-1 Sol Ring
+1 Arid Mesa
+1 Ash Barrens
 1 Astral Drift
-1 Striped Riverwinder
-1 Desert of the Fervent
-1 Desert of the True
-1 Desert of the Mindful
+1 Astral Slide
+1 Azorius Signet
+1 Bag of Holding
+1 Blasted Landscape
+1 Boon of the Wish-Giver
+1 Boros Signet
 1 Cast Out
 1 Censor
-1 Curator of Mysteries
-1 Hieroglyphic Illumination
-1 Lay Claim
-1 New Perspectives
-1 Sacred Excavation
-1 Irrigated Farmland
-1 Rescind
-1 Starstorm
-1 Secluded Steppe
-1 Decree of Silence
-1 Raugrin Triome
-1 Decree of Justice
-1 Akroma's Vengeance
-1 Lonely Sandbar
-1 Forgotten Cave
-1 Rebuild
-1 Miscalculation
-1 Radiant's Judgment
-1 Scrap
-1 Drifting Meadow
-1 Smoldering Crater
-1 Remote Isle
-1 Astral Slide
-1 Arid Mesa
-1 Nimble Obstructionist
-1 Tectonic Reformation
-1 Forsake the Worldly
-2 Island
-1 Abandoned Sarcophagus
-1 Boon of the Wish-Giver
-1 Ominous Seas
-1 Rooting Moloch
-1 Sun Titan
-1 Countervailing Winds
-1 Volcanic Island
-1 Tundra
-1 Ash Barrens
-1 Boros Signet
-1 Izzet Signet
-1 Azorius Signet
-1 Thought Vessel
-1 Reliquary Tower
-1 Blasted Landscape
-1 Command Tower
-1 Dockside Extortionist
-1 Mad Ratter
-1 Improbable Alliance
-1 Hoofprints of the Stag
-1 Anointed Procession
-1 Divine Visitation
-1 Alhammarret's Archive
-1 Plateau
-1 Migratory Route
-1 Angelsong
-1 Shredded Sails
-1 Mulldrifter
-1 Steam Vents
-1 Psychosis Crawler
 1 Cloudblazer
+1 Command Tower
+1 Countervailing Winds
+1 Crucible of Worlds
+1 Crystalline Resonance
+1 Curator of Mysteries
+1 Decree of Justice
+1 Decree of Silence
+1 Desert of the Fervent
+1 Desert of the Mindful
+1 Desert of the True
+1 Dismantling Wave
+1 Divine Visitation
+1 Dockside Extortionist
+1 Drake Haven
+1 Drannith Stinger
+1 Drifting Meadow
+1 Flooded Strand
+1 Fluctuator
+1 Forgotten Cave
+1 Forsake the Worldly
 1 Glint-Horn Buccaneer
 1 Hallowed Fountain
-1 Peregrine Drake
-1 Agent of Treachery
-1 Crucible of Worlds
-1 Bag of Holding
-1 Tribute Mage
-1 Solemn Simulacrum
-1 Scalding Tarn
-1 Sacred Foundry
+1 Hieroglyphic Illumination
+1 Hoofprints of the Stag
+1 Improbable Alliance
+1 Irrigated Farmland
+2 Island
+1 Izzet Signet
+1 Lay Claim
+1 Lonely Sandbar
+1 Mad Ratter
+1 Migratory Route
+1 Miscalculation
 2 Mountain
+1 Mulldrifter
+1 Neutralize
+1 New Perspectives
+1 Nimble Obstructionist
+1 Ominous Seas
+1 Peregrine Drake
+2 Plains
+1 Plateau
+1 Psychosis Crawler
+1 Radiant's Judgment
+1 Raugrin Crystal
+1 Raugrin Triome
+1 Rebuild
+1 Reconnaissance Mission
+1 Reliquary Tower
+1 Remote Isle
+1 Rescind
+1 Rielle, the Everwise
+1 Rooting Moloch
+1 Sacred Excavation
+1 Sacred Foundry
+1 Scalding Tarn
+1 Scrap
+1 Secluded Steppe
+1 Shark Typhoon
+1 Shredded Sails
+1 Smoldering Crater
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spellpyre Phoenix
+1 Starstorm
+1 Steam Vents
+1 Striped Riverwinder
+1 Sun Titan
+1 Surly Badgersaur
+1 Tectonic Reformation
+1 The Locust God
+1 Thought Vessel
+1 Tribute Mage
+1 Tundra
+1 Unpredictable Cyclone
+1 Valiant Rescuer
+1 Volcanic Island
 
 1 Gavi, Nest Warden
-

@@ -1,92 +1,91 @@
-1 Mystic Retrieval
-1 Talrand, Sky Summoner
-1 Mystic Confluence
-1 Ral's Outburst
-1 Starstorm
-1 Stomping Ground
-1 Shivan Reef
-1 Arcane Signet
-1 Niv-Mizzet, Parun
-1 Dig Through Time
-1 Sol Ring
-1 Propaganda
-1 Tribute to the Wild
-1 Chemister's Insight
 1 Ancient Grudge
-1 God-Eternal Kefnet
-1 Into the Roil
-1 Frantic Search
-1 Survivors' Encampment
-1 Seedborn Muse
-1 Nature's Lore
-1 Metallurgic Summonings
-1 Slice in Twain
-1 Fierce Guardianship
-1 Wilderness Reclamation
-1 Melek, Izzet Paragon
-1 Ketria Triome
-1 Fact or Fiction
-4 Mountain
-5 Island
-1 Nexus of Fate
-1 Growth Spiral
-1 Breeding Pool
-1 Nature's Claim
-1 Rashmi, Eternities Crafter
-1 Manamorphose
-1 Volcanic Island
-1 Harrow
-1 Frontier Bivouac
-1 Scalding Tarn
-1 Farseek
-1 Spire Garden
-1 Fellwar Stone
-1 Electrodominance
-1 Impulse
-1 Taiga
-1 Command Tower
-1 Rapid Hybridization
-1 Double Vision
-1 Beast Within
-1 Lightning Greaves
-1 Yavimaya Coast
-1 Exotic Orchard
-1 Prophetic Bolt
-1 Swarm Intelligence
-1 Bloom Tender
-1 Torrential Gearhulk
-1 Tropical Island
-1 Thousand-Year Storm
-1 Twinning Staff
-1 Comet Storm
-1 Wooded Foothills
-1 Brainstorm
 1 Anticipate
-1 Cinder Glade
-1 Chaos Warp
-1 Natural Connection
+1 Arcane Signet
 1 Artifact Mutation
-1 Surreal Memoir
-1 Steam Vents
-1 Crop Rotation
-1 Primal Amulet
-1 Cyclonic Rift
-1 Misty Rainforest
-1 Snap
-1 Holdout Settlement
-1 Thrill of Possibility
-1 Swiftfoot Boots
-1 Expansion/Explosion
-4 Forest
-1 Hinterland Harbor
-1 Roiling Regrowth
-1 Rimewood Falls
-1 Training Center
-1 Rejuvenating Springs
-1 Silundi Vision
-1 Three Visits
+1 Beast Within
+1 Bloom Tender
+1 Brainstorm
+1 Breeding Pool
+1 Chaos Warp
 1 Charmbreaker Devils
+1 Chemister's Insight
+1 Cinder Glade
+1 Comet Storm
+1 Command Tower
+1 Crop Rotation
+1 Cyclonic Rift
+1 Dig Through Time
+1 Double Vision
+1 Electrodominance
+1 Exotic Orchard
+1 Expansion/Explosion
+1 Fact or Fiction
+1 Farseek
+1 Fellwar Stone
+1 Fierce Guardianship
+4 Forest
+1 Frantic Search
+1 Frontier Bivouac
+1 God-Eternal Kefnet
+1 Growth Spiral
+1 Harrow
+1 Hinterland Harbor
+1 Holdout Settlement
+1 Impulse
+1 Into the Roil
+5 Island
+1 Ketria Triome
+1 Lightning Greaves
+1 Manamorphose
+1 Melek, Izzet Paragon
+1 Metallurgic Summonings
+1 Misty Rainforest
+4 Mountain
+1 Mystic Confluence
+1 Mystic Retrieval
+1 Natural Connection
+1 Nature's Claim
+1 Nature's Lore
+1 Nexus of Fate
+1 Niv-Mizzet, Parun
+1 Primal Amulet
+1 Propaganda
+1 Prophetic Bolt
+1 Ral's Outburst
+1 Rapid Hybridization
+1 Rashmi, Eternities Crafter
 1 Reality Shift
+1 Rejuvenating Springs
+1 Rimewood Falls
+1 Roiling Regrowth
+1 Scalding Tarn
+1 Seedborn Muse
+1 Shivan Reef
+1 Silundi Vision
+1 Slice in Twain
+1 Snap
+1 Sol Ring
+1 Spire Garden
+1 Starstorm
+1 Steam Vents
+1 Stomping Ground
+1 Surreal Memoir
+1 Survivors' Encampment
+1 Swarm Intelligence
+1 Swiftfoot Boots
+1 Taiga
+1 Talrand, Sky Summoner
+1 Thousand-Year Storm
+1 Three Visits
+1 Thrill of Possibility
+1 Torrential Gearhulk
+1 Training Center
+1 Tribute to the Wild
+1 Tropical Island
+1 Twinning Staff
+1 Volcanic Island
+1 Wilderness Reclamation
+1 Wooded Foothills
+1 Yavimaya Coast
 
 1 Kalamax, the Stormsire
-

@@ -1,95 +1,94 @@
-1 Callous Oppressor
-1 Thief of Sanity
-1 Gonti, Lord of Luxury
-1 Aphetto Alchemist
-1 Vizier of Tumbling Sands
-1 Arcanis the Omnipotent
+1 Acquire
+1 Agent of Treachery
 1 Ancient Tomb
-1 Command Tower
-1 Flooded Strand
-1 Illusionist's Bracers
-1 Thousand-Year Elixir
-1 Swords to Plowshares
-1 Counterspell
-1 Conjurer's Closet
-1 Magewright's Stone
 1 Anguished Unmaking
-1 Utter End
+1 Aphetto Alchemist
+1 Arcane Lighthouse
+1 Arcane Signet
+1 Arcanis the Omnipotent
+1 Archaeomancer
+1 Ashiok, Dream Render
 1 Avatar of Woe
+1 Azorius Signet
+1 Bojuka Bog
+1 Bribery
+1 Brightclimb Pathway
+1 Callous Oppressor
+1 Caves of Koilos
+1 Clearwater Pathway
+1 Coffin Queen
+1 Command Tower
+1 Conjurer's Closet
+1 Consecrated Sphinx
+1 Counterspell
+1 Crush Contraband
+1 Cyclonic Rift
 1 Deadeye Navigator
-1 Scrubland
-1 Hostage Taker
+1 Demonic Tutor
+1 Desertion
+1 Detection Tower
+1 Dimir Signet
+1 Drowned Catacomb
+1 Empress Galina
+1 Fierce Guardianship
+1 Flooded Strand
+1 Ghostly Prison
+1 Glacial Fortress
+1 Godless Shrine
+1 Gonti, Lord of Luxury
 1 Hallowed Fountain
-1 Polluted Delta
+1 Hostage Taker
+1 Illusionist's Bracers
+3 Island
+1 Isolated Chapel
+1 Leyline of Anticipation
+1 Magewright's Stone
+1 Mana Drain
 1 Mangara of Corondor
 1 Marsh Flats
-1 Strip Mine
-1 Desertion
-1 Return to Dust
-1 Crush Contraband
-1 Bribery
-1 Acquire
-1 Thada Adel, Acquisitor
-1 Time Wipe
 1 Merciless Eviction
-1 Arcane Lighthouse
-1 Detection Tower
 1 Minamo, School at Water's Edge
-1 Azorius Signet
+1 Morphic Pool
 1 Orzhov Signet
-1 Dimir Signet
+1 Phyrexian Arena
+4 Plains
+1 Polluted Delta
+1 Prairie Stream
+1 Preacher
+1 Prismatic Vista
+1 Propaganda
+1 Pull from Tomorrow
+1 Puppeteer Clique
+1 Reliquary Tower
+1 Return to Dust
+1 Rhystic Study
+1 Scrubland
+1 Sea of Clouds
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul-Guide Lantern
+1 Sphinx's Revelation
+1 Strip Mine
+1 Sunken Hollow
+3 Swamp
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Syphon Mind
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
-1 Isolated Chapel
-1 Glacial Fortress
-1 Drowned Catacomb
-1 Caves of Koilos
-1 Sunken Hollow
-1 Prairie Stream
-1 Puppeteer Clique
-1 Tundra
-1 Syphon Mind
-4 Plains
-3 Island
-3 Swamp
-1 Soul-Guide Lantern
-1 Consecrated Sphinx
-1 Archaeomancer
-1 Preacher
-1 Sphinx's Revelation
-1 Watery Grave
-1 Underground Sea
-1 Leyline of Anticipation
-1 Ashiok, Dream Render
-1 Pull from Tomorrow
-1 Godless Shrine
-1 Phyrexian Arena
-1 Reliquary Tower
-1 Swiftfoot Boots
-1 Bojuka Bog
-1 The Scarab God
-1 Tribute Mage
-1 Morphic Pool
-1 Arcane Signet
-1 Sol Ring
-1 Mana Drain
-1 Fierce Guardianship
+1 Thada Adel, Acquisitor
 1 Thassa, Deep-Dwelling
-1 Rhystic Study
-1 Agent of Treachery
-1 Cyclonic Rift
-1 Empress Galina
-1 Coffin Queen
-1 Solemn Simulacrum
+1 The Scarab God
+1 Thief of Sanity
+1 Thousand-Year Elixir
+1 Time Wipe
+1 Tribute Mage
+1 Tundra
 1 Unbender Tine
-1 Propaganda
-1 Ghostly Prison
-1 Demonic Tutor
-1 Sea of Clouds
-1 Prismatic Vista
-1 Brightclimb Pathway
-1 Clearwater Pathway
+1 Underground Sea
+1 Utter End
+1 Vizier of Tumbling Sands
+1 Watery Grave
 
 1 Merieke Ri Berit
-

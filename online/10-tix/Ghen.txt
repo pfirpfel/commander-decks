@@ -1,90 +1,89 @@
-1 Sphere of Safety
-1 Nomad Outpost
-1 Terramorphic Expanse
-1 Temple of Malice
+1 Agent of Erebos
+1 Akoum Refuge
+1 Anguished Unmaking
+1 Archon of Sun's Grace
+1 Austere Command
+1 Battlefield Forge
 1 Bloodfell Caves
-1 Savai Triome
-1 Ruinous Ultimatum
-1 Underworld Breach
-1 Overwhelming Splendor
-1 Treacherous Blessing
+1 Boros Signet
+1 Canyon Slough
+1 Captive Audience
+1 Cathartic Reunion
+1 Caves of Koilos
+1 Clifftop Retreat
+1 Command Tower
+1 Commander's Sphere
+1 Crackdown
+1 Crush Contraband
+1 Debtors' Knell
+1 Delaying Shield
+1 Demonic Lore
+1 Divine Reckoning
+1 Doom Foretold
+1 Doomwake Giant
+1 Dragonskull Summit
 1 Elspeth Conquers Death
 1 Escape Velocity
-1 Gravebreaker Lamia
-1 Doomwake Giant
-1 Doom Foretold
-1 Fires of Invention
-1 Temple of Silence
-1 Revenge of Ravens
-1 Starfield Mystic
-1 Hall of Heliod's Generosity
-1 Talisman of Hierarchy
-1 Talisman of Conviction
-1 Captive Audience
-1 Final Parting
-1 Crush Contraband
-1 Austere Command
-1 The Eldest Reborn
-1 Haphazard Bombardment
-1 Slaughter the Strong
-1 Sunbird's Invocation
-5 Mountain
-1 Marchesa's Decree
-1 Oath of Liliana
-1 Anguished Unmaking
-1 Agent of Erebos
-1 Commander's Sphere
-6 Plains
-1 Canyon Slough
-1 Battlefield Forge
-1 Akoum Refuge
-4 Swamp
-1 Heliod, God of the Sun
-1 Phyrexian Scriptures
-1 Faithless Looting
-1 Divine Reckoning
-1 Caves of Koilos
-1 Expedition Map
-1 Journey to Nowhere
-1 Sulfurous Springs
-1 Necromancer's Covenant
-1 Vicious Shadows
-1 Rise of the Hobgoblins
-1 Triclopean Sight
-1 Mesa Enchantress
-1 Archon of Sun's Grace
-1 Spirit Loop
-1 Oblivion Ring
-1 Debtors' Knell
-1 Hissing Miasma
-1 Dragonskull Summit
-1 Command Tower
-1 Clifftop Retreat
-1 Talisman of Indulgence
-1 Isolated Chapel
-1 Orzhov Basilica
-1 Delaying Shield
-1 Tormenting Voice
-1 Cathartic Reunion
-1 Wrath of God
-1 Parallax Wave
-1 Replenish
 1 Evolving Wilds
-1 Underworld Connections
-1 Thrill of Possibility
-1 Crackdown
-1 Stolen Strategy
-1 Oath of Chandra
-1 Demonic Lore
-1 Sigil of the Empty Throne
-1 Path of Ancestry
+1 Expedition Map
+1 Faithless Looting
+1 Final Parting
+1 Fires of Invention
 1 Geier Reach Sanitarium
-1 Temple of Triumph
-1 Rakdos Signet
-1 Boros Signet
+1 Gravebreaker Lamia
+1 Hall of Heliod's Generosity
+1 Haphazard Bombardment
+1 Heliod, God of the Sun
+1 Hissing Miasma
+1 Isolated Chapel
+1 Journey to Nowhere
+1 Marchesa's Decree
+1 Mesa Enchantress
+5 Mountain
+1 Necromancer's Covenant
+1 Nomad Outpost
+1 Oath of Chandra
+1 Oath of Liliana
+1 Oblivion Ring
+1 Orzhov Basilica
 1 Orzhov Signet
-1 Wind-Scarred Crag
+1 Overwhelming Splendor
+1 Parallax Wave
+1 Path of Ancestry
+1 Phyrexian Scriptures
+6 Plains
+1 Rakdos Signet
+1 Replenish
+1 Revenge of Ravens
+1 Rise of the Hobgoblins
+1 Ruinous Ultimatum
+1 Savai Triome
 1 Scoured Barrens
+1 Sigil of the Empty Throne
+1 Slaughter the Strong
+1 Sphere of Safety
+1 Spirit Loop
+1 Starfield Mystic
+1 Stolen Strategy
+1 Sulfurous Springs
+1 Sunbird's Invocation
+4 Swamp
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 Terramorphic Expanse
+1 The Eldest Reborn
+1 Thrill of Possibility
+1 Tormenting Voice
+1 Treacherous Blessing
+1 Triclopean Sight
+1 Underworld Breach
+1 Underworld Connections
+1 Vicious Shadows
+1 Wind-Scarred Crag
+1 Wrath of God
 
 1 Ghen, Arcanum Weaver
-

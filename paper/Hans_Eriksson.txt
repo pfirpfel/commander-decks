@@ -1,91 +1,90 @@
-1 Hua Tuo, Honored Physician
-1 Vigor
-1 Needletooth Raptor
-1 Ranging Raptors
-1 Darksteel Plate
-1 Magebane Armor
-1 Yavimaya Hollow
-1 Broken Fall
-1 Maze of Ith
-1 Worldly Tutor
-1 Scroll Rack
-1 Sylvan Library
-1 Mwonvuli Beast Tracker
-1 Brutalizer Exarch
-1 Radha, Heart of Keld
-1 Meteor Golem
-1 Castle Garenbrig
-1 Mana Crypt
-1 Selvala, Heart of the Wilds
-1 Ancient Tomb
-1 Sensei's Divining Top
-1 Windswept Heath
-1 Kogla, the Titan Ape
-1 Kodama of the East Tree
-1 Hellkite Tyrant
-1 Ilharg, the Raze-Boar
-1 Terror of the Peaks
-1 Stonehoof Chieftain
-7 Snow-Covered Mountain
-1 Moraug, Fury of Akoum
-1 Scourge of the Throne
-1 Fabled Passage
-1 Savage Ventmaw
-1 Sakura-Tribe Elder
-1 Myriad Landscape
-1 Lurking Predators
-1 Deflecting Swat
-1 Heroic Intervention
-1 Taiga
-1 Cinder Glade
-1 Scavenger Grounds
-1 Drakuseth, Maw of Flames
-1 Terastodon
 1 Anara, Wolvid Familiar
-1 Dragonlord Atarka
-1 Rootbound Crag
-1 Courser of Kruphix
-1 Rogue's Passage
-1 Sheltered Thicket
-1 Manglehorn
-1 Spire Garden
-1 Vizier of the Menagerie
-1 Kessig Wolf Run
-1 Bala Ged Recovery
-1 Blasphemous Act
-1 Return of the Wildspeaker
-1 Vandalblast
-1 Nature's Lore
-1 Three Visits
-1 Into the North
-1 Farseek
-1 Command Tower
-1 Bonders' Enclave
-1 Stomping Ground
-6 Snow-Covered Forest
-1 Mirri's Guile
-1 Wooded Foothills
-1 Sol Ring
-1 Balefire Dragon
-1 Cream of the Crop
-1 Port Razer
-1 Xenagos, God of Revels
-1 Thunderfoot Baloth
-1 Quartzwood Crasher
-1 Cragcrown Pathway
-1 Highland Forest
-1 Asceticism
+1 Ancient Tomb
 1 Arcane Signet
-1 Once and Future
 1 Arid Mesa
-1 Karplusan Forest
-1 Noxious Revival
-1 Nature's Claim
-1 Rampant Growth
-1 Elemental Bond
-1 Garruk's Uprising
-1 Turntimber Symbiosis
+1 Asceticism
+1 Bala Ged Recovery
+1 Balefire Dragon
+1 Blasphemous Act
+1 Bonders' Enclave
+1 Broken Fall
+1 Brutalizer Exarch
+1 Castle Garenbrig
+1 Cinder Glade
+1 Command Tower
+1 Courser of Kruphix
+1 Cragcrown Pathway
+1 Cream of the Crop
+1 Darksteel Plate
+1 Deflecting Swat
 1 Disaster Radius
+1 Dragonlord Atarka
+1 Drakuseth, Maw of Flames
+1 Elemental Bond
+1 Fabled Passage
+1 Farseek
+1 Garruk's Uprising
+1 Hellkite Tyrant
+1 Heroic Intervention
+1 Highland Forest
+1 Hua Tuo, Honored Physician
+1 Ilharg, the Raze-Boar
+1 Into the North
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Kodama of the East Tree
+1 Kogla, the Titan Ape
+1 Lurking Predators
+1 Magebane Armor
+1 Mana Crypt
+1 Manglehorn
+1 Maze of Ith
+1 Meteor Golem
+1 Mirri's Guile
+1 Moraug, Fury of Akoum
+1 Mwonvuli Beast Tracker
+1 Myriad Landscape
+1 Nature's Claim
+1 Nature's Lore
+1 Needletooth Raptor
+1 Noxious Revival
+1 Once and Future
+1 Port Razer
+1 Quartzwood Crasher
+1 Radha, Heart of Keld
+1 Rampant Growth
+1 Ranging Raptors
+1 Return of the Wildspeaker
+1 Rogue's Passage
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Savage Ventmaw
+1 Scavenger Grounds
+1 Scourge of the Throne
+1 Scroll Rack
+1 Selvala, Heart of the Wilds
+1 Sensei's Divining Top
+1 Sheltered Thicket
+6 Snow-Covered Forest
+7 Snow-Covered Mountain
+1 Sol Ring
+1 Spire Garden
+1 Stomping Ground
+1 Stonehoof Chieftain
+1 Sylvan Library
+1 Taiga
+1 Terastodon
+1 Terror of the Peaks
+1 Three Visits
+1 Thunderfoot Baloth
+1 Turntimber Symbiosis
+1 Vandalblast
+1 Vigor
+1 Vizier of the Menagerie
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Xenagos, God of Revels
+1 Yavimaya Hollow
 
 1 Hans Eriksson
-

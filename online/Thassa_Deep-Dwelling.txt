@@ -1,83 +1,82 @@
-1 Sol Ring
-1 Sky Diamond
+1 Ancient Tomb
+1 Arcane Signet
 1 Arch of Orazca
-1 Castle Vantress
-1 Cavern of Souls
-1 Sapphire Medallion
-1 Isolated Watchtower
-1 Rhystic Study
-1 Memorial to Genius
-1 Reality Shift
-1 Mystic Sanctuary
-1 Nykthos, Shrine to Nyx
-1 Path of Ancestry
-1 Riptide Laboratory
-1 Scavenger Grounds
-1 Mystic Confluence
-1 Wasteland
 1 Archaeomancer
 1 Archetype of Imagination
 1 Azami, Lady of Scrolls
-1 Cloudkin Seer
-1 Fierce Guardianship
-1 Floodgate
-1 Galecaster Colossus
-1 Master of Waves
-1 Merfolk Trickster
-1 Mizzium Meddler
-1 Naban, Dean of Iteration
-1 Naru Meha, Master Wizard
-1 Overtaker
-1 Patron Wizard
-1 Scourge of Fleets
-1 Fellwar Stone
-1 Riptide Director
-1 Sage of Fables
-1 Counterspell
-1 Sea Gate Oracle
-1 Sower of Temptation
-1 Stonybrook Banneret
-1 Watcher for Tomorrow
-1 Thassa's Oracle
-1 Venser, Shaper Savant
-1 Thalakos Seer
-1 Arcane Signet
+1 Barrin, Tolarian Archmage
 1 Caged Sun
+1 Castle Vantress
+1 Cavern of Souls
 1 Chamber of Manipulation
+1 Cloudkin Seer
 1 Conjurer's Closet
-1 Scholar of the Ages
+1 Counterspell
 1 Cryptic Command
 1 Crystal Shard
 1 Curse of the Swine
 1 Cyclonic Rift
+1 Desert of the Mindful
 1 Disallow
 1 Displacement Wave
 1 Distant Melody
-1 Pondering Mage
+1 Docent of Perfection
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Floodgate
+1 Galecaster Colossus
 1 Ghostly Flicker
 1 Herald's Horn
 1 Illusionist's Stratagem
 1 Imprisoned in the Moon
 1 Inundate
+20 Island
+1 Isolated Watchtower
 1 Kindred Discovery
+1 Lonely Sandbar
+1 Master of Waves
+1 Memorial to Genius
+1 Merfolk Trickster
 1 Mind Stone
-1 Strip Mine
-1 Reliquary Tower
+1 Mizzium Meddler
+1 Myriad Landscape
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 Naban, Dean of Iteration
+1 Naru Meha, Master Wizard
+1 Nykthos, Shrine to Nyx
+1 Overtaker
 1 Panharmonicon
 1 Paradoxical Outcome
-1 Myriad Landscape
-1 Lonely Sandbar
-1 Desert of the Mindful
-1 Ancient Tomb
-20 Island
+1 Path of Ancestry
+1 Patron Wizard
+1 Pondering Mage
+1 Reality Shift
+1 Reliquary Tower
+1 Rhystic Study
+1 Riptide Director
+1 Riptide Laboratory
+1 Sage of Fables
+1 Sapphire Medallion
+1 Scavenger Grounds
+1 Scholar of the Ages
+1 Scourge of Fleets
+1 Sea Gate Oracle
+1 Sky Diamond
+1 Sol Ring
+1 Solemn Simulacrum
 1 Soul-Guide Lantern
+1 Sower of Temptation
+1 Stonybrook Banneret
 1 Strionic Resonator
+1 Strip Mine
+1 Thalakos Seer
+1 Thassa's Oracle
 1 Thought Vessel
 1 Vanquisher's Banner
 1 Vedalken Shackles
-1 Docent of Perfection
-1 Solemn Simulacrum
-1 Barrin, Tolarian Archmage
+1 Venser, Shaper Savant
+1 Wasteland
+1 Watcher for Tomorrow
 
 1 Thassa, Deep-Dwelling
-

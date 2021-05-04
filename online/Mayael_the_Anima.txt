@@ -1,90 +1,89 @@
-1 Purphoros, Bronze-Blooded
-1 Heliod's Intervention
-1 Eternal Witness
-1 Taiga
-1 Savannah
-1 Realm-Cloaked Giant
-1 The Great Henge
-1 Thorn Mammoth
-1 Arcane Signet
-1 Apex Altisaur
-1 Temple Garden
-1 Drakuseth, Maw of Flames
-1 Winds of Abandon
-1 Generous Gift
-1 Beanstalk Giant
-1 Smothering Tithe
-1 Stomping Ground
-1 Cleansing Nova
-1 Sarkhan's Unsealing
-1 Champion of Rhonas
-1 Stolen Strategy
-1 Bountiful Promenade
-1 Spire Garden
-1 Pir's Whim
-1 Etali, Primal Storm
-1 Zacama, Primal Calamity
-1 The Immortal Sun
-1 Command Tower
-1 Sheltered Thicket
-1 Scattered Groves
-1 Clifftop Retreat
-1 Rishkar's Expertise
-1 Plateau
-1 Arid Mesa
-1 Wooded Foothills
-1 Zendikar Resurgent
-1 Blazing Archon
-1 Greenwarden of Murasa
-1 Windswept Heath
-1 Canopy Vista
-1 Cinder Glade
-1 Sacred Foundry
-1 Dragonlord Atarka
-1 Krosan Verge
-1 Three Visits
-1 Sylvan Library
-1 Selvala, Explorer Returned
-1 Xenagos, God of Revels
-1 Ilharg, the Raze-Boar
-1 Gisela, Blade of Goldnight
-1 Combustible Gearhulk
-1 Terastodon
-1 Avacyn, Angel of Hope
-1 Hellkite Tyrant
-1 Lurking Predators
-1 Selvala, Heart of the Wilds
-1 Selvala's Stampede
-1 Seedborn Muse
-1 Rhythm of the Wild
-1 Lightning Greaves
-1 Swiftfoot Boots
-1 Farseek
-1 Nature's Lore
-1 Cultivate
-1 Steel Hellkite
-1 Oracle of Mul Daya
-1 Skyshroud Claim
-1 Sakura-Tribe Elder
-1 Sol Ring
-1 Verdant Sun's Avatar
-1 Balefire Dragon
-1 Woodfall Primus
-1 Moldgraf Monstrosity
-1 Beast Within
-1 Swords to Plowshares
-1 Teferi's Protection
-1 Austere Command
-1 Harmonize
-1 Scroll Rack
-1 Guardian Project
 1 Ancient Tomb
+1 Apex Altisaur
+1 Arcane Signet
+1 Arid Mesa
+1 Austere Command
+1 Avacyn, Angel of Hope
+1 Balefire Dragon
+1 Beanstalk Giant
+1 Beast Within
+1 Blazing Archon
+1 Bountiful Promenade
+1 Canopy Vista
 1 Castle Garenbrig
-1 Mosswort Bridge
-1 Kessig Wolf Run
+1 Champion of Rhonas
+1 Cinder Glade
+1 Cleansing Nova
+1 Clifftop Retreat
+1 Combustible Gearhulk
+1 Command Tower
+1 Cultivate
+1 Dragonlord Atarka
+1 Drakuseth, Maw of Flames
+1 Etali, Primal Storm
+1 Eternal Witness
+1 Farseek
 5 Forest
+1 Generous Gift
+1 Gisela, Blade of Goldnight
+1 Greenwarden of Murasa
+1 Guardian Project
+1 Harmonize
+1 Heliod's Intervention
+1 Hellkite Tyrant
+1 Ilharg, the Raze-Boar
+1 Kessig Wolf Run
+1 Krosan Verge
+1 Lightning Greaves
+1 Lurking Predators
+1 Moldgraf Monstrosity
+1 Mosswort Bridge
 5 Mountain
+1 Nature's Lore
+1 Oracle of Mul Daya
+1 Pir's Whim
 5 Plains
+1 Plateau
+1 Purphoros, Bronze-Blooded
+1 Realm-Cloaked Giant
+1 Rhythm of the Wild
+1 Rishkar's Expertise
+1 Sacred Foundry
+1 Sakura-Tribe Elder
+1 Sarkhan's Unsealing
+1 Savannah
+1 Scattered Groves
+1 Scroll Rack
+1 Seedborn Muse
+1 Selvala's Stampede
+1 Selvala, Explorer Returned
+1 Selvala, Heart of the Wilds
+1 Sheltered Thicket
+1 Skyshroud Claim
+1 Smothering Tithe
+1 Sol Ring
+1 Spire Garden
+1 Steel Hellkite
+1 Stolen Strategy
+1 Stomping Ground
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Sylvan Library
+1 Taiga
+1 Teferi's Protection
+1 Temple Garden
+1 Terastodon
+1 The Great Henge
+1 The Immortal Sun
+1 Thorn Mammoth
+1 Three Visits
+1 Verdant Sun's Avatar
+1 Winds of Abandon
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodfall Primus
+1 Xenagos, God of Revels
+1 Zacama, Primal Calamity
+1 Zendikar Resurgent
 
 1 Mayael the Anima
-

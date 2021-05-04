@@ -1,80 +1,79 @@
-1 Enlightened Tutor
-1 Soltari Guerrillas
-1 Wasteland
-1 Ravenous Baboons
-1 Soltari Visionary
-1 Karmic Guide
-1 Viashino Heretic
-1 Flametongue Kavu
-1 Weathered Wayfarer
-1 Blood Moon
-1 Mind's Eye
-1 Taj-Nar Swordsmith
-1 Duplicant
-1 Darksteel Ingot
-1 Leonin Shikari
-1 Blinkmoth Nexus
-1 Sword of Fire and Ice
-1 Sword of Light and Shadow
-1 Godo, Bandit Warlord
-1 Sunforger
-1 Boros Garrison
-1 Sunhome, Fortress of the Legion
-1 Boros Signet
-1 Sacred Foundry
-1 Return to Dust
-1 Desolation Giant
-1 Magus of the Moon
-1 Coalition Relic
-1 Austere Command
-1 Ancient Amphitheater
-1 Stonehewer Giant
-1 Reveillark
-1 Archon of Justice
-1 Rugged Prairie
-1 Hallowed Burial
-1 Duergar Hedge-Mage
-1 Mana Crypt
-1 Imperial Recruiter
-1 Sanctum Gargoyle
-1 Swords to Plowshares
-1 Martial Coup
-1 Land Tax
-1 Skullclamp
-1 Sensei's Divining Top
-1 Arid Mesa
-1 Emeria, the Sky Ruin
-1 Kor Sanctifiers
-10 Mountain
-14 Plains
-1 Basilisk Collar
-1 Lightning Greaves
 1 All Is Dust
+1 Ancient Amphitheater
+1 Archon of Justice
+1 Argentum Armor
+1 Arid Mesa
+1 Austere Command
+1 Basilisk Collar
+1 Batterskull
+1 Blinkmoth Nexus
+1 Blood Moon
+1 Boros Garrison
+1 Boros Signet
+1 Buried Ruin
+1 Chaos Warp
+1 Clifftop Retreat
+1 Coalition Relic
 1 Condemn
-1 Sun Titan
+1 Darksteel Ingot
+1 Desolation Giant
+1 Duergar Hedge-Mage
+1 Duplicant
+1 Emeria, the Sky Ruin
+1 Enlightened Tutor
+1 Flametongue Kavu
+1 Godo, Bandit Warlord
+1 Hallowed Burial
+1 Hero of Bladehold
+1 Homeward Path
+1 Imperial Recruiter
+1 Inferno Titan
+1 Inkmoth Nexus
+1 Karmic Guide
+1 Kemba, Kha Regent
+1 Kor Sanctifiers
+1 Land Tax
+1 Leonin Shikari
+1 Lightning Greaves
+1 Magus of the Moon
+1 Mana Crypt
+1 Martial Coup
+1 Mind's Eye
+1 Mirran Crusader
+10 Mountain
+1 Oblation
+14 Plains
+1 Plateau
+1 Puresteel Paladin
+1 Ravenous Baboons
+1 Razor Hippogriff
+1 Return to Dust
+1 Reveillark
+1 Rugged Prairie
+1 Sacred Foundry
+1 Sanctum Gargoyle
+1 Sensei's Divining Top
+1 Skullclamp
 1 Sol Ring
+1 Solemn Simulacrum
+1 Soltari Guerrillas
+1 Soltari Visionary
+1 Spikeshot Elder
 1 Steel Hellkite
 1 Stoneforge Mystic
-1 Razor Hippogriff
-1 Spikeshot Elder
-1 Kemba, Kha Regent
-1 Argentum Armor
-1 Plateau
-1 Wheel of Fortune
-1 Inkmoth Nexus
-1 Mirran Crusader
-1 Hero of Bladehold
-1 Sword of Feast and Famine
-1 Puresteel Paladin
-1 Batterskull
-1 Homeward Path
-1 Chaos Warp
-1 Oblation
-1 Inferno Titan
+1 Stonehewer Giant
+1 Sun Titan
+1 Sunforger
+1 Sunhome, Fortress of the Legion
 1 Swiftfoot Boots
-1 Buried Ruin
-1 Clifftop Retreat
-1 Solemn Simulacrum
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Swords to Plowshares
+1 Taj-Nar Swordsmith
+1 Viashino Heretic
+1 Wasteland
+1 Weathered Wayfarer
+1 Wheel of Fortune
 
 1 Jor Kadeen, the Prevailer
-

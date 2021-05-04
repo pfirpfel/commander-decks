@@ -1,86 +1,86 @@
 1 Admonition Angel
-1 Vilis, Broker of Blood
+1 Ancient Tomb
 1 Angel of Condemnation
 1 Angel of Sanctions
-1 Undead Gladiator
+1 Angelic Renewal
 1 Archfiend of Ifnir
-1 The Wanderer
+1 Ash Barrens
 1 Ashen Rider
 1 Astral Drift
-1 Temple of Silence
+1 Astral Slide
 1 Athreos, God of Passage
-8 Swamp
 1 Ayli, Eternal Pilgrim
-1 Sun Titan
+1 Barren Moor
 1 Bojuka Bog
 1 Burnished Hart
-1 Sol Ring
+1 Cabal Coffers
 1 Cast Out
 1 Castle Locthwain
 1 Caves of Koilos
 1 Command the Dreadhorde
-1 Sheoldred, Whispering One
+1 Command Tower
 1 Concealed Courtyard
 1 Crypt Ghast
-1 Secluded Steppe
-1 Scrubland
+1 Desert of the Glorified
+1 Desert of the True
 1 Dictate of Erebos
-1 Polluted Mire
+1 Drifting Meadow
 1 Emeria Shepherd
 1 Endless Sands
 1 Erebos, Bleak-Hearted
 1 Erebos, God of the Dead
-5 Plains
+1 Fellwar Stone
 1 Fiend Hunter
+1 Flickerwisp
 1 Galepowder Mage
 1 Glimmerpoint Stag
-1 Phyrexian Altar
+1 Godless Shrine
 1 Grasp of Fate
-1 Myriad Landscape
-1 Knight of the White Orchid
+1 Gray Merchant of Asphodel
+1 High Market
 1 Kambal, Consul of Allocation
 1 Karmic Guide
 1 Kaya's Wrath
-1 High Market
+1 Knight of the White Orchid
 1 Lifeline
 1 Lightning Greaves
 1 Liliana, Dreadhorde General
 1 Marsh Flats
 1 Merciless Eviction
-1 Gray Merchant of Asphodel
+1 Myriad Landscape
 1 Nightmare Shepherd
 1 Noxious Gearhulk
 1 Orzhov Signet
 1 Panharmonicon
 1 Parallax Wave
 1 Path to Exile
-1 Godless Shrine
-1 Flickerwisp
-1 Fellwar Stone
-1 Drifting Meadow
+1 Phyrexian Altar
+1 Phyrexian Arena
+5 Plains
+1 Polluted Mire
 1 Profane Procession
 1 Recruiter of the Guard
 1 Reveillark
-1 Desert of the True
-1 Desert of the Glorified
-1 Command Tower
+1 Scrubland
+1 Secluded Steppe
+1 Sheoldred, Whispering One
 1 Smothering Tithe
-1 Cabal Coffers
+1 Sol Ring
 1 Solemn Simulacrum
 1 Strionic Resonator
-1 Barren Moor
-1 Phyrexian Arena
+1 Sun Titan
+8 Swamp
 1 Sword of the Animist
 1 Talisman of Hierarchy
-1 Astral Slide
+1 Temple of Silence
 1 Teysa Karlov
 1 Teysa, Orzhov Scion
-1 Ash Barrens
+1 The Wanderer
 1 Toxic Deluge
 1 Tymna the Weaver
-1 Angelic Renewal
+1 Undead Gladiator
 1 Urborg, Tomb of Yawgmoth
-1 Ancient Tomb
+1 Vilis, Broker of Blood
 1 Viscera Seer
 1 Wayfarer's Bauble
 1 Westvale Abbey
@@ -88,4 +88,3 @@
 1 Wrath of God
 
 1 Athreos, Shroud-Veiled
-

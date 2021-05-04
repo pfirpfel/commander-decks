@@ -1,91 +1,90 @@
-1 Dictate of Erebos
-1 Rotlung Reanimator
-1 Teysa Karlov
+1 Agadeem's Awakening
+1 Ancient Tomb
+1 Anguished Unmaking
+1 Arcane Signet
+1 Ashnod's Altar
+1 Auriok Champion
+1 Austere Command
+1 Ayli, Eternal Pilgrim
+1 Bitterblossom
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Bygone Bishop
+1 Castle Ardenvale
 1 Castle Locthwain
 1 Caves of Koilos
-1 Solemn Simulacrum
+1 Celestial Gatekeeper
+1 Cleric of Life's Bond
+1 Command Tower
 1 Concealed Courtyard
-1 Fetid Heath
-1 Sol Ring
-1 Mother of Runes
-1 Skullclamp
-1 Marsh Flats
-1 Soul Warden
-1 Orzhov Basilica
-1 War Priest of Thune
-1 Swords to Plowshares
-1 Hanweir Militia Captain
-1 Silent Clearing
-1 Starlit Sanctum
-1 Castle Ardenvale
-1 Vault of the Archangel
-1 Phyrexian Altar
-1 Remorseful Cleric
-6 Swamp
-1 Ayli, Eternal Pilgrim
-1 Teferi's Protection
-1 Land Tax
-1 Ashnod's Altar
-1 Yawgmoth, Thran Physician
-1 Toxic Deluge
-1 Doomed Necromancer
-1 Ancient Tomb
-1 Scrubland
-1 Luminous Broodmoth
-1 Whisper, Blood Liturgist
-7 Plains
-1 Leonin Relic-Warder
-1 Phyrexian Tower
-1 Anguished Unmaking
+1 Cruel Celebrant
+1 Custodi Lich
 1 Demon's Disciple
 1 Devout Chaplain
+1 Dictate of Erebos
+1 Doomed Necromancer
+1 Drana, the Last Bloodchief
+1 Dusk/Dawn
+1 Edgewalker
+1 Erebos, Bleak-Hearted
+1 Fetid Heath
 1 Fiend Hunter
-1 Reliquary Monk
-1 Skyclave Cleric
+1 Godless Shrine
+1 Grim Haruspex
+1 Hanweir Militia Captain
+1 High Market
 1 Isolated Chapel
+1 Land Tax
+1 Leonin Relic-Warder
+1 Liliana, Heretical Healer
+1 Luminous Broodmoth
+1 Malakir Rebirth
+1 Mangara, the Diplomat
+1 Marsh Flats
+1 Midnight Reaper
+1 Mother of Runes
+1 Orah, Skyclave Hierophant
+1 Orzhov Basilica
+1 Orzhov Signet
+1 Oversold Cemetery
+1 Phyrexian Altar
+1 Phyrexian Tower
+1 Pious Evangel
+7 Plains
 1 Preacher
 1 Priest of Forgotten Gods
-1 Grim Haruspex
-1 Midnight Reaper
-1 Taborax, Hope's Demise
-1 Celestial Gatekeeper
-1 Erebos, Bleak-Hearted
-1 Mangara, the Diplomat
-1 Twilight Prophet
-1 Brightclimb Pathway
-1 High Market
-1 Selfless Spirit
-1 Soul's Attendant
-1 Auriok Champion
-1 Cruel Celebrant
-1 Suture Priest
-1 Zulaport Cutthroat
-1 Bojuka Bog
 1 Relic Vial
-1 Vito, Thorn of the Dusk Rose
-1 Godless Shrine
-1 Bitterblossom
-1 Arcane Signet
-1 Orzhov Signet
-1 Talisman of Hierarchy
-1 Edgewalker
-1 Command Tower
-1 Agadeem's Awakening
-1 Dusk/Dawn
-1 Austere Command
-1 Weathered Wayfarer
-1 Bygone Bishop
-1 Custodi Lich
-1 Westvale Abbey
-1 Pious Evangel
-1 Liliana, Heretical Healer
+1 Reliquary Monk
+1 Remorseful Cleric
+1 Rotlung Reanimator
+1 Scrubland
+1 Selfless Spirit
+1 Silent Clearing
 1 Skirsdag High Priest
-1 Oversold Cemetery
-1 Drana, the Last Bloodchief
-1 Malakir Rebirth
-1 Orah, Skyclave Hierophant
-1 Cleric of Life's Bond
+1 Skullclamp
+1 Skyclave Cleric
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul Warden
+1 Soul's Attendant
+1 Starlit Sanctum
+1 Suture Priest
+6 Swamp
+1 Swords to Plowshares
+1 Taborax, Hope's Demise
+1 Talisman of Hierarchy
+1 Teferi's Protection
+1 Teysa Karlov
+1 Toxic Deluge
+1 Twilight Prophet
+1 Vault of the Archangel
+1 Vito, Thorn of the Dusk Rose
+1 War Priest of Thune
+1 Weathered Wayfarer
+1 Westvale Abbey
+1 Whisper, Blood Liturgist
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
 
 1 Ravos, Soultender
 1 Tymna the Weaver
-

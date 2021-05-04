@@ -1,96 +1,95 @@
 1 Altar of the Brood
-1 Wonder
+1 Arcane Denial
+1 Arcane Signet
 1 Army of the Damned
-1 Windfall
+1 Bloodstained Mire
 1 Bojuka Bog
-1 Field of the Dead
+1 Buried Alive
 1 Buried Ruin
-1 Underground Sea
-1 Undead Alchemist
+1 Cabal Coffers
+1 Clearwater Pathway
+1 Command Tower
 1 Consecrated Sphinx
-1 Toxic Deluge
+1 Corpse Harvester
 1 Cryptbreaker
 1 Custodi Lich
 1 Cyclonic Rift
 1 Damnation
 1 Deadly Rollick
-1 Tainted Isle
-2 Swamp
+1 Death Baron
+1 Demonic Tutor
 1 Dimir Aqueduct
 1 Dimir Signet
 1 Diregraf Colossus
-1 Solemn Simulacrum
+1 Drowned Catacomb
 1 Exotic Orchard
-1 Sol Ring
+1 Expedition Map
+1 Fact or Fiction
 1 Fetid Pools
+1 Field of the Dead
 1 Fierce Guardianship
-1 Skullclamp
-1 Rhystic Study
-3 Snow-Covered Swamp
-1 Reliquary Tower
+1 Fleshbag Marauder
+1 Flooded Strand
+1 Force of Will
 1 Geth, Lord of the Vault
 1 Gilded Drake
-1 Reanimate
-1 Polluted Delta
+1 Grave Pact
+1 Grave Titan
 1 Graveborn Muse
 1 Gravecrawler
-1 Phyrexian Tower
+1 Gray Merchant of Asphodel
 1 Herald's Horn
 1 Hostage Taker
-1 Grave Pact
+3 Island
 1 Kindred Discovery
 1 Liliana, Death's Majesty
 1 Liliana, Dreadhorde General
 1 Lord of the Undead
-1 Phyrexian Altar
-1 Noxious Ghoul
-1 Myriad Landscape
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
 1 Mikaeus, the Unhallowed
 1 Morphic Pool
 1 Murderous Rider
-1 Mana Vault
+1 Myriad Landscape
 1 Mystic Sanctuary
 1 Noosegraf Mob
-1 Mana Drain
+1 Noxious Ghoul
 1 Nykthos, Shrine to Nyx
-1 Mana Crypt
-3 Island
-1 Gray Merchant of Asphodel
-1 Grave Titan
 1 Pact of Negation
+1 Phyrexian Altar
+1 Phyrexian Arena
+1 Phyrexian Tower
+1 Polluted Delta
+1 Reanimate
 1 Reflecting Pool
-1 Force of Will
-1 Flooded Strand
+1 Reliquary Tower
+1 Rhystic Study
 1 Rise of the Dark Realms
 1 Rooftop Storm
-1 Expedition Map
 1 Search for Azcanta
 1 Sidisi, Undead Vizier
-1 Fleshbag Marauder
-1 Fact or Fiction
-1 Drowned Catacomb
+1 Skullclamp
+2 Snow-Covered Island
+3 Snow-Covered Swamp
+1 Sol Ring
+1 Solemn Simulacrum
 1 Sunken Hollow
-1 Demonic Tutor
+2 Swamp
 1 Swan Song
-1 Death Baron
+1 Tainted Isle
 1 Talisman of Dominance
-1 Corpse Harvester
+1 Toxic Deluge
 1 Training Grounds
 1 Trinket Mage
-1 Command Tower
+1 Undead Alchemist
 1 Underground River
-1 Cabal Coffers
+1 Underground Sea
 1 Unholy Grotto
 1 Urborg, Tomb of Yawgmoth
-1 Buried Alive
 1 Watery Grave
-1 Bloodstained Mire
-1 Arcane Denial
+1 Windfall
+1 Wonder
 1 Zombie Apocalypse
-1 Phyrexian Arena
-2 Snow-Covered Island
-1 Arcane Signet
-1 Clearwater Pathway
 
 1 The Scarab God
-

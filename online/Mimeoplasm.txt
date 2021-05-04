@@ -1,92 +1,91 @@
-1 Victimize
+1 Acidic Slime
 1 Alchemist's Refuge
+1 Animate Dead
 1 Archaeomancer
-1 Sylvan Library
+1 Baleful Strix
+1 Bayou
 1 Birthing Pod
 1 Body Double
-1 Opulent Palace
-1 Sol Ring
-1 Farhaven Elf
+1 Bojuka Bog
+1 Breeding Pool
 1 Coiling Oracle
-1 Skullclamp
+1 Command Tower
+1 Consuming Aberration
 1 Cultivate
 1 Cyclonic Rift
 1 Damnation
-1 Mana Drain
+1 Demonic Tutor
 1 Dimir Aqueduct
 1 Disciple of Bolas
-5 Forest
+1 Drowned Catacomb
 1 Eternal Witness
-1 Splendid Reclamation
-1 Reclamation Sage
+1 Farhaven Elf
+1 Farseek
+5 Forest
 1 Ghostly Flicker
 1 Gilded Drake
-1 Rhystic Study
-1 Reanimate
-1 Polluted Delta
-1 Memory Erosion
-1 Phyrexian Tower
-1 Overgrown Tomb
+1 Grave Titan
+1 Hinterland Harbor
+5 Island
 1 Kodama's Reach
+1 Life from the Loam
+1 Life's Finale
+1 Lightning Greaves
 1 Maelstrom Pulse
-1 Bayou
 1 Mana Crypt
+1 Mana Drain
+1 Memory Erosion
 1 Meren of Clan Nel Toth
+1 Mesmeric Orb
+1 Misty Rainforest
+1 Morphic Pool
 1 Mulldrifter
 1 Mystic Snake
+1 Nature's Lore
+1 Noxious Gearhulk
+1 Opulent Palace
 1 Oracle of Mul Daya
+1 Overgrown Tomb
 1 Phantasmal Image
 1 Phyrexian Delver
 1 Phyrexian Metamorph
-1 Mesmeric Orb
-1 Hinterland Harbor
+1 Phyrexian Tower
+1 Polluted Delta
 1 Prime Speaker Zegana
-1 Grave Titan
-5 Island
-1 Reflecting Pool
-1 Rite of Replication
-1 Rune-Scarred Demon
-1 Bojuka Bog
-1 Simic Growth Chamber
-1 Seedborn Muse
-1 Nature's Lore
-1 Sidisi, Undead Vizier
-3 Swamp
-1 Drowned Catacomb
-1 Demonic Tutor
-1 Solemn Simulacrum
-1 Sakura-Tribe Elder
-1 Windfall
-1 Command Tower
-1 Breeding Pool
-1 Terastodon
-1 The Scarab God
-1 Morphic Pool
-1 Ramunap Excavator
-1 Toxic Deluge
-1 Farseek
-1 Urborg, Tomb of Yawgmoth
-1 Venser, Shaper Savant
-1 Life from the Loam
-1 Baleful Strix
-1 Animate Dead
-1 Acidic Slime
-1 Noxious Gearhulk
-1 Volrath's Stronghold
-1 Watery Grave
-1 Woodland Cemetery
-1 Consuming Aberration
-1 Life's Finale
 1 Puppeteer Clique
 1 Putrefy
-1 Wonder
-1 Lightning Greaves
-1 Underground Sea
-1 Tropical Island
-1 Misty Rainforest
-1 Verdant Catacombs
+1 Ramunap Excavator
+1 Reanimate
+1 Reclamation Sage
+1 Reflecting Pool
+1 Rhystic Study
+1 Rite of Replication
 1 Rogue's Passage
+1 Rune-Scarred Demon
+1 Sakura-Tribe Elder
+1 Seedborn Muse
+1 Sidisi, Undead Vizier
+1 Simic Growth Chamber
+1 Skullclamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Splendid Reclamation
+3 Swamp
+1 Sylvan Library
+1 Terastodon
+1 The Scarab God
+1 Toxic Deluge
+1 Tropical Island
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Venser, Shaper Savant
+1 Verdant Catacombs
+1 Victimize
+1 Volrath's Stronghold
 1 Wasteland
+1 Watery Grave
+1 Windfall
+1 Wonder
+1 Woodland Cemetery
 
 1 The Mimeoplasm
-

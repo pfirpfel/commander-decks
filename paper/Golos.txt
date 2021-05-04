@@ -1,102 +1,101 @@
-1 Zacama, Primal Calamity
-1 Ulvenwald Hydra
-1 The Scarab God
-1 Oracle of Mul Daya
-1 Sphinx of Uthuun
-1 Sheoldred, Whispering One
-1 Diluvian Primordial
-1 Wayward Swordtooth
-1 Sol Ring
-1 Arcane Signet
-1 Orzhov Signet
-1 Fellwar Stone
-1 Chromatic Lantern
-1 Commander's Sphere
-1 Talisman of Curiosity
-1 Temple of the False God
-1 Field of the Dead
-1 Scroll Rack
-1 Lightning Greaves
-1 The Immortal Sun
-1 Utter End
-1 Mystic Confluence
-1 Arcane Denial
-1 Mystical Tutor
-1 Brainstorm
-1 Swords to Plowshares
-1 Casualties of War
-1 Insidious Will
-1 Karn's Temporal Sundering
-1 Bribery
-1 Time Wipe
-1 Hour of Promise
-1 Urban Evolution
-1 Flood of Tears
-1 Seasons Past
-1 In Garruk's Wake
 1 Aminatou's Augury
-1 Necromantic Selection
-1 Circuitous Route
-1 Tempt with Discovery
-1 Dream Cache
-1 Blatant Thievery
-1 Sandwurm Convergence
-1 Praetor's Counsel
-1 Reliquary Tower
-1 Nicol Bolas, Planeswalker
-1 Etali, Primal Storm
-1 The Eldest Reborn
-1 Rhystic Study
-1 Smothering Tithe
-1 Mirari's Wake
-1 Swarm Intelligence
-1 Treachery
-1 Selesnya Guildgate
-1 Rakdos Guildgate
+1 Arcane Denial
+1 Arcane Signet
+1 Assassin's Trophy
 1 Azorius Guildgate
-1 Gruul Guildgate
-1 Dimir Guildgate
-1 Izzet Guildgate
-1 Golgari Guildgate
-1 Simic Guildgate
-1 Orzhov Guildgate
-1 Boros Guildgate
-1 Cabal Coffers
-1 Urborg, Tomb of Yawgmoth
+1 Blatant Thievery
 1 Bojuka Bog
-1 Exotic Orchard
-1 Reflecting Pool
+1 Boros Guildgate
+1 Bountiful Promenade
+1 Brainstorm
 1 Breeding Pool
-1 Seaside Citadel
+1 Bribery
+1 Cabal Coffers
 1 Cascading Cataracts
-1 Path of Ancestry
+1 Casualties of War
+1 Chromatic Lantern
+1 Circuitous Route
 1 Command Tower
+1 Commander's Sphere
+1 Darksteel Ingot
+1 Diluvian Primordial
+1 Dimir Guildgate
+1 Dream Cache
+1 Elvish Rejuvenator
+1 Etali, Primal Storm
+1 Exotic Orchard
+1 Fellwar Stone
+1 Field of the Dead
+1 Flood of Tears
+1 Forest
 1 Gateway Plaza
-1 Plaza of Harmony
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Hour of Promise
+1 In Garruk's Wake
+1 Insidious Will
+1 Island
+1 Izzet Guildgate
+1 Karn's Temporal Sundering
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Mana Reflection
 1 Maze's End
-1 Snow-Covered Island
+1 Mind's Dilation
+1 Mirari's Wake
+1 Morphic Pool
+1 Mountain
+1 Mystic Confluence
+1 Mystical Tutor
+1 Necromantic Selection
+1 Nexus of Fate
+1 Nicol Bolas, Planeswalker
+1 Oracle of Mul Daya
+1 Orzhov Guildgate
+1 Orzhov Signet
+1 Path of Ancestry
+1 Pir's Whim
+1 Plains
+1 Plaza of Harmony
+1 Praetor's Counsel
+1 Rakdos Guildgate
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rhystic Study
+1 Sandwurm Convergence
+1 Scroll Rack
+1 Seaside Citadel
+1 Seasons Past
+1 Selesnya Guildgate
+1 Sheoldred, Whispering One
+1 Simic Guildgate
+1 Smothering Tithe
 1 Snow-Covered Forest
+1 Snow-Covered Island
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
-1 Mind's Dilation
-1 Bountiful Promenade
-1 Nexus of Fate
-1 Leyline of Anticipation
-1 Vindicate
-1 Elvish Rejuvenator
-1 Darksteel Ingot
-1 Thought Vessel
-1 Pir's Whim
-1 Sylvan Library
-1 Assassin's Trophy
-1 Mana Reflection
+1 Sol Ring
+1 Sphinx of Uthuun
 1 Spire Garden
-1 Morphic Pool
-1 Plains
-1 Island
 1 Swamp
-1 Mountain
-1 Forest
+1 Swarm Intelligence
+1 Swords to Plowshares
+1 Sylvan Library
+1 Talisman of Curiosity
+1 Temple of the False God
+1 Tempt with Discovery
+1 The Eldest Reborn
+1 The Immortal Sun
+1 The Scarab God
+1 Thought Vessel
+1 Time Wipe
+1 Treachery
+1 Ulvenwald Hydra
+1 Urban Evolution
+1 Urborg, Tomb of Yawgmoth
+1 Utter End
+1 Vindicate
+1 Wayward Swordtooth
+1 Zacama, Primal Calamity
 
 1 Golos, Tireless Pilgrim
-

@@ -1,83 +1,82 @@
+1 Abomination of Llanowar
+1 Binding the Old Gods
+1 Birchlore Rangers
+1 Bloodline Shaman
+1 Command Tower
+1 Cultivate
+1 Dwynen's Elite
 1 Elderfang Disciple
-1 Moldervine Reclamation
-1 Skemfar Shadowsage
-1 Roots of Wisdom
-1 Skemfar Elderhall
 1 Elderfang Ritualist
 1 Elven Ambush
-1 Numa, Joraga Chieftain
-1 Prowess of the Fair
+1 Elves of Deep Shadow
+1 Elvish Harbinger
 1 Elvish Mystic
-1 Lys Alana Huntmaster
+1 Elvish Promenade
 1 Elvish Rejuvenator
+1 Elvish Visionary
+1 Eyeblight Massacre
 1 Eyeblight's Ending
+1 Farhaven Elf
+12 Forest
+1 Foul Orchard
+1 Fyndhorn Elves
+1 Gilt-Leaf Winnower
+1 Golgari Findbroker
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Harmonize
+1 Herald's Horn
 1 Imperious Perfect
 1 Jagged-Scar Archers
-1 Fyndhorn Elves
-1 Masked Admirers
-1 Abomination of Llanowar
-1 Wirewood Symbiote
-1 Reclamation Sage
-1 Springbloom Druid
-1 Shaman of the Pack
-1 Voice of Many
-1 Timberwatch Elf
-1 Oakhame Adversary
-1 Golgari Findbroker
-1 Poison-Tip Archer
+1 Jungle Hollow
+1 Kodama's Reach
 1 Llanowar Elves
-1 Twinblade Assassins
-1 Miara, Thorn of the Glade
 1 Llanowar Visionary
-1 Gilt-Leaf Winnower
+1 Lys Alana Huntmaster
+1 Malevolent Awakening
+1 Masked Admirers
+1 Masked Vandal
+1 Miara, Thorn of the Glade
+1 Moldervine Reclamation
+1 Myriad Landscape
+1 Nullmage Shepherd
+1 Numa, Joraga Chieftain
+1 Oakhame Adversary
+1 Path of Ancestry
+1 Poison-Tip Archer
+1 Pride of the Perfect
+1 Priest of Titania
+1 Prowess of the Fair
+1 Putrefy
+1 Quirion Ranger
+1 Reclamation Sage
+1 Roaring Primadox
+1 Roots of Wisdom
+1 Seeker of Skybreak
+1 Shaman of the Pack
+1 Skemfar Elderhall
+1 Skemfar Shadowsage
+1 Skullclamp
+1 Springbloom Druid
+9 Swamp
 1 Sylvan Messenger
 1 Sylvan Ranger
-1 Elvish Visionary
-1 Elves of Deep Shadow
-1 Farhaven Elf
-1 Elvish Harbinger
-1 Elvish Promenade
-1 Nullmage Shepherd
-1 Bloodline Shaman
-1 Birchlore Rangers
-1 Wirewood Channeler
+1 Temur Sabertooth
+1 Terramorphic Expanse
+1 Thornmantle Striker
+1 Timberwatch Elf
+1 Tragic Slip
+1 Twinblade Assassins
+1 Viridian Shaman
+1 Voice of Many
 1 Wellwisher
+1 Wildheart Invoker
+1 Wirewood Channeler
 1 Wirewood Herald
 1 Wirewood Lodge
-1 Quirion Ranger
-1 Priest of Titania
-1 Wood Elves
-1 Wildheart Invoker
-1 Seeker of Skybreak
-1 Viridian Shaman
-1 Eyeblight Massacre
-1 Pride of the Perfect
-1 Dwynen's Elite
-1 Thornmantle Striker
-1 Kodama's Reach
-1 Malevolent Awakening
-1 Temur Sabertooth
-1 Binding the Old Gods
-1 Cultivate
-1 Herald's Horn
-1 Masked Vandal
-1 Harmonize
-1 Putrefy
-1 Tragic Slip
-1 Skullclamp
-1 Roaring Primadox
-12 Forest
-9 Swamp
+1 Wirewood Symbiote
 1 Witherbloom Campus
+1 Wood Elves
 1 Woodland Chasm
-1 Foul Orchard
-1 Golgari Guildgate
-1 Jungle Hollow
-1 Command Tower
-1 Golgari Rot Farm
-1 Terramorphic Expanse
-1 Myriad Landscape
-1 Path of Ancestry
 
 1 Harald, King of Skemfar
-

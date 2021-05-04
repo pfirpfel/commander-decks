@@ -1,84 +1,83 @@
-1 Vampiric Tutor
-1 Reanimate
-1 Wasteland
-1 Volrath's Stronghold
-1 Gilded Drake
-1 Grim Monolith
-1 Treachery
-1 Blatant Thievery
-1 Flooded Strand
-1 Polluted Delta
-1 Bloodstained Mire
-1 Decree of Pain
-1 Temple of the False God
-1 Bribery
-1 Oblivion Stone
-1 Gilded Lotus
-1 Duplicant
-1 Memnarch
-1 Darksteel Ingot
-1 Sword of Fire and Ice
-1 Sword of Light and Shadow
-1 Vedalken Shackles
-1 Keiga, the Tide Star
-1 Nezumi Graverobber
-1 Journeyer's Kite
-1 Kira, Great Glass-Spinner
-1 Sakashima the Impostor
-1 Watery Grave
-1 Teferi, Mage of Zhalfir
-1 Ancestral Vision
-1 Vesuva
 1 Academy Ruins
-1 Damnation
+1 All Is Dust
+1 Ancestral Vision
+1 Animate Dead
 1 Arcanis the Omnipotent
+1 Beguiler of Wills
+1 Blatant Thievery
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Bribery
+1 Cackling Counterpart
+1 Command Tower
+1 Consecrated Sphinx
+1 Control Magic
 1 Crucible of Worlds
-1 Thawing Glaciers
-1 Shriekmaw
-1 Puppeteer Clique
-1 Sygg, River Cutthroat
-1 Glen Elendra Archmage
-1 Mana Crypt
-1 Reliquary Tower
+1 Damnation
+1 Darksteel Ingot
+1 Decree of Pain
 1 Demonic Tutor
 1 Drowned Catacomb
-1 Animate Dead
-1 Rhystic Study
-1 Mana Drain
+1 Duplicant
+1 Flooded Strand
+1 Gilded Drake
+1 Gilded Lotus
+1 Glen Elendra Archmage
+1 Grim Monolith
 1 Grim Tutor
-1 Strip Mine
-1 Skullclamp
-1 Misty Rainforest
-1 Marsh Flats
-1 Verdant Catacombs
-1 Rite of Replication
-12 Island
-8 Swamp
-1 Yawgmoth's Will
 1 Hinder
-1 Bojuka Bog
+12 Island
 1 Jace, the Mind Sculptor
-1 Thada Adel, Acquisitor
-1 Lightning Greaves
-1 All Is Dust
-1 Recurring Insight
-1 Sol Ring
-1 Mystic Confluence
-1 Tezzeret the Seeker
-1 Control Magic
-1 Underground Sea
-1 Maze of Ith
-1 Consecrated Sphinx
-1 Sword of Feast and Famine
 1 Jin-Gitaxias, Core Augur
-1 Sheoldred, Whispering One
-1 Command Tower
-1 Spell Crumple
+1 Journeyer's Kite
+1 Keiga, the Tide Star
+1 Kira, Great Glass-Spinner
+1 Lightning Greaves
+1 Mana Crypt
+1 Mana Drain
+1 Marsh Flats
+1 Maze of Ith
+1 Memnarch
+1 Misty Rainforest
+1 Mystic Confluence
+1 Nezumi Graverobber
+1 Oblivion Stone
+1 Polluted Delta
+1 Puppeteer Clique
+1 Reanimate
+1 Recurring Insight
+1 Reliquary Tower
+1 Rhystic Study
+1 Rite of Replication
 1 Rune-Scarred Demon
-1 Solemn Simulacrum
+1 Sakashima the Impostor
+1 Sheoldred, Whispering One
+1 Shriekmaw
+1 Skullclamp
 1 Snapcaster Mage
-1 Cackling Counterpart
-1 Beguiler of Wills
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spell Crumple
+1 Strip Mine
+8 Swamp
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Sygg, River Cutthroat
+1 Teferi, Mage of Zhalfir
+1 Temple of the False God
+1 Tezzeret the Seeker
+1 Thada Adel, Acquisitor
+1 Thawing Glaciers
+1 Treachery
+1 Underground Sea
+1 Vampiric Tutor
+1 Vedalken Shackles
+1 Verdant Catacombs
+1 Vesuva
+1 Volrath's Stronghold
+1 Wasteland
+1 Watery Grave
+1 Yawgmoth's Will
 
 1 Wrexial, the Risen Deep
-
