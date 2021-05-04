@@ -1,0 +1,30 @@
+{
+  "name": "commander-decks",
+  "version": "1.0.0",
+  "description": "My deck list collection for the Magic: The Gathering Commander format",
+  "main": "index.js",
+  "scripts": {
+    "test": "find . -name \"*.txt\" | xargs node_modules/mtgo-deck-formatter/format.js -c",
+    "format-all": "find . -name \"*.txt\" | xargs node_modules/mtgo-deck-formatter/format.js",
+    "format": "node node_modules/mtgo-deck-formatter/format.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfirpfel/commander-decks.git"
+  },
+  "keywords": [
+    "mtg",
+    "mtgo",
+    "commander",
+    "edh"
+  ],
+  "author": "Michael Kuenzli",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/pfirpfel/commander-decks/issues"
+  },
+  "homepage": "https://github.com/pfirpfel/commander-decks#readme",
+  "devDependencies": {
+    "mtgo-deck-formatter": "^1.0.0"
+  }
+}
