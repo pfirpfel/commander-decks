@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/pfirpfel/commander-decks#readme",
   "devDependencies": {
-    "mtgo-deck-formatter": "^1.0.0"
+    "mtgo-deck-formatter": "^1.0.0",
+    "pre-commit": "^1.2.2"
   }
 }
