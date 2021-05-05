@@ -14,7 +14,6 @@
 1 Elvish Promenade
 1 Elvish Rejuvenator
 1 Elvish Visionary
-1 Eyeblight Massacre
 1 Eyeblight's Ending
 1 Farhaven Elf
 12 Forest
@@ -26,6 +25,7 @@
 1 Golgari Rot Farm
 1 Harmonize
 1 Herald's Horn
+1 Heritage Druid
 1 Imperious Perfect
 1 Jagged-Scar Archers
 1 Jungle Hollow
