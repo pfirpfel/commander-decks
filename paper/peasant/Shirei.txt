@@ -3,6 +3,7 @@
 1 Arcane Signet
 1 Ashnod's Altar
 1 Bankrupt in Blood
+1 Barren Moor
 1 Bastion of Remembrance
 1 Big Game Hunter
 1 Blood Artist
@@ -36,7 +37,6 @@
 1 Mind Stone
 1 Mindless Automaton
 1 Morbid Curiosity
-1 Mortuary Mire
 1 Myriad Landscape
 1 Night's Whisper
 1 Orzhov Enforcer
