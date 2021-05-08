@@ -17,6 +17,7 @@
 1 Dig Through Time
 1 Double Vision
 1 Electrodominance
+1 Eureka Moment
 1 Exotic Orchard
 1 Expansion/Explosion
 1 Fact or Fiction
@@ -69,7 +70,6 @@
 1 Starstorm
 1 Steam Vents
 1 Stomping Ground
-1 Surreal Memoir
 1 Survivors' Encampment
 1 Swarm Intelligence
 1 Swiftfoot Boots
