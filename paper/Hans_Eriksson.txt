@@ -1,4 +1,3 @@
-1 Anara, Wolvid Familiar
 1 Ancient Tomb
 1 Arcane Signet
 1 Arid Mesa
@@ -24,6 +23,7 @@
 1 Fabled Passage
 1 Farseek
 1 Garruk's Uprising
+1 Gruul Signet
 1 Hellkite Tyrant
 1 Heroic Intervention
 1 Highland Forest
@@ -46,14 +46,12 @@
 1 Myriad Landscape
 1 Nature's Claim
 1 Nature's Lore
-1 Needletooth Raptor
 1 Noxious Revival
 1 Once and Future
 1 Port Razer
 1 Quartzwood Crasher
 1 Radha, Heart of Keld
 1 Rampant Growth
-1 Ranging Raptors
 1 Return of the Wildspeaker
 1 Rogue's Passage
 1 Rootbound Crag
@@ -73,11 +71,13 @@
 1 Stonehoof Chieftain
 1 Sylvan Library
 1 Taiga
+1 Talisman of Impulse
 1 Terastodon
 1 Terror of the Peaks
 1 Three Visits
 1 Thunderfoot Baloth
 1 Turntimber Symbiosis
+1 Valakut Awakening
 1 Vandalblast
 1 Vigor
 1 Vizier of the Menagerie
