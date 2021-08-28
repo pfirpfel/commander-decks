@@ -4,6 +4,7 @@
 1 Bloodline Shaman
 1 Command Tower
 1 Cultivate
+1 Darkmoss Bridge
 1 Dwynen's Elite
 1 Elderfang Disciple
 1 Elderfang Ritualist
@@ -58,7 +59,7 @@
 1 Skemfar Shadowsage
 1 Skullclamp
 1 Springbloom Druid
-9 Swamp
+8 Swamp
 1 Sylvan Messenger
 1 Sylvan Ranger
 1 Temur Sabertooth

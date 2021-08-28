@@ -16,6 +16,7 @@
 1 Cadaver Imp
 1 Carrion Feeder
 1 Charcoal Diamond
+1 Clattering Augur
 1 Coldsteel Heart
 1 Doomed Dissenter
 1 Dusk Legion Zealot
@@ -26,7 +27,6 @@
 1 Festering Mummy
 1 Fume Spitter
 1 Genesis Chamber
-1 Kaya's Ghostform
 1 Keskit, the Flesh Sculptor
 1 Lampad of Death's Vigil
 1 Lazotep Reaver
@@ -51,6 +51,7 @@
 1 Sign in Blood
 1 Skittering Surveyor
 1 Skullclamp
+1 Skullport Merchant
 1 Skyscanner
 1 Sling-Gang Lieutenant
 1 Sol Ring
@@ -63,7 +64,6 @@
 1 Vindictive Vampire
 1 Viscera Seer
 1 Wayfarer's Bauble
-1 Witch's Cauldron
 1 Witch's Cottage
 1 Worn Powerstone
 1 Yarok's Fenlurker

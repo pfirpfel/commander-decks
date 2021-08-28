@@ -41,7 +41,6 @@
 1 Maelstrom Colossus
 1 Meteor Blast
 1 Meteor Golem
-1 Migration Path
 1 Pathrazer of Ulamog
 1 Pelakka Wurm
 1 Pheres-Band Brawler
@@ -59,9 +58,10 @@
 1 Sifter Wurm
 1 Skarrg, the Rage Pits
 1 Skullclamp
+1 Slagwoods Bridge
 1 Slice and Dice
 14 Snow-Covered Forest
-9 Snow-Covered Mountain
+8 Snow-Covered Mountain
 1 Sol Ring
 1 Somberwald Stag
 1 Spitebellows
@@ -70,6 +70,7 @@
 1 Swiftfoot Boots
 1 Terramorphic Expanse
 1 Timber Gorge
+1 Timeless Witness
 1 Ulamog's Crusher
 1 Utopia Sprawl
 1 Vengeful Rebirth
