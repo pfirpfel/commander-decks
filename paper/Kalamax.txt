@@ -1,9 +1,9 @@
 1 Ancient Grudge
 1 Anticipate
 1 Arcane Signet
+1 Archmage Emeritus
 1 Artifact Mutation
 1 Beast Within
-1 Bloom Tender
 1 Brainstorm
 1 Breeding Pool
 1 Chaos Warp
@@ -43,7 +43,6 @@
 1 Misty Rainforest
 4 Mountain
 1 Mystic Confluence
-1 Mystic Retrieval
 1 Natural Connection
 1 Nature's Claim
 1 Nature's Lore
@@ -58,9 +57,11 @@
 1 Reality Shift
 1 Rejuvenating Springs
 1 Rimewood Falls
+1 Road/Ruin
 1 Roiling Regrowth
 1 Scalding Tarn
 1 Seedborn Muse
+1 Shark Typhoon
 1 Shivan Reef
 1 Silundi Vision
 1 Slice in Twain
@@ -74,15 +75,14 @@
 1 Swarm Intelligence
 1 Swiftfoot Boots
 1 Taiga
-1 Talrand, Sky Summoner
 1 Thousand-Year Storm
 1 Three Visits
 1 Thrill of Possibility
-1 Torrential Gearhulk
 1 Training Center
 1 Tribute to the Wild
 1 Tropical Island
 1 Twinning Staff
+1 Unexpected Windfall
 1 Volcanic Island
 1 Wilderness Reclamation
 1 Wooded Foothills
