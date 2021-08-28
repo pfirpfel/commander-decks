@@ -12,22 +12,23 @@
 1 Breeding Pool
 1 Burnished Hart
 1 Callous Oppressor
-1 Cloud of Faeries
 1 Command Tower
 1 Consecrated Sphinx
 1 Counterspell
 1 Curse of the Swine
 1 Cyclonic Rift
+1 Diluvian Primordial
 1 End-Raze Forerunners
 1 Esika's Chariot
 1 Fabled Passage
 1 Farseek
+1 Fblthp, the Lost
 1 Flooded Grove
 1 Force of Will
 1 Gilded Drake
 1 Glasspool Mimic
 1 Growing Rites of Itlimoc
-1 Growth Spiral
+1 Heroic Intervention
 1 Hinterland Harbor
 1 Hornet Queen
 1 Ice-Fang Coatl
@@ -50,9 +51,9 @@
 1 Phyrexian Ingester
 1 Prismatic Vista
 1 Progenitor Mimic
-1 Reality Shift
 1 Reef Worm
 1 Rejuvenating Springs
+1 Resculpt
 1 Rhystic Study
 1 Rimewood Falls
 1 Sakura-Tribe Elder
@@ -60,6 +61,7 @@
 1 Second Harvest
 1 Selesnya Eulogist
 1 Simic Growth Chamber
+1 Skyshroud Claim
 8 Snow-Covered Forest
 7 Snow-Covered Island
 1 Sol Ring
@@ -67,10 +69,8 @@
 1 Spark Double
 1 Steelbane Hydra
 1 Strip Mine
-1 Swiftfoot Boots
 1 Sylvan Library
 1 Temple of Mystery
-1 Temur Sabertooth
 1 The Great Henge
 1 Thieving Skydiver
 1 Thorn Mammoth
@@ -78,9 +78,9 @@
 1 Tropical Island
 1 Twinning Staff
 1 Uro, Titan of Nature's Wrath
+1 Verdant Mastery
 1 Vizier of Many Faces
 1 Wall of Blossoms
-1 Wandering Archaic
 1 Yavimaya Coast
 1 Yavimaya Dryad
 1 Yavimaya Granger
