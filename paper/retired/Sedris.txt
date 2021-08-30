@@ -1,0 +1,92 @@
+1 Badlands
+1 Baleful Strix
+1 Blood Crypt
+1 Bloodstained Mire
+1 Body Double
+1 Bogardan Hellkite
+1 Bojuka Bog
+1 Bone Shredder
+1 Burnished Hart
+1 Cabal Coffers
+1 Careful Consideration
+1 Charmbreaker Devils
+1 Coalition Relic
+1 Command Tower
+1 Compulsive Research
+1 Consecrated Sphinx
+1 Crater Hellion
+1 Cyclonic Rift
+1 Dack's Duplicate
+1 Damnation
+1 Deadeye Navigator
+1 Deadly Tempest
+1 Demonic Tutor
+1 Desolate Lighthouse
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Duplicant
+1 Expedition Map
+1 Fact or Fiction
+1 Faithless Looting
+1 Feldon of the Third Path
+1 Flameshadow Conjuring
+1 Flametongue Kavu
+1 Flayer of the Hatebound
+1 Fleshbag Marauder
+1 Glen Elendra Archmage
+1 Grave Titan
+1 Imperial Recruiter
+1 Inferno Titan
+1 Ingot Chewer
+6 Island
+1 Izzet Boilerworks
+1 Izzet Chronarch
+1 Izzet Signet
+1 Kiki-Jiki, Mirror Breaker
+1 Kokusho, the Evening Star
+1 Lightning Greaves
+1 Loxodon Warhammer
+1 Mana Drain
+3 Mountain
+1 Mulldrifter
+1 Night's Whisper
+1 Nihil Spellbomb
+1 Phantasmal Image
+1 Phyrexian Arena
+1 Polluted Delta
+1 Rakdos Signet
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rune-Scarred Demon
+1 Scalding Tarn
+1 Sea Gate Oracle
+1 Sheoldred, Whispering One
+1 Shriekmaw
+1 Sidisi, Undead Vizier
+1 Smoldering Marsh
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sphinx of Uthuun
+1 Steam Vents
+1 Sulfur Falls
+1 Sundial of the Infinite
+1 Sunken Hollow
+3 Swamp
+1 Temple of the False God
+1 Thada Adel, Acquisitor
+1 Tolaria West
+1 Treachery
+1 Trinket Mage
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Vandalblast
+1 Venser, Shaper Savant
+1 Victimize
+1 Volcanic Island
+1 Wasteland
+1 Watery Grave
+1 Wayfarer's Bauble
+
+1 Sedris, the Traitor King
