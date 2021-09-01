@@ -1,0 +1,93 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Assassin's Trophy
+1 Bala Ged Recovery
+1 Bayou
+1 Birds of Paradise
+1 Bojuka Bog
+1 Cabal Coffers
+1 Castle Locthwain
+1 Command the Dreadhorde
+1 Command Tower
+1 Confront the Past
+1 Damnation
+1 Darkbore Pathway
+1 Deadly Rollick
+1 Demonic Tutor
+1 Doubling Season
+1 Ensnaring Bridge
+1 Eternal Witness
+1 Expedition Map
+1 Fabled Passage
+1 Farseek
+1 Feed the Swarm
+1 Field of the Dead
+1 Force of Vigor
+3 Forest
+1 Freyalise, Llanowar's Fury
+1 Garruk Wildspeaker
+1 Garruk, Cursed Huntsman
+1 Garruk, Primal Hunter
+1 Garruk, Unleashed
+1 Grist, the Hunger Tide
+1 Into the North
+1 Jeweled Lotus
+1 Karn Liberated
+1 Karn, Scion of Urza
+1 Kenrith's Transformation
+1 Kodama of the East Tree
+1 Kodama's Reach
+1 Liliana, Death's Majesty
+1 Liliana, Dreadhorde General
+1 Llanowar Wastes
+1 Malakir Rebirth
+1 Mana Crypt
+1 Marsh Flats
+1 Massacre Girl
+1 Murderous Rider
+1 Nature's Claim
+1 Nature's Lore
+1 Nissa of Shadowed Boughs
+1 Nissa, Vastwood Seer
+1 Nissa, Who Shakes the World
+1 Oakhame Adversary
+1 Oath of Liliana
+1 Oath of Nissa
+1 Ophiomancer
+1 Overgrown Tomb
+1 Phyrexian Arena
+1 Pir, Imaginative Rascal
+1 Prismatic Vista
+1 Professor Onyx
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+4 Snow-Covered Forest
+3 Snow-Covered Swamp
+1 Sol Ring
+1 Storrev, Devkarin Lich
+2 Swamp
+1 Sylvan Library
+1 Talisman of Resilience
+1 Tevesh Szat, Doom of Fools
+1 Three Visits
+1 Toxic Deluge
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Vampiric Tutor
+1 Vivien Reid
+1 Vraska, Golgari Queen
+1 Vraska, Relic Seeker
+1 Vraska, Swarm's Eminence
+1 Wall of Blossoms
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Woodland Chasm
+1 Yavimaya, Cradle of Growth
+1 Yawgmoth's Vile Offering
+1 Yawgmoth, Thran Physician
+
+1 Carth the Lion
