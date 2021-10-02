@@ -1,0 +1,87 @@
+1 Academy Manufactor
+1 Ancient Tomb
+1 Arcane Signet
+1 Author of Shadows
+1 Badlands
+1 Bedevil
+1 Birgi, God of Storytelling
+1 Bituminous Blast
+1 Blasphemous Act
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Cabal Coffers
+1 Chaos Wand
+1 Command Tower
+1 Conspiracy Theorist
+1 Damnation
+1 Dauthi Voidwalker
+1 Demonic Tutor
+1 Dire Fleet Daredevil
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Draugr Necromancer
+1 Dream Devourer
+1 Etali, Primal Storm
+1 Expedition Map
+1 Fellwar Stone
+1 Fevered Suspicion
+1 Foreboding Ruins
+1 Goldspan Dragon
+1 Gonti, Lord of Luxury
+1 Grim Hireling
+1 Hagra Mauling
+1 Hellkite Tyrant
+1 Herald of Anguish
+1 Hurl Through Hell
+1 Inspiring Statuary
+1 Jeska's Will
+1 Jeweled Lotus
+1 Laelia, the Blade Reforged
+1 Light Up the Stage
+1 Lightning Greaves
+1 Loxodon Warhammer
+1 Luxury Suite
+1 Mana Crypt
+1 Mana Geyser
+1 Marionette Master
+1 Mayhem Devil
+1 Mind Stone
+1 Murderous Rider
+1 Night's Whisper
+1 Nihil Spellbomb
+1 Oracle's Vault
+1 Outpost Siege
+1 Poison the Cup
+1 Prismatic Vista
+1 Rakdos Carnarium
+1 Rakdos Charm
+1 Rakdos Signet
+1 Revel in Riches
+1 Share the Spoils
+1 Smoldering Marsh
+9 Snow-Covered Mountain
+7 Snow-Covered Swamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spinerock Knoll
+1 Strip Mine
+1 Sulfurous Mire
+1 Talisman of Indulgence
+1 Tectonic Giant
+1 Throes of Chaos
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Valakut Awakening
+1 Valki, God of Lies
+1 Vandalblast
+1 Viridian Longbow
+1 Wayfarer's Bauble
+1 Wheel of Fortune
+1 Wild-Magic Sorcerer
+1 Xorn
+1 You Find Some Prisoners
+
+1 Prosper, Tome-Bound
