@@ -2,6 +2,7 @@
 1 Arcane Signet
 1 Arid Mesa
 1 Asceticism
+1 Augur of Autumn
 1 Bala Ged Recovery
 1 Balefire Dragon
 1 Blasphemous Act
@@ -15,12 +16,12 @@
 1 Cragcrown Pathway
 1 Cream of the Crop
 1 Darksteel Plate
+1 Decimate
 1 Deflecting Swat
 1 Disaster Radius
 1 Dragonlord Atarka
 1 Drakuseth, Maw of Flames
 1 Elemental Bond
-1 Fabled Passage
 1 Farseek
 1 Garruk's Uprising
 1 Gruul Signet
@@ -31,6 +32,7 @@
 1 Ilharg, the Raze-Boar
 1 Into the North
 1 Karplusan Forest
+1 Kenrith's Transformation
 1 Kessig Wolf Run
 1 Kodama of the East Tree
 1 Kogla, the Titan Ape
@@ -39,7 +41,6 @@
 1 Mana Crypt
 1 Manglehorn
 1 Maze of Ith
-1 Meteor Golem
 1 Mirri's Guile
 1 Moraug, Fury of Akoum
 1 Mwonvuli Beast Tracker
@@ -49,6 +50,7 @@
 1 Noxious Revival
 1 Once and Future
 1 Port Razer
+1 Prismatic Vista
 1 Quartzwood Crasher
 1 Radha, Heart of Keld
 1 Rampant Growth
@@ -64,7 +66,7 @@
 1 Sensei's Divining Top
 1 Sheltered Thicket
 6 Snow-Covered Forest
-7 Snow-Covered Mountain
+6 Snow-Covered Mountain
 1 Sol Ring
 1 Spire Garden
 1 Stomping Ground
@@ -80,7 +82,6 @@
 1 Valakut Awakening
 1 Vandalblast
 1 Vigor
-1 Vizier of the Menagerie
 1 Windswept Heath
 1 Wooded Foothills
 1 Worldly Tutor
