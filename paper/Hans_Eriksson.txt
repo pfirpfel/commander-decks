@@ -16,11 +16,11 @@
 1 Cragcrown Pathway
 1 Cream of the Crop
 1 Darksteel Plate
-1 Decimate
 1 Deflecting Swat
 1 Disaster Radius
 1 Dragonlord Atarka
 1 Drakuseth, Maw of Flames
+1 Druid of Purification
 1 Elemental Bond
 1 Farseek
 1 Garruk's Uprising
@@ -50,11 +50,11 @@
 1 Noxious Revival
 1 Once and Future
 1 Port Razer
-1 Prismatic Vista
 1 Quartzwood Crasher
 1 Radha, Heart of Keld
 1 Rampant Growth
 1 Return of the Wildspeaker
+1 Rockfall Vale
 1 Rogue's Passage
 1 Rootbound Crag
 1 Sakura-Tribe Elder
