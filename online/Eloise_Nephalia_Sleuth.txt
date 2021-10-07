@@ -52,6 +52,7 @@
 1 Mistvault Bridge
 1 Morphic Pool
 1 Mulldrifter
+1 Myriad Landscape
 1 Ophiomancer
 1 Pawn of Ulamog
 1 Phyrexian Tower
@@ -62,7 +63,6 @@
 1 Rise and Shine
 1 Seat of the Synod
 1 Shimmer Dragon
-1 Shipwreck Marsh
 1 Shipwreck Marsh
 1 Shriekmaw
 1 Sidisi, Undead Vizier
