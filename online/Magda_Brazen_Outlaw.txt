@@ -49,12 +49,12 @@
 1 Spine of Ish Sah
 1 Springleaf Drum
 1 Steel Hellkite
-1 Sweltering Suns
 1 Taurean Mauler
 1 Terror of the Peaks
 1 Thrill of Possibility
 1 Tibalt's Trickery
 1 Torbran, Thane of Red Fell
+1 Treasure Map
 1 Tyrant's Familiar
 1 Underworld Breach
 1 Universal Automaton

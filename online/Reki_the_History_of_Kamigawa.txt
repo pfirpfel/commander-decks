@@ -11,6 +11,7 @@
 1 Extraplanar Lens
 1 Finale of Devastation
 1 Force of Vigor
+1 Gaea's Touch
 1 Garruk Wildspeaker
 1 Genesis Wave
 1 Ghalta, Primal Hunger
@@ -21,7 +22,6 @@
 1 Guardian Project
 1 Heroes' Podium
 1 Heroic Intervention
-1 Into the North
 1 Jolrael, Mwonvuli Recluse
 1 Kamahl's Druidic Vow
 1 Kamahl, Fist of Krosa
@@ -50,6 +50,7 @@
 1 Rhonas's Monument
 1 Rishkar's Expertise
 1 Rishkar, Peema Renegade
+1 Sakura-Tribe Elder
 1 Scavenger Grounds
 1 Selvala, Heart of the Wilds
 1 Shadowspear
@@ -67,7 +68,6 @@
 1 Turntimber Symbiosis
 1 Untaidake, the Cloud Keeper
 1 Utopia Sprawl
-1 Vernal Bloom
 1 Vivien, Champion of the Wilds
 1 Vorinclex, Monstrous Raider
 1 War Room
