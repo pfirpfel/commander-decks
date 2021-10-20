@@ -6,7 +6,6 @@
 1 Avenger of Zendikar
 1 Bala Ged Recovery
 1 Barkchannel Pathway
-1 Beast Whisperer
 1 Birds of Paradise
 1 Bladegriff Prototype
 1 Breeding Pool
@@ -32,23 +31,23 @@
 1 Heroic Intervention
 1 Hinterland Harbor
 1 Hornet Queen
-1 Ice-Fang Coatl
 1 Incubation/Incongruity
 1 Into the North
 1 Keiga, the Tide Star
+1 Keruga, the Macrosage
 1 Lightning Greaves
 1 Man-o'-War
 1 Mana Drain
 1 Misty Rainforest
 1 Mosswort Bridge
-1 Mulldrifter
 1 Murkfiend Liege
 1 Mystic Reflection
 1 Nature's Claim
 1 Nature's Lore
 1 Of One Mind
 1 Oko, Thief of Crowns
-1 Peregrine Drake
+1 Ornithopter of Paradise
+1 Pathbreaker Ibex
 1 Phyrexian Ingester
 1 Prismatic Vista
 1 Progenitor Mimic
@@ -71,6 +70,7 @@
 1 Strip Mine
 1 Sylvan Library
 1 Temple of Mystery
+1 Temur Sabertooth
 1 The Great Henge
 1 Thieving Skydiver
 1 Thorn Mammoth
