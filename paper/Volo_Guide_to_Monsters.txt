@@ -3,6 +3,7 @@
 1 Amphin Mutineer
 1 Ancient Tomb
 1 Arcane Signet
+1 Auspicious Starrix
 1 Avenger of Zendikar
 1 Bala Ged Recovery
 1 Barkchannel Pathway
@@ -13,7 +14,6 @@
 1 Callous Oppressor
 1 Command Tower
 1 Consecrated Sphinx
-1 Counterspell
 1 Cultivate
 1 Curse of the Swine
 1 Cyclonic Rift
@@ -23,8 +23,10 @@
 1 Fabled Passage
 1 Farseek
 1 Fblthp, the Lost
+1 Fierce Guardianship
 1 Flooded Grove
 1 Force of Will
+1 Gemrazer
 1 Gilded Drake
 1 Glasspool Mimic
 1 Growing Rites of Itlimoc
@@ -37,18 +39,17 @@
 1 Keruga, the Macrosage
 1 Lightning Greaves
 1 Man-o'-War
-1 Mana Drain
+1 Migratory Greathorn
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Murkfiend Liege
 1 Mystic Reflection
 1 Nature's Claim
 1 Nature's Lore
-1 Of One Mind
 1 Oko, Thief of Crowns
+1 Ongoing Investigation
 1 Ornithopter of Paradise
 1 Pathbreaker Ibex
-1 Phyrexian Ingester
 1 Prismatic Vista
 1 Progenitor Mimic
 1 Reef Worm
@@ -78,7 +79,6 @@
 1 Tropical Island
 1 Twinning Staff
 1 Uro, Titan of Nature's Wrath
-1 Verdant Mastery
 1 Vizier of Many Faces
 1 Wall of Blossoms
 1 Yavimaya Coast
