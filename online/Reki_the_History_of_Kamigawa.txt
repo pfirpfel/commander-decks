@@ -10,12 +10,12 @@
 1 Emerald Medallion
 1 Exploration
 1 Extraplanar Lens
+1 Eye of Vecna
 1 Finale of Devastation
 1 Force of Vigor
 1 Gaea's Touch
 1 Garruk Wildspeaker
 1 Genesis Wave
-1 Ghalta, Primal Hunger
 1 Glissa Sunseeker
 1 God-Eternal Rhonas
 1 Goreclaw, Terror of Qal Sisma
@@ -43,7 +43,7 @@
 1 Nylea, Keen-Eyed
 1 Nyx Lotus
 1 Oath of Nissa
-1 Oviya Pashiri, Sage Lifecrafter
+1 Old Gnawbone
 1 Reliquary Tower
 1 Return of the Wildspeaker
 1 Rhonas the Indomitable
