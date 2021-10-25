@@ -3,6 +3,7 @@
 1 Azusa, Lost but Seeking
 1 Bala Ged Recovery
 1 Beast Within
+1 Burgeoning
 1 Caged Sun
 1 Castle Garenbrig
 1 Dust Bowl
@@ -43,14 +44,12 @@
 1 Nyx Lotus
 1 Oath of Nissa
 1 Oviya Pashiri, Sage Lifecrafter
-1 Rampant Growth
 1 Reliquary Tower
 1 Return of the Wildspeaker
 1 Rhonas the Indomitable
 1 Rhonas's Monument
 1 Rishkar's Expertise
 1 Rishkar, Peema Renegade
-1 Sakura-Tribe Elder
 1 Scavenger Grounds
 1 Selvala, Heart of the Wilds
 1 Shadowspear
@@ -62,6 +61,7 @@
 1 Sword of the Animist
 1 Sylvan Library
 1 The Great Henge
+1 Thought Vessel
 1 Three Visits
 1 Toski, Bearer of Secrets
 1 Traxos, Scourge of Kroog
