@@ -12,12 +12,13 @@
 1 Court of Ambition
 1 Cryptolith Fragment
 1 Darkbore Pathway
+1 Deathcap Glade
 1 Deathrite Shaman
 1 Decree of Pain
 1 Demonic Tutor
 1 Demonlord Belzenlok
 1 Dreamstone Hedron
-10 Forest
+9 Forest
 1 Gilded Lotus
 1 Golgari Signet
 1 Guardian Project
