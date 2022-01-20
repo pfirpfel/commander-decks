@@ -24,7 +24,6 @@
 1 Enlightened Tutor
 1 Esper Sentinel
 1 Faithless Looting
-1 Fellwar Stone
 1 Foundry Inspector
 1 Furycalm Snarl
 1 Gamble
@@ -39,6 +38,7 @@
 1 Inventors' Fair
 1 Karn, the Great Creator
 1 Krark-Clan Ironworks
+1 Liquimetal Torque
 1 Magewright's Stone
 1 Mana Crypt
 1 Mesmeric Orb
