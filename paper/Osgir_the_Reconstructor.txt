@@ -5,14 +5,11 @@
 1 Archaeomancer's Map
 1 Arcum's Astrolabe
 1 Arid Mesa
-1 Austere Command
 1 Battlefield Forge
 1 Battlemage's Bracers
-1 Blasphemous Act
 1 Boros Charm
 1 Boros Signet
 1 Buried Ruin
-1 Cleansing Nova
 1 Clifftop Retreat
 1 Codex Shredder
 1 Combustible Gearhulk
@@ -22,14 +19,15 @@
 1 Cursed Mirror
 1 Daretti, Scrap Savant
 1 Darksteel Citadel
+1 Darksteel Forge
 1 Duplicant
 1 Enlightened Tutor
 1 Esper Sentinel
 1 Faithless Looting
-1 Fellwar Stone
 1 Foundry Inspector
 1 Furycalm Snarl
 1 Gamble
+1 Geier Reach Sanitarium
 1 Generous Gift
 1 Goblin Engineer
 1 Goblin Welder
@@ -40,18 +38,21 @@
 1 Inventors' Fair
 1 Karn, the Great Creator
 1 Krark-Clan Ironworks
+1 Liquimetal Torque
 1 Magewright's Stone
 1 Mana Crypt
 1 Mesmeric Orb
 1 Meteor Golem
 1 Mind Stone
 1 Mishra's Bauble
+1 Mox Opal
 1 Mycosynth Lattice
 1 Mycosynth Wellspring
 1 Myr Battlesphere
 1 Myr Retriever
 1 Mystic Forge
 1 Needleverge Pathway
+1 Nevinyrral's Disk
 1 Oswald Fiddlebender
 1 Path to Exile
 1 Plateau
@@ -60,17 +61,17 @@
 1 Rugged Prairie
 1 Rustvale Bridge
 1 Sacred Foundry
+1 Scourglass
 1 Scrap Trawler
 1 Sculpting Steel
 1 Slayers' Stronghold
 6 Snow-Covered Mountain
-7 Snow-Covered Plains
+6 Snow-Covered Plains
 1 Sol Ring
 1 Solemn Simulacrum
 1 Spectator Seating
 1 Steel Hellkite
 1 Sundown Pass
-1 Sunforger
 1 Swiftfoot Boots
 1 Swords to Plowshares
 1 Talisman of Conviction
@@ -79,12 +80,12 @@
 1 Thran Dynamo
 1 Trading Post
 1 Treasure Vault
+1 Ugin's Nexus
 1 Urza's Bauble
 1 Urza's Saga
 1 Vandalblast
 1 Wake the Past
 1 Wayfarer's Bauble
-1 Wear/Tear
 1 Wurmcoil Engine
 
 1 Osgir, the Reconstructor
