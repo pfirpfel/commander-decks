@@ -70,14 +70,15 @@
 1 Sphinx of Uthuun
 1 Sun Titan
 1 Sunken Hollow
-4 Swamp
+3 Swamp
 1 Teleportation Circle
-1 The Eldest Reborn
 1 The Scarab God
+1 Tortured Existence
 1 Tundra
 1 Unburial Rites
 1 Undead Gladiator
 1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
 1 Vanquish the Horde
 1 Vault of Champions
 1 Victimize
