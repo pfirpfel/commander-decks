@@ -10,6 +10,7 @@
 1 Avacyn, Angel of Hope
 1 Azorius Signet
 1 Baleful Strix
+1 Banewhip Punisher
 1 Barrowin of Clan Undurr
 1 Bojuka Bog
 1 Burnished Hart
@@ -18,7 +19,6 @@
 1 Coffin Queen
 1 Command Tower
 1 Compulsion
-1 Counterspell
 1 Deserted Beach
 1 Dimir Signet
 1 Doomed Necromancer
