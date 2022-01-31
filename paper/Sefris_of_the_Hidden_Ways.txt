@@ -3,6 +3,7 @@
 1 Anguished Unmaking
 1 Animate Dead
 1 Arcane Signet
+1 Archfiend of Ifnir
 1 Archon of Cruelty
 1 Ashen Rider
 1 Atris, Oracle of Half-Truths
@@ -31,14 +32,16 @@
 1 Frantic Search
 1 Geier Reach Sanitarium
 1 Ghostly Pilferer
+1 Glasspool Mimic
 1 Glen Elendra Archmage
 1 Godless Shrine
 1 Hallowed Fountain
 1 High Market
 1 Hostage Taker
-5 Island
+4 Island
 1 Karmic Guide
 1 Lightning Greaves
+1 Linvala, Shield of Sea Gate
 1 Marsh Flats
 1 Master of Death
 1 Merfolk Looter
@@ -47,6 +50,7 @@
 1 Necromancy
 1 Obsessive Stitcher
 1 Orzhov Signet
+1 Overcharged Amalgam
 1 Phantasmal Image
 1 Plaguecrafter
 5 Plains
@@ -66,13 +70,11 @@
 1 Shipwreck Marsh
 1 Shriekmaw
 1 Sol Ring
-1 Solemn Simulacrum
 1 Sphinx of Uthuun
 1 Sun Titan
 1 Sunken Hollow
 3 Swamp
 1 Teleportation Circle
-1 The Scarab God
 1 Tortured Existence
 1 Tundra
 1 Unburial Rites
@@ -86,6 +88,5 @@
 1 Watery Grave
 1 Wayfarer's Bauble
 1 Windfall
-1 You Find the Villains' Lair
 
 1 Sefris of the Hidden Ways
