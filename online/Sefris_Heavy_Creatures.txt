@@ -48,7 +48,6 @@
 1 Mulldrifter
 1 Nephalia Drownyard
 1 Nezahal, Primal Tide
-1 Nullpriest of Oblivion
 1 Obsessive Stitcher
 1 Ondu Inversion
 1 Organ Hoarder
@@ -68,10 +67,10 @@
 1 Reveillark
 1 Reya Dawnbringer
 1 Rune-Scarred Demon
-1 Scion of Darkness
 1 Scrubland
 1 Sea of Clouds
 1 Selfless Spirit
+1 Shadowborn Demon
 1 Shattered Sanctum
 1 Sheoldred, Whispering One
 1 Shipwreck Marsh
@@ -83,6 +82,7 @@
 2 Swamp
 1 Takenuma, Abandoned Mire
 1 Thassa, Deep-Dwelling
+1 Thought Courier
 1 Tortured Existence
 1 Toxrill, the Corrosive
 1 Tundra
