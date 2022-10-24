@@ -1,13 +1,14 @@
 1 Ancient Grudge
 1 Anticipate
+1 Arcane Bombardment
 1 Arcane Signet
 1 Archmage Emeritus
 1 Artifact Mutation
 1 Beast Within
+1 Big Score
 1 Brainstorm
 1 Breeding Pool
 1 Chaos Warp
-1 Charmbreaker Devils
 1 Chemister's Insight
 1 Cinder Glade
 1 Comet Storm
@@ -35,6 +36,7 @@
 1 Impulse
 1 Into the Roil
 5 Island
+1 Joint Exploration
 1 Ketria Triome
 1 Lightning Greaves
 1 Manamorphose
@@ -49,7 +51,6 @@
 1 Nexus of Fate
 1 Niv-Mizzet, Parun
 1 Primal Amulet
-1 Propaganda
 1 Prophetic Bolt
 1 Ral's Outburst
 1 Rapid Hybridization
@@ -64,7 +65,6 @@
 1 Shark Typhoon
 1 Shivan Reef
 1 Silundi Vision
-1 Slice in Twain
 1 Snap
 1 Sol Ring
 1 Spire Garden
