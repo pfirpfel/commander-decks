@@ -1,5 +1,6 @@
 1 Anara, Wolvid Familiar
 1 Anger
+1 Augur of Autumn
 1 Bala Ged Recovery
 1 Balefire Dragon
 1 Blasphemous Act
@@ -12,9 +13,7 @@
 1 Cinder Glade
 1 Command Tower
 1 Courser of Kruphix
-1 Cragcrown Pathway
 1 Cream of the Crop
-1 Crystal Ball
 1 Darksteel Plate
 1 Dragonlord Atarka
 1 Drakuseth, Maw of Flames
@@ -24,7 +23,7 @@
 1 Evolving Wilds
 1 Farseek
 1 Fire-Lit Thicket
-9 Forest
+10 Forest
 1 Game Trail
 1 Garruk's Horde
 1 Giant Adephage
@@ -32,9 +31,9 @@
 1 Gruul Signet
 1 Gruul Turf
 1 Guardian Project
-1 Hellkite Charger
 1 Hellkite Tyrant
 1 Heroic Intervention
+1 Highland Forest
 1 Highland Weald
 1 Hua Tuo, Honored Physician
 1 Karplusan Forest
@@ -47,13 +46,12 @@
 1 Meteor Golem
 1 Mirri's Guile
 1 Moraug, Fury of Akoum
-8 Mountain
+7 Mountain
 1 Mountain Valley
 1 Mul Daya Channelers
 1 Mwonvuli Beast Tracker
 1 Nature's Lore
 1 Needletooth Raptor
-1 Ohran Viper
 1 Once and Future
 1 Polyraptor
 1 Quartzwood Crasher
@@ -70,6 +68,7 @@
 1 Savage Ventmaw
 1 Scavenger Grounds
 1 Sheltered Thicket
+1 Slagwoods Bridge
 1 Soul of the Harvest
 1 Sylvan Library
 1 Sylvan Tutor
@@ -81,6 +80,7 @@
 1 Vandalblast
 1 Vigor
 1 Vizier of the Menagerie
+1 Xenagos, God of Revels
 1 Yavimaya Hollow
 
 1 Hans Eriksson

@@ -1,7 +1,6 @@
 1 Akroma, Angel of Wrath
-1 Alexi, Zephyr Mage
 1 Ancient Tomb
-1 Angel of Finality
+1 Angel of the Ruins
 1 Arcane Signet
 1 Arcanis the Omnipotent
 1 Atemsis, All-Seeing
@@ -15,11 +14,14 @@
 1 Cleansing Nova
 1 Command Tower
 1 Death or Glory
+1 Deserted Beach
+1 Eiganjo, Seat of the Empire
 1 Elesh Norn, Grand Cenobite
 1 Elspeth Conquers Death
 1 Emeria Shepherd
 1 Everflowing Chalice
 1 Fact or Fiction
+1 Faithful Mending
 1 Fellwar Stone
 1 Flooded Strand
 1 Frantic Search
@@ -28,16 +30,17 @@
 1 Glacial Floodplain
 1 Hallowed Fountain
 1 Heliod's Intervention
-1 Honor-Worn Shaku
 1 Irrigated Farmland
 1 Jace, Vryn's Prodigy
 1 Karmic Guide
 1 Karn's Temporal Sundering
-1 Knight of the White Orchid
+1 Keiga, the Tide Star
+1 Late to Dinner
 1 Lavinia of the Tenth
 1 Lightning Greaves
 1 Linvala, Shield of Sea Gate
 1 Loyal Retainers
+1 Loyal Warhound
 1 Mageta the Lion
 1 Mana Crypt
 1 Mana Drain
@@ -51,21 +54,23 @@
 1 Myriad Landscape
 1 Mystic Sanctuary
 1 Nezahal, Primal Tide
-1 Ormos, Archive Keeper
+1 Ondu Inversion
+1 Otawara, Soaring City
 1 Polluted Delta
 1 Prairie Stream
 1 Prismatic Lens
 1 Prismatic Vista
 1 Raff Capashen, Ship's Mage
-1 Resurrection
+1 Relic of Legends
 1 Reya Dawnbringer
 1 Rhystic Study
 1 Sephara, Sky's Blade
 1 Skyclave Relic
-10 Snow-Covered Island
-10 Snow-Covered Plains
+7 Snow-Covered Island
+8 Snow-Covered Plains
 1 Sol Ring
 1 Solemn Simulacrum
+1 Soul-Guide Lantern
 1 Sun Titan
 1 Swords to Plowshares
 1 Talisman of Progress
@@ -76,8 +81,8 @@
 1 Tundra
 1 Unesh, Criosphinx Sovereign
 1 Urza's Ruinous Blast
+1 Urza's Saga
 1 Venser, Shaper Savant
-1 Worn Powerstone
 1 Zetalpa, Primal Dawn
 
 1 Niambi, Esteemed Speaker
