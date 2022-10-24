@@ -1,0 +1,95 @@
+1 Arctic Treeline
+1 Artifact Mutation
+1 Aura Mutation
+1 Austere Command
+1 Azorius Guildgate
+1 Baldur's Gate
+1 Black Dragon Gate
+1 Blazing Archon
+1 Boros Guildgate
+1 Brainstorm
+1 Circuitous Route
+1 Citadel Gate
+1 Cleansing Nova
+1 Clear the Mind
+1 Cliffgate
+1 Command Tower
+1 Commit/Memory
+1 Crop Rotation
+1 Dig Through Time
+1 Dimir Guildgate
+1 Dream Cache
+1 Duneblast
+1 Escape to the Wilds
+1 Eureka Moment
+1 Exotic Orchard
+1 Explore
+1 Explore the Underdark
+1 Faithless Looting
+1 Farseek
+1 Flip the Switch
+1 Gaea's Blessing
+1 Gates Ablaze
+1 Gateway Plaza
+1 Genesis Storm
+1 Glacial Floodplain
+1 Golgari Guildgate
+1 Gond Gate
+1 Growth Spasm
+1 Growth Spiral
+1 Gruul Guildgate
+1 Guild Summit
+1 Highland Forest
+1 Hour of Promise
+1 Inevitable Betrayal
+1 Into the North
+1 Izzet Guildgate
+1 Jadzi, Oracle of Arcavios
+1 Kederekt Leviathan
+1 Khalni Garden
+1 Kher Keep
+1 Kodama's Reach
+1 Lat-Nam's Legacy
+1 Lazotep Plating
+1 Lorehold Command
+1 Manor Gate
+1 Maze's End
+1 Nature's Lore
+1 Necrotic Hex
+1 Open the Gates
+1 Orzhov Guildgate
+1 Pathrazer of Ulamog
+1 Peer Through Depths
+1 Plaza of Harmony
+1 Polymorph
+1 Rakdos Guildgate
+1 Reality Scramble
+1 Regrowth
+1 Reweave
+1 Rimewood Falls
+1 Rotten Reunion
+1 Scholar of the Lost Trove
+1 Sea Gate
+1 See Beyond
+1 Selesnya Guildgate
+1 Silundi Vision
+1 Simic Guildgate
+2 Snow-Covered Forest
+2 Snow-Covered Island
+1 Snow-Covered Mountain
+2 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Solve the Equation
+1 Start/Finish
+1 Stormtide Leviathan
+1 Sylvan Scrying
+1 Synthetic Destiny
+1 Szat's Will
+1 Tempt with Discovery
+1 Terastodon
+1 Time Wipe
+1 Transmogrify
+1 Urban Evolution
+1 Urza's Ruinous Blast
+1 Woodland Chasm
+1 Yidaro, Wandering Monster
