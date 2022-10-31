@@ -4,7 +4,6 @@
 1 Arcane Signet
 1 Arid Mesa
 1 Atsushi, the Blazing Sky
-1 Austere Command
 1 Battlefield Forge
 1 Blade of Selves
 1 Blasphemous Act
@@ -17,20 +16,23 @@
 1 Clifftop Retreat
 1 Combustible Gearhulk
 1 Command Tower
+1 Cursed Mirror
 1 Dockside Extortionist
 1 Duergar Hedge-Mage
 1 Eiganjo, Seat of the Empire
 1 Emeria's Call
-1 Ephemerate
 1 Esper Sentinel
+1 Everflowing Chalice
 1 Exotic Orchard
 1 Fable of the Mirror-Breaker
 1 Farewell
 1 Fellwar Stone
 1 Firbolg Flutist
+1 Flametongue Kavu
 1 Flawless Maneuver
 1 Generous Gift
 1 Goblin Bombardment
+1 High Market
 1 Imperial Recruiter
 1 Inferno Titan
 1 Inspiring Overseer
@@ -44,7 +46,7 @@
 1 Lotus Field
 1 Loyal Warhound
 1 Mind Stone
-6 Mountain
+5 Mountain
 1 Myr Battlesphere
 1 Myriad Landscape
 1 Needleverge Pathway
@@ -63,7 +65,6 @@
 1 Sacred Foundry
 1 Sacred Peaks
 1 Scavenger Grounds
-1 Serra Paragon
 1 Skyclave Apparition
 1 Skyscanner
 1 Smothering Tithe
