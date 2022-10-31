@@ -7,9 +7,9 @@
 1 Bayou
 1 Bojuka Bog
 1 Breeding Pool
-1 Burnished Hart
 1 Caustic Caterpillar
 1 Cavalier of Thorns
+1 Cemetery Tampering
 1 Champion of Wits
 1 Clearwater Pathway
 1 Command Beacon
@@ -70,7 +70,6 @@
 1 Sol Ring
 1 Solemn Simulacrum
 1 Soul-Guide Lantern
-1 Splinterfright
 1 Spore Frog
 1 Springbloom Druid
 1 Stitcher's Supplier
@@ -86,6 +85,7 @@
 1 Tropical Island
 1 Underground Sea
 1 Undergrowth Stadium
+1 Uro, Titan of Nature's Wrath
 1 Verdant Catacombs
 1 Vessel of Nascency
 1 Wasteland
