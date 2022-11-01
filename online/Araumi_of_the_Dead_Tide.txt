@@ -14,7 +14,6 @@
 1 Cyclonic Rift
 1 Demon's Disciple
 1 Deranged Assistant
-1 Diluvian Primordial
 1 Dimir Signet
 1 Discontinuity
 1 Drowned Catacomb
@@ -33,6 +32,7 @@
 1 Impaler Shrike
 8 Island
 1 Jace's Archivist
+1 Junji, the Midnight Sky
 1 Keiga, the Tide Star
 1 Kokusho, the Evening Star
 1 Lightning Greaves
