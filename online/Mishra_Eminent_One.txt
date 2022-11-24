@@ -6,10 +6,10 @@
 1 Arcum Dagsson
 1 Audacious Reshapers
 1 Badlands
-1 Black Market Connections
 1 Blood Crypt
 1 Bloodstained Mire
 1 Bojuka Bog
+1 Brittle Effigy
 1 Brudiclad, Telchor Engineer
 1 Buried Ruin
 1 Chromatic Star
@@ -21,13 +21,14 @@
 1 Dragonspark Reactor
 1 Drossforge Bridge
 1 Emry, Lurker of the Loch
+1 Executioner's Capsule
 1 Exotic Orchard
 1 Fable of the Mirror-Breaker
-1 Fellwar Stone
 1 Forsaken Monument
 1 Goblin Engineer
 1 Goblin Welder
 1 Gonti's Aether Heart
+1 Hedron Archive
 1 Ichor Wellspring
 1 Idol of Oblivion
 1 Inventors' Fair
@@ -41,18 +42,16 @@
 1 Luxury Suite
 1 Machine God's Effigy
 1 Mana Crypt
-1 March of Progress
 1 Metalspinner's Puzzleknot
 1 Mirrorworks
 1 Mishra's Research Desk
 1 Mistvault Bridge
 1 Moonsilver Key
 1 Morphic Pool
-3 Mountain
+2 Mountain
 1 Mycosynth Wellspring
 1 Myr Retriever
 1 Nautiloid Ship
-1 Navigation Orb
 1 Nihil Spellbomb
 1 Nimblewright Schematic
 1 Oni-Cult Anvil
@@ -83,14 +82,16 @@
 1 Talisman of Indulgence
 1 Thirst for Knowledge
 1 Thought Monitor
-1 Thoughtcast
+1 Toxic Deluge
 1 Trading Post
 1 Training Center
+1 Treasure Mage
 1 Tribute Mage
 1 Underground Sea
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
+1 Valakut Awakening
+1 Vandalblast
 1 Volcanic Island
 1 Watery Grave
-1 Wayfarer's Bauble
 1 Xander's Lounge
