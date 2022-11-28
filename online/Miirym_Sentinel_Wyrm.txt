@@ -26,8 +26,8 @@
 1 Garruk's Uprising
 1 Ghostly Flicker
 1 Glasspool Mimic
+1 Glorybringer
 1 Goldspan Dragon
-1 Hellkite Charger
 1 Hinterland Harbor
 1 Iymrith, Desert Doom
 1 Kairi, the Swirling Sky
@@ -44,7 +44,6 @@
 1 Obsidian Charmaw
 1 Old Gnawbone
 1 Orb of Dragonkind
-1 Orvar, the All-Form
 1 Otawara, Soaring City
 1 Panharmonicon
 1 Path of Ancestry
@@ -62,7 +61,6 @@
 1 Sarkhan's Triumph
 1 Savage Ventmaw
 1 Scalding Tarn
-1 Scion of Draco
 1 Scourge of the Throne
 1 Scourge of Valkas
 1 Skyshroud Claim
@@ -81,11 +79,13 @@
 1 Tangled Islet
 1 Temur Ascendancy
 1 Terror of the Peaks
+1 Thassa, Deep-Dwelling
 1 The Great Henge
 1 Three Visits
 1 Thunderbreak Regent
 1 Training Center
 1 Tropical Island
+1 Tyrant of Kher Ridges
 1 Utvara Hellkite
 1 Valakut Awakening
 1 Volcanic Island
