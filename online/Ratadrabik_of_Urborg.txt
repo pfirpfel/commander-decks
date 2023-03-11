@@ -20,20 +20,19 @@
 1 Damn
 1 Deadly Dispute
 1 Demonic Tutor
-1 Drana, the Last Bloodchief
+1 Demonlord Belzenlok
 1 Drivnod, Carnage Dominus
 1 Eiganjo, Seat of the Empire
 1 Elas il-Kor, Sadistic Pilgrim
 1 Elenda, the Dusk Rose
 1 Elesh Norn, Grand Cenobite
-1 Elesh Norn, Mother of Machines
-1 Erebos, Bleak-Hearted
 1 Esper Sentinel
 1 Expedition Map
 1 Farewell
 1 Fetid Heath
 1 Generous Gift
 1 Ghoulcaller Gisa
+1 Gisa, Glorious Resurrector
 1 Godless Shrine
 1 Gonti, Lord of Luxury
 1 Grave Pact
@@ -89,5 +88,6 @@
 1 Whisper, Blood Liturgist
 1 Yahenni, Undying Partisan
 1 Yawgmoth, Thran Physician
+1 Yosei, the Morning Star
 
 1 Ratadrabik of Urborg
