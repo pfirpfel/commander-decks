@@ -13,6 +13,7 @@
 1 Buried Ruin
 1 Cabal Coffers
 1 Canyon Slough
+1 Castle Embereth
 1 Castle Locthwain
 1 Chainer, Nightmare Adept
 1 Chaos Warp
@@ -30,12 +31,10 @@
 1 Fable of the Mirror-Breaker
 1 Faithless Looting
 1 Feed the Swarm
-1 Fervor
 1 Florian, Voldaren Scion
 1 Gix, Yawgmoth Praetor
 1 Goblin Engineer
 1 Goblin Rabblemaster
-1 Graf Rats
 1 Graven Cairns
 1 Hagra Mauling
 1 Hanweir Battlements
@@ -44,6 +43,7 @@
 1 Imperial Recruiter
 1 Jadar, Ghoulcaller of Nephalia
 1 Jeska's Will
+1 Judith, the Scourge Diva
 1 Kardur, Doomscourge
 1 Karlach, Fury of Avernus
 1 Krenko, Tin Street Kingpin
@@ -53,11 +53,11 @@
 1 Liquimetal Torque
 1 Loyal Apprentice
 1 Mana Crypt
-1 Midnight Scavengers
 1 Mind Stone
-6 Mountain
+7 Mountain
 1 Night's Whisper
 1 Nihil Spellbomb
+1 Ophiomancer
 1 Phyrexian Arena
 1 Phyrexian Dragon Engine
 1 Port Razer
@@ -67,20 +67,21 @@
 1 Rakdos Signet
 1 Read the Bones
 1 Reanimate
-1 Seize the Day
+1 Release the Gremlins
 1 Shatterskull Smashing
 1 Skullclamp
 1 Sokenzan, Crucible of Defiance
 1 Sol Ring
 1 Stormfist Crusader
 1 Sulfurous Springs
-5 Swamp
+3 Swamp
 1 Sword of the Animist
 1 Takenuma, Abandoned Mire
 1 Talisman of Indulgence
 1 Terminate
 1 Tilonalli's Summoner
-1 Unmarked Grave
+1 Toxic Deluge
+1 Urabrask's Forge
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
 1 Valakut Awakening
