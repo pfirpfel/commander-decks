@@ -7,7 +7,7 @@
 1 Burgeoning
 1 Caged Sun
 1 Castle Garenbrig
-1 Dust Bowl
+1 Doric, Nature's Warden
 1 Emerald Medallion
 1 Exploration
 1 Extraplanar Lens
@@ -15,13 +15,13 @@
 1 Finale of Devastation
 1 Gaea's Touch
 1 Garruk Wildspeaker
-1 Genesis Wave
 1 Gilanra, Caller of Wirewood
 1 God-Eternal Rhonas
 1 Goreclaw, Terror of Qal Sisma
 1 Growing Rites of Itlimoc
 1 Guardian Project
 1 Gwenna, Eyes of Gaea
+1 Halana, Kessig Ranger
 1 Heroes' Podium
 1 Heroic Intervention
 1 Jolrael, Mwonvuli Recluse
@@ -34,14 +34,13 @@
 1 Kolvori, God of Kinship
 1 Mana Crypt
 1 Mana Reflection
-1 Marwyn, the Nurturer
 1 Mox Amber
+1 Nature's Claim
 1 Nature's Lore
 1 Nissa, Vastwood Seer
 1 Nissa, Who Shakes the World
 1 Nykthos, Shrine to Nyx
 1 Nylea, Keen-Eyed
-1 Nyx Lotus
 1 Oath of Nissa
 1 Old Gnawbone
 1 Relic of Legends
@@ -57,10 +56,10 @@
 1 Shigeki, Jukai Visionary
 20 Snow-Covered Forest
 1 Sol Ring
-1 Strip Mine
 1 Surrak, the Hunt Caller
 1 Sword of the Animist
 1 Sylvan Library
+1 Tectonic Edge
 1 The Great Henge
 1 Thought Vessel
 1 Three Visits
@@ -74,6 +73,7 @@
 1 Vivien, Monsters' Advocate
 1 Vorinclex, Monstrous Raider
 1 War Room
+1 Wasteland
 1 Wild Growth
 1 Yavimaya Hollow
 1 Yavimaya, Cradle of Growth
