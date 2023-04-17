@@ -1,0 +1,98 @@
+1 Academy Ruins
+1 Ancestral Vision
+1 Archon of Justice
+1 Austere Command
+1 Azorius Signet
+1 Birds of Paradise
+1 Blatant Thievery
+1 Breeding Pool
+1 Bribery
+1 Call of the Herd
+1 Civic Wayfinder
+1 Coalition Relic
+1 Coiling Oracle
+1 Commander Eesha
+1 Concentrate
+1 Counterspell
+1 Cryptic Command
+1 Crystal Shard
+1 Dismantling Blow
+1 Draining Whelk
+1 Duplicant
+1 Enlightened Tutor
+1 Eternal Witness
+1 Faerie Conclave
+1 Faith's Fetters
+1 Flooded Grove
+1 Flooded Strand
+1 Genesis
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Harmonize
+1 Impulse
+1 Indrik Stomphowler
+1 Kitchen Finks
+1 Kodama's Reach
+1 Krosan Verge
+1 Lonely Sandbar
+1 Loxodon Hierarch
+1 Minamo, School at Water's Edge
+1 Miraculous Recovery
+1 Mistmeadow Witch
+1 Misty Rainforest
+1 Moat
+1 Momentary Blink
+1 Mulldrifter
+1 Mystic Enforcer
+1 Mystic Gate
+1 Mystic Snake
+1 Mystical Tutor
+1 Nevinyrral's Disk
+1 Oblivion Ring
+1 Oblivion Stone
+1 Pendelhaven
+1 Persuasion
+1 Primal Command
+1 Prison Term
+1 Psionic Blast
+1 Reflecting Pool
+1 Reveillark
+1 Riftwing Cloudskate
+1 Rout
+1 Sakura-Tribe Elder
+1 Savannah
+1 Seaside Citadel
+1 Secluded Steppe
+1 Selesnya Signet
+1 Sensei's Divining Top
+1 Simic Signet
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Snow-Covered Plains
+1 Solemn Simulacrum
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Take Possession
+1 Temple Garden
+1 Temporal Isolation
+1 Tidings
+1 Tolaria West
+1 Tranquil Thicket
+1 Treetop Village
+1 Treva's Charm
+1 Treva, the Renewer
+1 Tropical Island
+1 Trygon Predator
+1 Tundra
+1 Umezawa's Jitte
+1 Vesuvan Shapeshifter
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Meadow
+1 Wall of Roots
+1 Windswept Heath
+1 Wooded Bastion
+1 Worldly Tutor
+1 Wrath of God
+
+1 Phelddagrif
