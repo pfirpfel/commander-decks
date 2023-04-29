@@ -1,0 +1,94 @@
+1 Aether Channeler
+1 Agent of Treachery
+1 Ancient Tomb
+1 Arcane Signet
+1 Azorius Signet
+1 Baleful Strix
+1 Bojuka Bog
+1 Brago, King Eternal
+1 Callous Bloodmage
+1 Command Tower
+1 Cosmic Intervention
+1 Counterspell
+1 Damn
+1 Demonic Tutor
+1 Deserted Beach
+1 Dimir Signet
+1 Displacer Kitten
+1 Drowned Catacomb
+1 Eiganjo, Seat of the Empire
+1 Elesh Norn, Mother of Machines
+1 Elspeth Conquers Death
+1 Ertai Resurrected
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Farewell
+1 Felidar Guardian
+1 Fellwar Stone
+1 Flickerwisp
+1 Flooded Strand
+1 Generous Gift
+1 Gilded Drake
+1 Glacial Fortress
+1 Glasspool Mimic
+1 Glen Elendra Archmage
+1 Godless Shrine
+1 Gonti, Lord of Luxury
+1 Hallowed Fountain
+1 Invasion of Amonkhet
+1 Invasion of Fiora
+1 Invasion of Innistrad
+1 Invasion of Ravnica
+1 Invasion of Tolvada
+1 Invasion of Vryn
+3 Island
+1 Isolated Chapel
+1 Karmic Guide
+1 Loran of the Third Path
+1 Malakir Rebirth
+1 Mana Crypt
+1 Mana Drain
+1 Marsh Flats
+1 Morphic Pool
+1 Mox Amber
+1 Mulldrifter
+1 Oath of Liliana
+1 Oath of Teferi
+1 Ondu Inversion
+1 Orzhov Signet
+1 Otawara, Soaring City
+1 Panharmonicon
+4 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Raffine's Tower
+1 Ravenous Chupacabra
+1 Scroll of Fate
+1 Scrubland
+1 Sea of Clouds
+1 Shattered Sanctum
+1 Shipwreck Marsh
+1 Skyclave Apparition
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soulherder
+1 Spark Double
+1 Sun Titan
+3 Swamp
+1 Sword of Hearth and Home
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Teferi's Protection
+1 Teleportation Circle
+1 Thassa, Deep-Dwelling
+1 The Eternal Wanderer
+1 Tundra
+1 Underground Sea
+1 Vault of Champions
+1 Wall of Omens
+1 Wasteland
+1 Watery Grave
+1 Yorion, Sky Nomad
+
+1 Aminatou, the Fateshifter
