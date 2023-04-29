@@ -66,11 +66,11 @@
 1 Three Visits
 1 Toski, Bearer of Secrets
 1 Tranquil Thicket
-1 Traxos, Scourge of Kroog
 1 Turntimber Symbiosis
 1 Untaidake, the Cloud Keeper
 1 Utopia Sprawl
 1 Vivien Reid
+1 Vorinclex
 1 Vorinclex, Monstrous Raider
 1 War Room
 1 Wasteland
