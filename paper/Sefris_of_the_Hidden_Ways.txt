@@ -65,6 +65,7 @@
 1 Raffine, Scheming Seer
 1 Remorseful Cleric
 1 Reveillark
+1 Rona, Herald of Invasion
 1 Scrubland
 1 Sea of Clouds
 1 Selfless Spirit
@@ -81,7 +82,6 @@
 2 Swamp
 1 Takenuma, Abandoned Mire
 1 Thassa, Deep-Dwelling
-1 Thought Courier
 1 Tortured Existence
 1 Toxrill, the Corrosive
 1 Tundra
