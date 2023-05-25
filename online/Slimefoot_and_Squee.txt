@@ -1,5 +1,4 @@
 1 Altar of Dementia
-1 Anger
 1 Animate Dead
 1 Apex Altisaur
 1 Arcane Signet
@@ -15,8 +14,8 @@
 1 Bloodstained Mire
 1 Bojuka Bog
 1 Boseiju, Who Endures
-1 Braids, Arisen Nightmare
 1 Breach the Multiverse
+1 Cathartic Reunion
 1 Chainer, Nightmare Adept
 1 Command Tower
 1 Deathcap Glade
@@ -30,8 +29,9 @@
 1 Faithless Looting
 1 Farseek
 1 Fauna Shaman
+1 Field of the Dead
 1 Flayer of the Hatebound
-4 Forest
+2 Forest
 1 Fungal Rebirth
 1 Goblin Bombardment
 1 Golgari Germination
@@ -42,12 +42,13 @@
 1 Hermit Druid
 1 High Market
 1 Hoarding Broodlord
+1 Hostile Negotiations
 1 Ignoble Hierarch
 1 Kogla and Yidaro
 1 Korvold, Fae-Cursed King
 1 Life from the Loam
 1 Luxury Suite
-2 Mountain
+1 Mountain
 1 Mycoloth
 1 Nature's Lore
 1 Necrogenesis
@@ -60,7 +61,6 @@
 1 Ramunap Excavator
 1 Razaketh, the Foulblooded
 1 Reanimate
-1 Riveteers Ascendancy
 1 Rockfall Vale
 1 Rootbound Crag
 1 Sakura-Tribe Elder
@@ -68,24 +68,28 @@
 1 Sepulchral Primordial
 1 Sheoldred
 1 Skullclamp
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 1 Sol Ring
 1 Spire Garden
 1 Sprouting Thrinax
 1 Stitcher's Supplier
 1 Stomping Ground
-2 Swamp
+1 Swamp
 1 Taiga
 1 Takenuma, Abandoned Mire
 1 Tear Asunder
 1 Tendershoot Dryad
-1 The Meathook Massacre
 1 The Weatherseed Treaty
 1 Three Visits
+1 Toxic Deluge
 1 Undergrowth Stadium
 1 Urza's Saga
 1 Verdant Catacombs
 1 Verdant Force
 1 Victimize
+1 Wheel of Fortune
 1 Wood Elves
 1 Wooded Foothills
 1 Woodland Cemetery
