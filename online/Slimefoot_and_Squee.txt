@@ -1,0 +1,96 @@
+1 Altar of Dementia
+1 Anger
+1 Animate Dead
+1 Apex Altisaur
+1 Arcane Signet
+1 Artifact Mutation
+1 Ashnod's Altar
+1 Badlands
+1 Bane of Progress
+1 Bayou
+1 Birds of Paradise
+1 Bitter Reunion
+1 Blasphemous Act
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Braids, Arisen Nightmare
+1 Breach the Multiverse
+1 Chainer, Nightmare Adept
+1 Command Tower
+1 Deathcap Glade
+1 Dictate of Erebos
+1 Dragonskull Summit
+1 Electric Revelation
+1 Etali, Primal Conqueror
+1 Eternal Witness
+1 Evolutionary Leap
+1 Exotic Orchard
+1 Faithless Looting
+1 Farseek
+1 Fauna Shaman
+1 Flayer of the Hatebound
+4 Forest
+1 Fungal Rebirth
+1 Goblin Bombardment
+1 Golgari Germination
+1 Golgari Rot Farm
+1 Greater Good
+1 Haunted Ridge
+1 Haywire Mite
+1 Hermit Druid
+1 High Market
+1 Hoarding Broodlord
+1 Ignoble Hierarch
+1 Kogla and Yidaro
+1 Korvold, Fae-Cursed King
+1 Life from the Loam
+1 Luxury Suite
+2 Mountain
+1 Mycoloth
+1 Nature's Lore
+1 Necrogenesis
+1 Nemata, Primeval Warden
+1 Noxious Gearhulk
+1 Overgrown Tomb
+1 Phyrexian Altar
+1 Phyrexian Tower
+1 Plaguecrafter
+1 Ramunap Excavator
+1 Razaketh, the Foulblooded
+1 Reanimate
+1 Riveteers Ascendancy
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Sepulchral Primordial
+1 Sheoldred
+1 Skullclamp
+1 Sol Ring
+1 Spire Garden
+1 Sprouting Thrinax
+1 Stitcher's Supplier
+1 Stomping Ground
+2 Swamp
+1 Taiga
+1 Takenuma, Abandoned Mire
+1 Tear Asunder
+1 Tendershoot Dryad
+1 The Meathook Massacre
+1 The Weatherseed Treaty
+1 Three Visits
+1 Undergrowth Stadium
+1 Urza's Saga
+1 Verdant Catacombs
+1 Verdant Force
+1 Victimize
+1 Wood Elves
+1 Wooded Foothills
+1 Woodland Cemetery
+1 World Shaper
+1 Ziatora's Proving Ground
+1 Ziatora, the Incinerator
+
+1 Slimefoot and Squee
