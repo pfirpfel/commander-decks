@@ -1,3 +1,4 @@
+1 Adeline, Resplendent Cathar
 1 Angel of the Ruins
 1 Anguished Unmaking
 1 Animate Dead
@@ -17,15 +18,16 @@
 1 Cathar Commando
 1 Cleansing Nova
 1 Clearwater Pathway
-1 Clever Concealment
 1 Command Tower
 1 Counterspell
+1 Currency Converter
 1 Damn
 1 Dauthi Voidwalker
 1 Deadly Rollick
 1 Demonic Tutor
 1 Deserted Beach
 1 Dimir Signet
+1 Drowned Catacomb
 1 Eiganjo, Seat of the Empire
 1 Elspeth Conquers Death
 1 Esper Sentinel
@@ -35,58 +37,64 @@
 1 Faithful Mending
 1 Farewell
 1 Fellwar Stone
+1 Field of the Dead
 1 Flooded Strand
 1 Forbidden Alchemy
+1 Gix, Yawgmoth Praetor
+1 Glacial Fortress
 1 Godless Shrine
+1 Guardian Scalelord
 1 Hallowed Fountain
 1 Hengegate Pathway
 1 Hoarding Broodlord
 1 Invasion of Amonkhet
-1 Invasion of Tolvada
 1 Invasion of Vryn
-4 Island
+1 Island
+1 Isolated Chapel
 1 Jin-Gitaxias, Progress Tyrant
 1 Junji, the Midnight Sky
 1 Karmic Guide
 1 Ledger Shredder
-1 Lightning Greaves
 1 Loran of the Third Path
 1 Malakir Rebirth
 1 Marsh Flats
+1 Morphic Pool
+1 Orzhov Basilica
 1 Orzhov Signet
 1 Otawara, Soaring City
-4 Plains
+1 Plains
 1 Polluted Delta
 1 Priest of Fell Rites
-1 Prismatic Vista
 1 Raffine's Tower
 1 Reanimate
 1 Scrubland
 1 Sea of Clouds
-1 See Double
+1 Selfless Spirit
 1 Sepulchral Primordial
 1 Sevinne's Reclamation
 1 Shattered Sanctum
 1 Sheoldred
 1 Sheoldred, Whispering One
 1 Shipwreck Marsh
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
 1 Sol Ring
 1 Sun Titan
-3 Swamp
 1 Swords to Plowshares
-1 Tainted Indulgence
 1 Takenuma, Abandoned Mire
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
 1 Teferi's Ageless Insight
 1 The Cruelty of Gix
+1 The Ozolith
 1 Toxrill, the Corrosive
 1 Tundra
 1 Unburial Rites
 1 Underground Sea
+1 Urza's Saga
 1 Vault of Champions
-1 Void Winnower
 1 Watery Grave
 1 Writ of Return
 
