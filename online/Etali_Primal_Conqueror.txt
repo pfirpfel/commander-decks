@@ -1,0 +1,87 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Bala Ged Recovery
+1 Beast Within
+1 Blade of Selves
+1 Blasphemous Act
+1 Boseiju, Who Endures
+1 Castle Garenbrig
+1 Chaos Warp
+1 Cinder Glade
+1 Command Beacon
+1 Command Tower
+1 Conjurer's Closet
+1 Cultivate
+1 Cursed Mirror
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Delina, Wild Mage
+1 Dockside Extortionist
+1 Etali, Primal Storm
+1 Eternal Witness
+1 Faldorn, Dread Wolf Herald
+1 Farhaven Elf
+1 Farseek
+1 Flamerush Rider
+1 Flameshadow Conjuring
+1 Flametongue Kavu
+7 Forest
+1 Garruk's Uprising
+1 Golden Argosy
+1 Gruul Signet
+1 Gruul Turf
+1 Heat Shimmer
+1 Hellkite Courser
+1 Helm of the Host
+1 Jaxis, the Troublemaker
+1 Jeska's Will
+1 Kenrith's Transformation
+1 Kodama's Reach
+1 Kogla and Yidaro
+1 Mirror March
+1 Molten Echoes
+9 Mountain
+1 Myriad Landscape
+1 Nature's Lore
+1 Orthion, Hero of Lavabrink
+1 Panharmonicon
+1 Plargg and Nassari
+1 Ragavan, Nimble Pilferer
+1 Rampant Growth
+1 Reclamation Sage
+1 Return of the Wildspeaker
+1 Rhythm of the Wild
+1 Rionya, Fire Dancer
+1 Rockfall Vale
+1 Rootbound Crag
+1 Rootweaver Druid
+1 Sakura-Tribe Elder
+1 Sanctum of Eternity
+1 Shatterskull Smashing
+1 Sheltered Thicket
+1 Skyshroud Claim
+1 Sol Ring
+1 Solemn Simulacrum
+1 Somberwald Sage
+1 Spire Garden
+1 Stomping Ground
+1 Sword of Hearth and Home
+1 Sylvan Library
+1 Taiga
+1 Talisman of Impulse
+1 The Great Henge
+1 Three Visits
+1 Topiary Stomper
+1 Turntimber Symbiosis
+1 Twinflame
+1 Tyvar's Stand
+1 Utopia Sprawl
+1 Valakut Awakening
+1 Voyager Staff
+1 War Room
+1 Wheel of Fortune
+1 Wild Growth
+1 Wood Elves
+1 Wooded Foothills
+
+1 Etali, Primal Conqueror
