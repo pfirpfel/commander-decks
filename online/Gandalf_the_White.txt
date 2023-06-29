@@ -1,0 +1,77 @@
+1 Alchemist's Vial
+1 Ancient Tomb
+1 Angel of the Ruins
+1 Ao, the Dawn Sky
+1 Arcane Signet
+1 Arcum's Astrolabe
+1 Ashnod's Altar
+1 Buried Ruin
+1 Chromatic Star
+1 Circuit Mender
+1 Combat Thresher
+1 Coveted Jewel
+1 Duplicant
+1 Eiganjo, Seat of the Empire
+1 Elesh Norn, Grand Cenobite
+1 Elesh Norn, Mother of Machines
+1 Emeria, the Sky Ruin
+1 Eye of Vecna
+1 Farewell
+1 Filigree Familiar
+1 Foundry Inspector
+1 Hedron Archive
+1 Ichor Wellspring
+1 Implement of Improvement
+1 Inventors' Fair
+1 Junk Diver
+1 Krark-Clan Ironworks
+1 Kuldotha Forgemaster
+1 Land Tax
+1 Lembas
+1 Liquimetal Torque
+1 Loran of the Third Path
+1 Loran, Disciple of History
+1 Meteor Golem
+1 Mind Stone
+1 Mycosynth Wellspring
+1 Myr Battlesphere
+1 Myr Retriever
+1 Myriad Landscape
+1 Mystic Forge
+1 Ondu Inversion
+1 Oswald Fiddlebender
+1 Panharmonicon
+1 Phyrexia's Core
+1 Portal to Phyrexia
+1 Samwise the Stouthearted
+1 Scrap Trawler
+1 Scrapyard Recombiner
+1 Sculpting Steel
+1 Skullclamp
+1 Skyscanner
+1 Skysovereign, Consul Flagship
+1 Slagstone Refinery
+1 Sleeper Dart
+25 Snow-Covered Plains
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spine of Ish Sah
+1 Swords to Plowshares
+1 Teleportation Circle
+1 Terrarion
+1 Teshar, Ancestor's Apostle
+1 The Mycosynth Gardens
+1 Thought Vessel
+1 Thran Spider
+1 Trading Post
+1 Treasure Keeper
+1 Urza's Saga
+1 War Room
+1 Wayfarer's Bauble
+1 Wedding Invitation
+1 Wizard's Rockets
+1 Workshop Assistant
+1 Worn Powerstone
+1 Wurmcoil Engine
+
+1 Gandalf the White
