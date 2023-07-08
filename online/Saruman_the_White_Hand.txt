@@ -1,7 +1,6 @@
 1 All Will Be One
 1 Ancient Tomb
 1 Arcane Signet
-1 Archmage Emeritus
 1 Badlands
 1 Bedevil
 1 Big Score
@@ -10,7 +9,9 @@
 1 Bloodstained Mire
 1 Bojuka Bog
 1 Breach the Multiverse
+1 By Force
 1 Cabal Coffers
+1 Cascade Bluffs
 1 Chandra's Ignition
 1 Chrome Host Seedshark
 1 Command Tower
@@ -29,13 +30,14 @@
 1 Exotic Orchard
 1 Expedition Map
 1 Fact or Fiction
+1 Faithless Looting
 1 Feed the Swarm
 1 Fellwar Stone
 1 Field of the Dead
 1 Flame of Anor
 1 Fling
 1 Foray of Orcs
-1 Haunted Ridge
+1 Izzet Boilerworks
 1 Izzet Signet
 1 Jeska's Will
 1 Kazuul's Fury
@@ -59,7 +61,6 @@
 1 Sea Gate Restoration
 1 See Double
 1 Shadowspear
-1 Shark Typhoon
 1 Shatterskull Smashing
 1 Shipwreck Marsh
 1 Shizo, Death's Storehouse
@@ -71,7 +72,6 @@
 1 Stormcarved Coast
 1 Sublime Epiphany
 1 Sulfur Falls
-1 Swamp
 1 Talisman of Creativity
 1 Talisman of Dominance
 1 Talisman of Indulgence
@@ -80,6 +80,7 @@
 1 The Black Gate
 1 The Ozolith
 1 The Reaver Cleaver
+1 Thought Vessel
 1 Too Greedily, Too Deep
 1 Toxic Deluge
 1 Training Center
@@ -89,7 +90,6 @@
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
 1 Valakut Awakening
-1 Vandalblast
 1 Volcanic Island
 1 Wake the Dragon
 1 Watery Grave
