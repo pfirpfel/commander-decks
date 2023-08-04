@@ -13,20 +13,18 @@
 1 Cabal Coffers
 1 Cascade Bluffs
 1 Chandra's Ignition
-1 Chrome Host Seedshark
 1 Command Tower
-1 Cormela, Glamour Thief
 1 Counterspell
-1 Curse of the Swine
 1 Cut/Ribbons
 1 Cyclonic Rift
 1 Deadly Rollick
+1 Deep Analysis
+1 Deflecting Swat
 1 Demonic Tutor
 1 Dig Through Time
 1 Dimir Signet
 1 Double Vision
-1 Dragonskull Summit
-1 Drowned Catacomb
+1 Dreadhorde Invasion
 1 Exotic Orchard
 1 Expedition Map
 1 Fact or Fiction
@@ -37,25 +35,27 @@
 1 Flame of Anor
 1 Fling
 1 Foray of Orcs
+1 Frantic Search
 1 Izzet Boilerworks
 1 Izzet Signet
 1 Jeska's Will
 1 Kazuul's Fury
-1 Lier, Disciple of the Drowned
 1 Luxury Suite
 1 Lórien Revealed
 1 Mana Drain
-1 Mana Geyser
 1 Metallurgic Summonings
-1 Mizzix's Mastery
 1 Morphic Pool
 1 Mountain
-1 Nihil Spellbomb
+1 Mystic Retrieval
 1 Otawara, Soaring City
+1 Palantír of Orthanc
 1 Polluted Delta
 1 Ponder
 1 Rakdos Signet
+1 Reflecting Pool
 1 Rhystic Study
+1 Riverglide Pathway
+1 Rogue's Passage
 1 Sauron's Ransom
 1 Scalding Tarn
 1 Sea Gate Restoration
@@ -70,12 +70,11 @@
 1 Sol Ring
 1 Steam Vents
 1 Stormcarved Coast
+1 Strategic Planning
 1 Sublime Epiphany
-1 Sulfur Falls
 1 Talisman of Creativity
 1 Talisman of Dominance
 1 Talisman of Indulgence
-1 Temporal Trespass
 1 Thassa's Intervention
 1 The Black Gate
 1 The Ozolith
@@ -84,6 +83,7 @@
 1 Too Greedily, Too Deep
 1 Toxic Deluge
 1 Training Center
+1 Treachery
 1 Treasure Cruise
 1 Trinket Mage
 1 Underground Sea
@@ -91,9 +91,9 @@
 1 Urza's Saga
 1 Valakut Awakening
 1 Volcanic Island
+1 Volcanic Salvo
 1 Wake the Dragon
 1 Watery Grave
-1 Wheel of Fortune
 1 Wheel of Misfortune
 1 Widespread Brutality
 1 Xander's Lounge
