@@ -3,6 +3,7 @@
 1 Angel of the Ruins
 1 Ao, the Dawn Sky
 1 Arcane Signet
+1 Archaeomancer's Map
 1 Arcum's Astrolabe
 1 Ashnod's Altar
 1 Buried Ruin
@@ -15,7 +16,6 @@
 1 Elesh Norn, Grand Cenobite
 1 Elesh Norn, Mother of Machines
 1 Emeria, the Sky Ruin
-1 Eye of Vecna
 1 Farewell
 1 Filigree Familiar
 1 Foundry Inspector
@@ -44,27 +44,27 @@
 1 Phyrexia's Core
 1 Portal to Phyrexia
 1 Samwise the Stouthearted
+1 Scampering Surveyor
 1 Scrap Trawler
-1 Scrapyard Recombiner
 1 Sculpting Steel
 1 Skullclamp
 1 Skyscanner
 1 Skysovereign, Consul Flagship
-1 Slagstone Refinery
 1 Sleeper Dart
 25 Snow-Covered Plains
 1 Sol Ring
 1 Solemn Simulacrum
 1 Spine of Ish Sah
-1 Swords to Plowshares
 1 Teleportation Circle
 1 Terrarion
 1 Teshar, Ancestor's Apostle
+1 The Mightstone and Weakstone
 1 The Mycosynth Gardens
+1 The One Ring
 1 Thought Vessel
+1 Thousand Moons Smithy
 1 Thran Spider
 1 Trading Post
-1 Treasure Keeper
 1 Urza's Saga
 1 War Room
 1 Wayfarer's Bauble
