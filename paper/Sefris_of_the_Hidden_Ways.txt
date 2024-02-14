@@ -10,18 +10,16 @@
 1 Banewhip Punisher
 1 Barrowin of Clan Undurr
 1 Bojuka Bog
-1 Brago, King Eternal
 1 Burning-Rune Demon
 1 Cathar Commando
 1 Cavalier of Night
 1 Champion of Wits
 1 Coffin Queen
 1 Command Tower
-1 Compulsion
 1 Dauthi Voidwalker
 1 Deserted Beach
 1 Doomed Necromancer
-1 Dreamscape Artist
+1 Ertai Resurrected
 1 Fell Stinger
 1 Flooded Strand
 1 Geier Reach Sanitarium
@@ -37,16 +35,17 @@
 1 Knight of the White Orchid
 1 Ledger Shredder
 1 Lightning Greaves
+1 Likeness Looter
 1 Linvala, Shield of Sea Gate
 1 Marsh Flats
 1 Master of Death
 1 Merfolk Looter
-1 Mirrorshell Crab
+1 Midnight Pathlighter
 1 Moon-Blessed Cleric
 1 Morphic Pool
 1 Mulldrifter
+1 Nadaar, Selfless Paladin
 1 Nephalia Drownyard
-1 Nezahal, Primal Tide
 1 Obsessive Stitcher
 1 Ondu Inversion
 1 Organ Hoarder
@@ -68,8 +67,8 @@
 1 Rona, Herald of Invasion
 1 Scrubland
 1 Sea of Clouds
+1 Seasoned Dungeoneer
 1 Selfless Spirit
-1 Shadowborn Demon
 1 Shattered Sanctum
 1 Shipwreck Marsh
 1 Shriekmaw
@@ -84,11 +83,12 @@
 1 Thassa, Deep-Dwelling
 1 Tortured Existence
 1 Toxrill, the Corrosive
+1 Triumphant Adventurer
 1 Tundra
 1 Underground Sea
 1 Vanquish the Horde
 1 Vault of Champions
-1 Vile Entomber
 1 Watery Grave
+1 White Plume Adventurer
 
 1 Sefris of the Hidden Ways
