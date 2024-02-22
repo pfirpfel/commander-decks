@@ -1,0 +1,92 @@
+1 Aberrant
+1 Altered Ego
+1 Animist's Awakening
+1 Arcane Signet
+1 Astral Cornucopia
+1 Bala Ged Recovery
+1 Beast Within
+1 Bloom Tender
+1 Blue Sun's Twilight
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Broodlord
+1 Cinder Glade
+1 Comet Storm
+1 Command Tower
+1 Crackle with Power
+1 Curse of the Swine
+1 Deflecting Swat
+1 Doppelgang
+1 Dreamroot Cascade
+1 Drown in Dreams
+1 Elementalist's Palette
+1 Exocrine
+1 Exotic Orchard
+1 Farseek
+1 Fierce Guardianship
+1 Finale of Revelation
+4 Forest
+1 Genesis Hydra
+1 Hedge Maze
+1 Heroic Intervention
+1 Hormagaunt Horde
+1 Hydroid Krasis
+1 Incubation Druid
+1 Ingenious Prodigy
+1 Inspiring Call
+4 Island
+1 Jaya's Immolating Inferno
+1 Ketria Triome
+1 Klauth's Will
+1 Kodama of the West Tree
+1 Lightning Greaves
+1 Mass Manipulation
+1 Mawloc
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+4 Mountain
+1 Nature's Lore
+1 Open the Way
+1 Pest Infestation
+1 Prismatic Vista
+1 Pull from Tomorrow
+1 Ravener
+1 Reap the Past
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rosheen Meanderer
+1 Scalding Tarn
+1 Selvala, Heart of the Wilds
+1 Shatterskull Smashing
+1 Skyshroud Claim
+1 Sol Ring
+1 Spellseeker
+1 Spire Garden
+1 Sporocyst
+1 Steam Vents
+1 Steelbane Hydra
+1 Stomping Ground
+1 Stormcarved Coast
+1 Swiftfoot Boots
+1 Taiga
+1 Temur Ascendancy
+1 Termagant Swarm
+1 Tervigon
+1 Thassa's Intervention
+1 The Goose Mother
+1 Three Visits
+1 Training Center
+1 Tropical Island
+1 Twinning Staff
+1 Tyrant Guard
+1 Tyvar's Stand
+1 Unbound Flourishing
+1 Up the Beanstalk
+1 Volcanic Island
+1 Voracious Hydra
+1 Walking Ballista
+1 Wooded Foothills
+1 Zoanthrope
+
+1 Magus Lucea Kane
