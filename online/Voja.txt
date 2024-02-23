@@ -1,0 +1,93 @@
+1 All Will Be One
+1 Anara, Wolvid Familiar
+1 Arbor Elf
+1 Arcane Signet
+1 Arid Mesa
+1 Arwen, Weaver of Hope
+1 Beast Whisperer
+1 Beast Within
+1 Blasphemous Act
+1 Bloom Tender
+1 Boros Charm
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Bramblewood Paragon
+1 Canopy Vista
+1 Cemetery Prowler
+1 Cinder Glade
+1 Command Tower
+1 Damning Verdict
+1 Devoted Druid
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Warmaster
+1 Farseek
+1 Flawless Maneuver
+7 Forest
+1 Fyndhorn Elves
+1 Generous Gift
+1 Guardian Project
+1 Gyre Sage
+1 Heroic Intervention
+1 Howling Moon
+1 Imperious Perfect
+1 Incubation Druid
+1 Inspiring Call
+1 Jetmir's Garden
+1 Leaf-Crowned Visionary
+1 Lightning Greaves
+1 Llanowar Elves
+1 Marwyn, the Nurturer
+1 Masked Vandal
+1 Maskwood Nexus
+1 Master of the Wild Hunt
+1 Mirror Entity
+1 Moon-Blessed Cleric
+2 Mountain
+1 Mutavault
+1 Nature's Lore
+1 Naya Charm
+1 Overgrown Farmland
+1 Path to Exile
+2 Plains
+1 Priest of Titania
+1 Realmwalker
+1 Reclamation Sage
+1 Reliquary Tower
+1 Rhys the Redeemed
+1 Rhythm of the Wild
+1 Rising of the Day
+1 Roaming Throne
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sacred Foundry
+1 Savannah
+1 Selvala, Heart of the Wilds
+1 Shalai and Hallar
+1 Shields of Velis Vel
+1 Sol Ring
+1 Spectator Seating
+1 Spire Garden
+1 Stomping Ground
+1 Sunpetal Grove
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Taiga
+1 Taunting Elf
+1 Taurean Mauler
+1 Teferi's Protection
+1 Temple Garden
+1 Three Visits
+1 Tolsimir, Friend to Wolves
+1 Tolsimir, Midnight's Light
+1 Viridian Joiner
+1 Volatile Claws
+1 Windswept Heath
+1 Windswift Slice
+1 Wolf-Skull Shaman
+1 Wolfcaller's Howl
+1 Wooded Foothills
+1 Wren's Run Packmaster
+1 Yavimaya, Cradle of Growth
+
+1 Voja, Jaws of the Conclave
