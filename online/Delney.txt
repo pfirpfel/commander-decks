@@ -1,11 +1,13 @@
 1 Ancient Tomb
 1 Angel of Destiny
 1 Arcane Signet
+1 Archaeomancer's Map
 1 Archivist of Oghma
 1 Arid Mesa
 1 Austere Command
 1 Cavern of Souls
 1 Charming Prince
+1 Court of Ardenvale
 1 Court Street Denizen
 1 Deep Gnome Terramancer
 1 Demolition Field
@@ -16,7 +18,6 @@
 1 Eiganjo, Seat of the Empire
 1 Elspeth, Sun's Champion
 1 Emeria, the Sky Ruin
-1 Enlightened Tutor
 1 Ephemerate
 1 Esper Sentinel
 1 Fabled Passage
@@ -46,18 +47,16 @@
 1 Nykthos, Shrine to Nyx
 1 Oketra's Monument
 1 Palace Jailer
-1 Path to Exile
 1 Pearl Medallion
 22 Plains
 1 Priest of Ancient Lore
-1 Rabble Rousing
 1 Recruiter of the Guard
 1 Reverent Hoplite
+1 Rumor Gatherer
 1 Saradoc, Master of Buckland
 1 Skullclamp
 1 Skyclave Apparition
 1 Skyhunter Strike Force
-1 Smothering Tithe
 1 Sol Ring
 1 Solemn Simulacrum
 1 Soul Warden
@@ -74,6 +73,7 @@
 1 True Conviction
 1 Wall of Omens
 1 Wayfarer's Bauble
+1 Welcoming Vampire
 1 Werefox Bodyguard
 1 Windswept Heath
 
