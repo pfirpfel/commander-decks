@@ -1,0 +1,80 @@
+1 Ancient Tomb
+1 Angel of Destiny
+1 Arcane Signet
+1 Archivist of Oghma
+1 Arid Mesa
+1 Austere Command
+1 Cavern of Souls
+1 Charming Prince
+1 Court Street Denizen
+1 Deep Gnome Terramancer
+1 Demolition Field
+1 Discerning Financier
+1 Duplicant
+1 Dusk/Dawn
+1 Eerie Interlude
+1 Eiganjo, Seat of the Empire
+1 Elspeth, Sun's Champion
+1 Emeria, the Sky Ruin
+1 Enlightened Tutor
+1 Ephemerate
+1 Esper Sentinel
+1 Fabled Passage
+1 Felidar Guardian
+1 Flooded Strand
+1 Generous Gift
+1 Get Lost
+1 Ghostway
+1 Guildless Commons
+1 Inspiring Overseer
+1 Karmic Guide
+1 Knight of the White Orchid
+1 Kor Cartographer
+1 Legion Loyalty
+1 Lightning Greaves
+1 Loran of the Third Path
+1 Mana Crypt
+1 Mangara, the Diplomat
+1 Marsh Flats
+1 Mentor of the Meek
+1 Militia Bugler
+1 Mind Stone
+1 Mirror Entity
+1 Monastery Mentor
+1 Moonshaker Cavalry
+1 Myriad Landscape
+1 Nykthos, Shrine to Nyx
+1 Oketra's Monument
+1 Palace Jailer
+1 Path to Exile
+1 Pearl Medallion
+22 Plains
+1 Priest of Ancient Lore
+1 Rabble Rousing
+1 Recruiter of the Guard
+1 Reverent Hoplite
+1 Saradoc, Master of Buckland
+1 Skullclamp
+1 Skyclave Apparition
+1 Skyhunter Strike Force
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul Warden
+1 Soul's Attendant
+1 Spirited Companion
+1 Stroke of Midnight
+1 Sun Titan
+1 Suture Priest
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Teshar, Ancestor's Apostle
+1 The Battle of Bywater
+1 Trouble in Pairs
+1 True Conviction
+1 Wall of Omens
+1 Wayfarer's Bauble
+1 Werefox Bodyguard
+1 Windswept Heath
+
+1 Delney, Streetwise Lookout
