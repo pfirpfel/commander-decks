@@ -1,0 +1,78 @@
+1 Aetherflux Reservoir
+1 Aphotic Wisps
+1 Arcane Lighthouse
+1 Arcane Signet
+1 Barren Moor
+1 Beseech the Queen
+1 Bojuka Bog
+1 Boseiju, Who Shelters All
+1 Bubbling Muck
+1 Burnished Hart
+1 Cabal Coffers
+1 Cabal Ritual
+1 Cabal Stronghold
+1 Cling to Dust
+1 Cremate
+1 Crypt Ghast
+1 Dark Bargain
+1 Dark Petition
+1 Dark Ritual
+1 Deadly Rollick
+1 Defile
+1 Demonic Tutor
+1 Entomb
+1 Everflowing Chalice
+1 Expedition Map
+1 Exsanguinate
+1 Feed the Swarm
+1 Feign Death
+1 Force of Despair
+1 Gravebreaker Lamia
+1 Grim Return
+1 Hagra Mauling
+1 Infernal Grasp
+1 Jet Medallion
+1 Liliana's Triumph
+1 Magus of the Coffers
+1 Malakir Rebirth
+1 Malicious Affliction
+1 Mind Stone
+1 Mutilate
+1 Myriad Landscape
+1 Necrologia
+1 Night's Whisper
+1 Nirkana Revenant
+1 Oathkeeper, Takeno's Daisho
+1 Oblivion Stone
+1 Polluted Mire
+1 Price of Fame
+1 Primal Amulet
+1 Professor Onyx
+1 Promise of Power
+1 Read the Bones
+1 Rise of the Dread Marn
+1 Sedgemoor Witch
+1 Sign in Blood
+1 Snuff Out
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul Shatter
+1 Succumb to Temptation
+24 Swamp
+1 Syphon Mind
+1 Tectonic Edge
+1 Terrain Generator
+1 Thespian's Stage
+1 Thought Vessel
+1 Thrilling Encore
+1 Torment of Hailfire
+1 Tragic Slip
+1 Undying Malice
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Vona's Hunger
+1 War Room
+1 Wayfarer's Bauble
+1 Wretched Confluence
+
+1 Toshiro Umezawa
