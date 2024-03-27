@@ -40,7 +40,6 @@
 1 Hinterland Harbor
 1 Hornet Queen
 1 Hulking Raptor
-1 Incubation/Incongruity
 1 Into the North
 1 Junk Winder
 1 Keiga, the Tide Star
@@ -48,6 +47,7 @@
 1 Lightning Greaves
 1 Man-o'-War
 1 Migratory Greathorn
+1 Mind Flayer
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Mulldrifter
@@ -67,12 +67,11 @@
 1 Selesnya Eulogist
 1 Silverback Elder
 1 Simic Growth Chamber
-1 Sludge Monster
+1 Skyshroud Claim
 6 Snow-Covered Forest
 6 Snow-Covered Island
 1 Sol Ring
 1 Spark Double
-1 Steelbane Hydra
 1 Strip Mine
 1 Temur Sabertooth
 1 The Great Henge
@@ -85,6 +84,7 @@
 1 Vizier of Many Faces
 1 Wall of Blossoms
 1 Wildwood Mentor
+1 Wurmcoil Engine
 1 Yavimaya Coast
 1 Yavimaya Dryad
 
