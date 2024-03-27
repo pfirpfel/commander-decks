@@ -1,76 +1,80 @@
 1 Acidic Slime
+1 Adrix and Nev, Twincasters
 1 Alchemist's Refuge
 1 Amphin Mutineer
 1 Ancient Tomb
 1 Arcane Signet
-1 Avenger of Zendikar
+1 Auspicious Starrix
 1 Bala Ged Recovery
 1 Barkchannel Pathway
 1 Beast Whisperer
 1 Birds of Paradise
 1 Bladegriff Prototype
+1 Boseiju, Who Endures
 1 Breeding Pool
 1 Burnished Hart
 1 Callous Oppressor
+1 Cankerbloom
+1 Cemetery Prowler
+1 Coati Scavenger
 1 Command Tower
 1 Consecrated Sphinx
-1 Counterspell
-1 Curse of the Swine
+1 Cultivate
 1 Cyclonic Rift
+1 Delighted Halfling
 1 Diluvian Primordial
+1 Dreamroot Cascade
+1 Elven Chorus
 1 End-Raze Forerunners
 1 Esika's Chariot
 1 Fabled Passage
 1 Farseek
 1 Fblthp, the Lost
 1 Flooded Grove
-1 Force of Will
+1 Gemrazer
 1 Gilded Drake
 1 Glasspool Mimic
 1 Growing Rites of Itlimoc
+1 Hedge Maze
 1 Heroic Intervention
 1 Hinterland Harbor
 1 Hornet Queen
-1 Ice-Fang Coatl
+1 Hulking Raptor
 1 Incubation/Incongruity
 1 Into the North
+1 Junk Winder
 1 Keiga, the Tide Star
+1 Keruga, the Macrosage
 1 Lightning Greaves
 1 Man-o'-War
-1 Mana Drain
+1 Migratory Greathorn
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Mulldrifter
-1 Murkfiend Liege
-1 Mystic Reflection
-1 Nature's Claim
 1 Nature's Lore
-1 Of One Mind
 1 Oko, Thief of Crowns
-1 Peregrine Drake
-1 Phyrexian Ingester
+1 Ornithopter of Paradise
+1 Otawara, Soaring City
+1 Pathbreaker Ibex
 1 Prismatic Vista
-1 Progenitor Mimic
+1 Radagast the Brown
 1 Reef Worm
 1 Rejuvenating Springs
-1 Resculpt
-1 Rhystic Study
 1 Rimewood Falls
+1 Roaming Throne
 1 Sakura-Tribe Elder
 1 Scavenger Grounds
-1 Second Harvest
 1 Selesnya Eulogist
+1 Silverback Elder
 1 Simic Growth Chamber
-1 Skyshroud Claim
-8 Snow-Covered Forest
-7 Snow-Covered Island
+1 Sludge Monster
+6 Snow-Covered Forest
+6 Snow-Covered Island
 1 Sol Ring
-1 Solemn Simulacrum
 1 Spark Double
 1 Steelbane Hydra
 1 Strip Mine
-1 Sylvan Library
-1 Temple of Mystery
+1 Temur Sabertooth
 1 The Great Henge
 1 Thieving Skydiver
 1 Thorn Mammoth
@@ -78,11 +82,10 @@
 1 Tropical Island
 1 Twinning Staff
 1 Uro, Titan of Nature's Wrath
-1 Verdant Mastery
 1 Vizier of Many Faces
 1 Wall of Blossoms
+1 Wildwood Mentor
 1 Yavimaya Coast
 1 Yavimaya Dryad
-1 Yavimaya Granger
 
 1 Volo, Guide to Monsters
