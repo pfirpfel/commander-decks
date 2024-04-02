@@ -3,6 +3,7 @@
 1 Assassin's Trophy
 1 Bayou
 1 Bloodghast
+1 Bojuka Bog
 1 Boseiju, Who Endures
 1 Breeding Pool
 1 Case of the Locked Hothouse
@@ -59,9 +60,9 @@
 1 Scute Swarm
 1 Seedborn Muse
 1 Shriekmaw
-1 Smeagol, Helpful Guide
+1 Sméagol, Helpful Guide
 1 Springbloom Druid
-56 Swamp
+4 Swamp
 1 Takenuma, Abandoned Mire
 1 Tatyova, Benthic Druid
 1 Thornbite Staff
