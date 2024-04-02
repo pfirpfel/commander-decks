@@ -1,0 +1,98 @@
+1 Agadeem's Awakening
+1 Ancient Tomb
+1 Animate Dead
+1 Archfiend of Ifnir
+1 Arwen, Weaver of Hope
+1 Assassin's Trophy
+1 Bala Ged Recovery
+1 Baleful Strix
+1 Bayou
+1 Beast Within
+1 Beastcaller Savant
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bontu the Glorified
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cabal Coffers
+1 Carnage Tyrant
+1 Command Tower
+1 Cultivate
+1 Cyclonic Rift
+1 Displacer Kitten
+1 Drowned Catacomb
+1 Elder Gargaroth
+1 End-Raze Forerunners
+1 Farseek
+1 Fireshrieker
+1 Flooded Strand
+3 Forest
+1 Glen Elendra Archmage
+1 Glissa Sunslayer
+1 Gurmag Swiftwing
+1 Hinterland Harbor
+1 Island
+1 Kefnet the Mindful
+1 Kodama's Reach
+1 Leyline Prowler
+1 Living Death
+1 Mana Crypt
+1 Marsh Flats
+1 Master Biomancer
+1 Mirri the Cursed
+1 Misty Rainforest
+1 Nature's Lore
+1 Nesting Grounds
+1 Nighthawk Scavenger
+1 Nightveil Predator
+1 Nullpriest of Oblivion
+1 Ornithopter of Paradise
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Pir, Imaginative Rascal
+1 Polluted Delta
+1 Questing Beast
+1 Reanimate
+1 Reflecting Pool
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rhonas the Indomitable
+1 Rise of the Dark Realms
+1 Rishkar's Expertise
+1 Sakashima of a Thousand Faces
+1 Saw in Half
+1 Scavenged Brawler
+1 Skyshroud Claim
+1 Sol Ring
+1 Spark Double
+1 Squirming Emergence
+1 Staff of Compleation
+1 Stitch Together
+2 Swamp
+1 Swiftfoot Boots
+1 Sylvan Caryatid
+1 Sylvan Library
+1 The Great Henge
+1 The Ozolith
+1 Threats Undetected
+1 Three Visits
+1 Toothy, Imaginary Friend
+1 Topiary Stomper
+1 Toxic Deluge
+1 Tropical Island
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Vengeful Reaper
+1 Verdant Catacombs
+1 Virtue of Persistence
+1 Vorinclex, Monstrous Raider
+1 Watery Grave
+1 Winding Constrictor
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Yarok, the Desecrated
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
+
+1 Indominus Rex, Alpha
