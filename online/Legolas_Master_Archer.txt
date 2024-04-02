@@ -1,6 +1,7 @@
 1 Aggressive Urge
 1 Animist's Might
 1 Arbor Elf
+1 Archdruid's Charm
 1 Blanchwood Armor
 1 Blossoming Defense
 1 Bonds of Mortality
@@ -38,7 +39,6 @@
 1 Reclamation Sage
 1 Return of the Wildspeaker
 1 Royal Treatment
-1 Ruinous Intrusion
 1 Rune of Might
 1 Scale the Heights
 1 Scavenging Ooze
