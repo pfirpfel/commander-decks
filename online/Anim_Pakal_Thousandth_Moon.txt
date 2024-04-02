@@ -1,5 +1,6 @@
 1 Abrade
 1 Agitator Ant
+1 Ancient Tomb
 1 Angelfire Ignition
 1 Angelic Intervention
 1 Arcane Signet
@@ -8,22 +9,22 @@
 1 Boros Charm
 1 Boros Garrison
 1 Boros Signet
+1 Cathars' Crusade
 1 Citadel Siege
 1 Clifftop Retreat
 1 Command Tower
 1 Deflecting Swat
 1 Devilish Valet
-1 Dispatch
 1 Eiganjo, Seat of the Empire
 1 Eldrazi Monument
 1 Esper Sentinel
+1 Farewell
 1 Feat of Resistance
 1 Fellwar Stone
 1 Flawless Maneuver
 1 Generous Gift
-1 Goldnight Commander
+1 Goblin Bombardment
 1 Homestead Courage
-1 Hour of Reckoning
 1 Idol of Oblivion
 1 Impact Tremors
 1 Inspiring Leader
@@ -32,29 +33,30 @@
 1 Keleth, Sunmane Familiar
 1 Land Tax
 1 Losheel, Clockwork Scholar
-1 Loyal Unicorn
 1 Luminarch Aspirant
 1 Mentor of the Meek
 1 Mind Stone
-7 Mountain
+1 Mother of Runes
+6 Mountain
 1 Needleverge Pathway
 1 Neyali, Suns' Vanguard
-1 Odric, Master Tactician
 1 Opal Palace
 1 Orzhov Advokist
 1 Path to Exile
-11 Plains
+10 Plains
 1 Plateau
 1 Prismatic Vista
 1 Purphoros, God of the Forge
 1 Reckless Fireweaver
 1 Reconnaissance
 1 Restless Bivouac
+1 Roaming Throne
 1 Rosie Cotton of South Lane
 1 Rugged Prairie
 1 Rumor Gatherer
 1 Sacred Foundry
 1 Sejiri Shelter
+1 Shatterskull Smashing
 1 Siege Veteran
 1 Skullclamp
 1 Sol Ring
