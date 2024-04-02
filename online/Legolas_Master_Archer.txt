@@ -1,17 +1,19 @@
 1 Aggressive Urge
 1 Animist's Might
 1 Arbor Elf
+1 Arcane Lighthouse
 1 Archdruid's Charm
 1 Bala Ged Recovery
 1 Blanchwood Armor
 1 Blossoming Defense
 1 Bonds of Mortality
+1 Boseiju, Who Endures
 1 Charge Through
 1 Drumhunter
 1 Elvish Mystic
 1 Enter the Unknown
 1 Explore
-36 Forest
+31 Forest
 1 Forgotten Ancient
 1 Frog Tongue
 1 Gaea's Gift
@@ -40,6 +42,7 @@
 1 Rancor
 1 Reclamation Sage
 1 Return of the Wildspeaker
+1 Rogue's Passage
 1 Royal Treatment
 1 Rune of Might
 1 Scale the Heights
@@ -55,12 +58,14 @@
 1 Undermountain Adventurer
 1 Verdant Rebirth
 1 Viridescent Wisps
+1 War Room
 1 Warriors' Lesson
 1 Whip Silk
 1 Wild Defiance
 1 Wild Growth
 1 Wildsize
 1 Windswift Slice
+1 Witch's Clinic
 1 Withstand Death
 
 1 Legolas, Master Archer
