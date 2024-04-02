@@ -2,6 +2,7 @@
 1 Animist's Might
 1 Arbor Elf
 1 Archdruid's Charm
+1 Bala Ged Recovery
 1 Blanchwood Armor
 1 Blossoming Defense
 1 Bonds of Mortality
@@ -10,7 +11,7 @@
 1 Elvish Mystic
 1 Enter the Unknown
 1 Explore
-40 Forest
+36 Forest
 1 Forgotten Ancient
 1 Frog Tongue
 1 Gaea's Gift
@@ -28,6 +29,7 @@
 1 Llanowar Elves
 1 Mirkwood Channeler
 1 Mortal's Resolve
+1 Nature's Lore
 1 Nature's Way
 1 Nissa's Pilgrimage
 1 Oakhame Adversary
@@ -48,6 +50,7 @@
 1 Snake Umbra
 1 Snakeskin Veil
 1 Sol Ring
+1 Three Visits
 1 Titanic Brawl
 1 Undermountain Adventurer
 1 Verdant Rebirth
@@ -57,6 +60,7 @@
 1 Wild Defiance
 1 Wild Growth
 1 Wildsize
+1 Windswift Slice
 1 Withstand Death
 
 1 Legolas, Master Archer
