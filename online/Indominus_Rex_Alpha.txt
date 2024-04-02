@@ -42,6 +42,7 @@
 1 Mirri the Cursed
 1 Misty Rainforest
 1 Nature's Lore
+1 Necromancy
 1 Nesting Grounds
 1 Nighthawk Scavenger
 1 Nightveil Predator
@@ -66,8 +67,6 @@
 1 Sol Ring
 1 Spark Double
 1 Squirming Emergence
-1 Staff of Compleation
-1 Stitch Together
 2 Swamp
 1 Swiftfoot Boots
 1 Sylvan Caryatid
@@ -83,6 +82,7 @@
 1 Underground Sea
 1 Urborg, Tomb of Yawgmoth
 1 Vengeful Reaper
+1 Venomthrope
 1 Verdant Catacombs
 1 Virtue of Persistence
 1 Vorinclex, Monstrous Raider
