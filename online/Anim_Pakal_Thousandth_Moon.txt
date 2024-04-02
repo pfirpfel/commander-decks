@@ -3,23 +3,23 @@
 1 Angelfire Ignition
 1 Angelic Intervention
 1 Arcane Signet
-1 Basri Ket
+1 Arid Mesa
 1 Battlefield Forge
-1 Bennie Bracks, Zoologist
-1 Bolt Bend
 1 Boros Charm
+1 Boros Garrison
 1 Boros Signet
-1 Cenn's Tactician
 1 Citadel Siege
 1 Clifftop Retreat
 1 Command Tower
+1 Deflecting Swat
 1 Devilish Valet
 1 Dispatch
+1 Eiganjo, Seat of the Empire
 1 Eldrazi Monument
+1 Esper Sentinel
 1 Feat of Resistance
 1 Fellwar Stone
 1 Flawless Maneuver
-1 Furycalm Snarl
 1 Generous Gift
 1 Goldnight Commander
 1 Homestead Courage
@@ -29,21 +29,23 @@
 1 Inspiring Leader
 1 Inti, Seneschal of the Sun
 1 Jeska's Will
-1 Jor Kadeen, the Prevailer
 1 Keleth, Sunmane Familiar
+1 Land Tax
 1 Losheel, Clockwork Scholar
 1 Loyal Unicorn
 1 Luminarch Aspirant
 1 Mentor of the Meek
 1 Mind Stone
-9 Mountain
+7 Mountain
 1 Needleverge Pathway
 1 Neyali, Suns' Vanguard
 1 Odric, Master Tactician
 1 Opal Palace
 1 Orzhov Advokist
 1 Path to Exile
-15 Plains
+11 Plains
+1 Plateau
+1 Prismatic Vista
 1 Purphoros, God of the Forge
 1 Reckless Fireweaver
 1 Reconnaissance
@@ -51,29 +53,33 @@
 1 Rosie Cotton of South Lane
 1 Rugged Prairie
 1 Rumor Gatherer
-1 Sacred Peaks
+1 Sacred Foundry
+1 Sejiri Shelter
 1 Siege Veteran
 1 Skullclamp
 1 Sol Ring
+1 Spectator Seating
 1 Stroke of Midnight
 1 Sunbaked Canyon
+1 Sundown Pass
 1 Swiftfoot Boots
 1 Swords to Plowshares
 1 Take Up the Shield
 1 Talisman of Conviction
-1 Temple of Triumph
+1 The Ozolith
 1 Thousand Moons Smithy
 1 Timely Ward
 1 Tocasia's Welcome
 1 Together Forever
+1 Trouble in Pairs
 1 Tyrite Sanctum
 1 Unbreakable Formation
+1 Urza's Saga
 1 Valor in Akros
 1 Vandalblast
 1 Warleader's Call
 1 Wear/Tear
 1 Welcoming Vampire
-1 Wind-Scarred Crag
 1 Witty Roastmaster
 
 1 Anim Pakal, Thousandth Moon
