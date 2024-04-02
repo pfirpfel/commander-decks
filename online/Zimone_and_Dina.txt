@@ -1,0 +1,88 @@
+1 Acidic Slime
+1 Alandra, Sky Dreamer
+1 Assassin's Trophy
+1 Bayou
+1 Bloodghast
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Case of the Locked Hothouse
+1 Chasm Skulker
+1 Coiling Oracle
+1 Command Tower
+1 Cultivate
+1 Cyclonic Rift
+1 Doppelgang
+1 Eternal Witness
+1 Ethereal Investigator
+1 Eureka Moment
+1 Exotic Orchard
+1 Explore
+1 Farhaven Elf
+1 Farseek
+1 Fierce Guardianship
+6 Forest
+1 Foundation Breaker
+1 Gixian Puppeteer
+1 Gurgling Anointer
+1 Hedge Maze
+1 Homicide Investigator
+5 Island
+1 Jolrael, Mwonvuli Recluse
+1 Kiora's Follower
+1 Lotus Cobra
+1 Magewright's Stone
+1 Masked Vandal
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Moldervine Reclamation
+1 Morbid Opportunist
+1 Mulldrifter
+1 Mystic Remora
+1 Mythos of Brokkos
+1 Nadir Kraken
+1 Nature's Lore
+1 Nissa, Resurgent Animist
+1 On the Trail
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Pest Infestation
+1 Polluted Delta
+1 Psychosis Crawler
+1 Rampaging Baloths
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Retreat to Coralhelm
+1 Rise of the Witch-king
+1 Saryth, the Viper's Fang
+1 Scute Swarm
+1 Seedborn Muse
+1 Shriekmaw
+1 Smeagol, Helpful Guide
+1 Springbloom Druid
+56 Swamp
+1 Takenuma, Abandoned Mire
+1 Tatyova, Benthic Druid
+1 Thornbite Staff
+1 Thousand-Year Elixir
+1 Three Visits
+1 Tireless Tracker
+1 Toxic Deluge
+1 Tropical Island
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground Sea
+1 Unearth
+1 Urborg, Tomb of Yawgmoth
+1 Uro, Titan of Nature's Wrath
+1 Verdant Catacombs
+1 Village Rites
+1 Viridian Emissary
+1 Watery Grave
+1 Wood Elves
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
+1 Zendikar's Roil
+
+1 Zimone and Dina
