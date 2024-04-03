@@ -7,7 +7,6 @@
 1 Cascade Bluffs
 1 Cast into the Fire
 1 Chandra's Incinerator
-1 Chandra's Pyrohelix
 1 Chandra's Spitfire
 1 Chandra, Dressed to Kill
 1 Chaos Warp
@@ -22,10 +21,8 @@
 1 End the Festivities
 1 Erebor Flamesmith
 1 Exalted Flamer of Tzeentch
-1 Fabled Passage
 1 Fierce Guardianship
 1 Fiery Islet
-1 Fire Diamond
 1 Fire/Ice
 1 Firebrand Archer
 1 Flame Jab
@@ -40,6 +37,7 @@
 1 Jeska's Will
 1 Kessig Flamebreather
 1 Lava Dart
+1 Lórien Revealed
 1 Magic Missile
 12 Mountain
 1 Murmuring Mystic
@@ -55,6 +53,7 @@
 1 Pyromatics
 1 Rapid Hybridization
 1 Razorfin Hunter
+1 Rhystic Study
 1 Riverglide Pathway
 1 Scalding Tarn
 1 Scalding Viper
@@ -71,6 +70,7 @@
 1 Stormcarved Coast
 1 Sulfur Falls
 1 Swan Song
+1 Talisman of Creativity
 1 Tandem Lookout
 1 Tectonic Hazard
 1 Thermo-Alchemist
