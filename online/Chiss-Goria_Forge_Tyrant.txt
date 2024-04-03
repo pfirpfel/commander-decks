@@ -1,0 +1,73 @@
+1 Abrade
+1 Arcane Signet
+1 Batterskull
+1 Bitterthorn, Nissa's Animus
+1 Bolt Bend
+1 Breya's Apprentice
+1 Buried Ruin
+1 Champion's Helm
+1 Chaos Warp
+1 Chimil, the Inner Sun
+1 Cityscape Leveler
+1 Cloud Key
+1 Coldsteel Heart
+1 Daretti, Scrap Savant
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Deflecting Swat
+1 Duplicant
+1 Embercleave
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Fire Diamond
+1 Foundry Inspector
+1 Fractured Powerstone
+1 Goblin Welder
+1 Great Furnace
+1 Hammer of Nazahn
+1 Hedron Crawler
+1 Inventors' Fair
+1 Iron Myr
+1 Jeweled Lotus
+1 Jhoira's Familiar
+1 Karn, Legacy Reforged
+1 Karn, the Great Creator
+1 Kuldotha Forgemaster
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Lithoform Engine
+1 Mana Vault
+1 Manakin
+1 Meteor Golem
+1 Mind Stone
+1 Mithril Coat
+29 Mountain
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Ornithopter of Paradise
+1 Palladium Myr
+1 Plague Myr
+1 Portal to Phyrexia
+1 Prismatic Lens
+1 Roaming Throne
+1 Scroll Rack
+1 Shadowspear
+1 Shatterskull Smashing
+1 Skyclave Relic
+1 Sol Ring
+1 Solemn Simulacrum
+1 Steel Hellkite
+1 Stonecoil Serpent
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 The Irencrag
+1 Thought Vessel
+1 Trash for Treasure
+1 Urza's Saga
+1 Valakut Awakening
+1 Valakut, the Molten Pinnacle
+1 Vandalblast
+1 Worn Powerstone
+1 Wurmcoil Engine
+
+1 Chiss-Goria, Forge Tyrant
