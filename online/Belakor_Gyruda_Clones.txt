@@ -1,0 +1,100 @@
+1 Animate Dead
+1 Apocalypse Demon
+1 Arcane Signet
+1 Archfiend of Despair
+1 Arid Mesa
+1 Badlands
+1 Behold the Multiverse
+1 Bitter Triumph
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bloodthirster
+1 Bojuka Bog
+1 Burning-Rune Demon
+1 Cabal Coffers
+1 Callidus Assassin
+1 Chain Reaction
+1 Clever Impersonator
+1 Clone
+1 Command Tower
+1 Cyclonic Rift
+1 Dack's Duplicate
+1 Damnation
+1 Deep Analysis
+1 Demonic Tutor
+1 Dimir Signet
+1 Dragonskull Summit
+1 Dread Return
+1 Dream Devourer
+1 Drowned Catacomb
+1 Evil Twin
+1 Fact or Fiction
+1 Feed the Swarm
+1 Fellwar Stone
+1 Field of the Dead
+1 Flooded Strand
+1 Gigantoplasm
+1 Hagra Mauling
+1 Harvester of Souls
+1 Haunting Voyage
+1 Heartless Summoning
+2 Island
+1 Kardur, Doomscourge
+1 Liquimetal Torque
+1 Mana Confluence
+1 Mana Crypt
+1 Marsh Flats
+1 Mind Stone
+1 Mirrorhall Mimic
+1 Misty Rainforest
+1 Mountain
+1 Night's Whisper
+1 Otawara, Soaring City
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Rakdos Signet
+1 Rakdos, Lord of Riots
+1 Rakdos, the Showstopper
+1 Rakshasa Debaser
+1 Razaketh, the Foulblooded
+1 Reality Shift
+1 Reflecting Pool
+1 Relic of Sauron
+1 Resculpt
+1 Rite of Replication
+1 Sakashima of a Thousand Faces
+1 Sakashima the Impostor
+1 Sakashima's Student
+1 Scalding Tarn
+1 Sign in Blood
+1 Sneak Attack
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Sower of Discord
+1 Spark Double
+1 Steam Vents
+1 Stunt Double
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Terminate
+1 Thran Dynamo
+1 Undercover Operative
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Vilis, Broker of Blood
+1 Vizier of Many Faces
+1 Volcanic Island
+1 Wall of Stolen Identity
+1 Watery Grave
+1 Whip of Erebos
+1 Wooded Foothills
+1 Xander's Lounge
+
+1 Be'lakor, the Dark Master
+1 Gyruda, Doom of Depths
