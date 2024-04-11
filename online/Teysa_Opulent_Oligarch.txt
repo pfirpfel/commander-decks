@@ -76,3 +76,5 @@
 1 Wayfarer's Bauble
 1 Welcoming Vampire
 1 Wernog, Rider's Chaplain
+
+1 Teysa, Opulent Oligarch
