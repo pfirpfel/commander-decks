@@ -4,7 +4,6 @@
 1 Arcane Signet
 1 Arid Mesa
 1 Beast Within
-1 Blasphemous Act
 1 Bonehoard Dracosaur
 1 Boseiju, Who Endures
 1 Bountiful Promenade
@@ -85,6 +84,7 @@
 1 Wayward Swordtooth
 1 Welcome to . . .
 1 Wild Growth
+1 Winds of Abandon
 1 Windswept Heath
 1 Wooded Bastion
 1 Wooded Foothills
