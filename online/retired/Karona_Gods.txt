@@ -1,0 +1,101 @@
+1 Altar of the Pantheon
+1 Arcanist's Owl
+1 Argothian Enchantress
+1 Arid Mesa
+1 Athreos, God of Passage
+1 Athreos, Shroud-Veiled
+1 Austere Command
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Chromatic Lantern
+1 Cleansing Nova
+1 Cloudblazer
+1 Coalition Relic
+1 Command Tower
+1 Cultivate
+1 Debtors' Knell
+1 Destiny Spinner
+1 Disinformation Campaign
+1 Dovin's Acuity
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Ephara, God of the Polis
+1 Erebos, Bleak-Hearted
+1 Erebos, God of the Dead
+1 Etched Oracle
+1 Eternal Witness
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fertile Ground
+1 Flooded Strand
+1 Forest
+1 Gadwick, the Wizened
+1 Gift of Paradise
+1 God-Eternal Oketra
+1 Godless Shrine
+1 Greater Auramancy
+1 Hallowed Fountain
+1 Heliod, God of the Sun
+1 Heliod, Sun-Crowned
+1 Idyllic Tutor
+1 Iroas, God of Victory
+1 Island
+1 Jokulhaups
+1 Karametra, God of Harvests
+1 Keranos, God of Storms
+1 Klothys, God of Destiny
+1 Kodama's Reach
+1 Kruphix, God of Horizons
+1 Liliana's Contract
+1 Marsh Flats
+1 Mirari's Wake
+1 Misty Rainforest
+1 Mogis, God of Slaughter
+1 Mountain
+1 Nylea, God of the Hunt
+1 Nylea, Keen-Eyed
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Pharika, God of Affliction
+1 Phenax, God of Deception
+1 Phyrexian Arena
+1 Plains
+1 Polluted Delta
+1 Privileged Position
+1 Purphoros, Bronze-Blooded
+1 Purphoros, God of the Forge
+1 Sacred Foundry
+1 Scalding Tarn
+1 Setessan Champion
+1 Smothering Tithe
+1 Sphere of Safety
+1 Starfield of Nyx
+1 Steam Vents
+1 Sterling Grove
+1 Stomping Ground
+1 Swamp
+1 Sylvan Library
+1 Temple Garden
+1 Temple of Abandon
+1 Temple of Malady
+1 Temple of Mystery
+1 Temple of Plenty
+1 Thassa, Deep-Dwelling
+1 Thassa, God of the Sea
+1 Trace of Abundance
+1 Verdant Catacombs
+1 Verdant Haven
+1 Vivid Crag
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Marsh
+1 Vivid Meadow
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Xenagos, God of Revels
+1 Zendikar Resurgent
+
+1 Karona, False God
