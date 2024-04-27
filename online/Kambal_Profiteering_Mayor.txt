@@ -1,0 +1,90 @@
+1 Akroan Horse
+1 Angelic Ascension
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Arid Archway
+1 Awaken the Erstwhile
+1 Benevolent Offering
+1 Bennie Bracks, Zoologist
+1 Black Market Connections
+1 Blood Seeker
+1 Bojuka Bog
+1 Bovine Intervention
+1 Brightclimb Pathway
+1 Burnished Hart
+1 Cabal Coffers
+1 Castle Ardenvale
+1 Clackbridge Troll
+1 Claim Jumper
+1 Combat Calligrapher
+1 Command Tower
+1 Deadly Dispute
+1 Divine Visitation
+1 Dowsing Dagger
+1 Eiganjo, Seat of the Empire
+1 Elas il-Kor, Sadistic Pilgrim
+1 Expedition Map
+1 Fanatical Offering
+1 Fetid Heath
+1 Forbidden Orchard
+1 Generous Gift
+1 Godless Shrine
+1 Haunted Angel
+1 Hunted Bonebrute
+1 Hunted Horror
+1 Hunted Lammasu
+1 Idol of Oblivion
+1 Isolated Chapel
+1 Kabira Takedown
+1 Knight of the White Orchid
+1 Lightning Greaves
+1 Loyal Warhound
+1 Marching Duodrone
+1 Marsh Flats
+1 Martial Coup
+1 Mentor of the Meek
+1 Mind Stone
+1 Mirkwood Bats
+1 Moonshaker Cavalry
+1 Nadier's Nightblade
+1 Ondu Inversion
+1 Orzhov Basilica
+1 Ox Drover
+1 Phyrexian Arena
+1 Phyrexian Tower
+7 Plains
+1 Plumb the Forbidden
+1 Prismatic Vista
+1 Rite of Oblivion
+1 Saw in Half
+1 Scrubland
+1 Secure the Wastes
+1 Shadowy Backstreet
+1 Shadrix Silverquill
+1 Shattered Sanctum
+1 Skullclamp
+1 Slaughter Specialist
+1 Sol Ring
+1 Suture Priest
+6 Swamp
+1 Swiftfoot Boots
+1 Takenuma, Abandoned Mire
+1 Teferi's Protection
+1 Teysa Karlov
+1 Thalisse, Reverent Medium
+1 Transmogrifying Wand
+1 Tribute to Horobi
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Vault of Champions
+1 Victimize
+1 Village Rites
+1 Wayfarer's Bauble
+1 Wedding Ring
+1 Welcoming Vampire
+1 Wernog, Rider's Chaplain
+1 White Sun's Twilight
+1 Windbrisk Heights
+1 Wispdrinker Vampire
+
+1 Kambal, Profiteering Mayor
