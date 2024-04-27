@@ -4,7 +4,6 @@
 1 Arcane Signet
 1 Arid Mesa
 1 Beast Within
-1 Blasphemous Act
 1 Bonehoard Dracosaur
 1 Boseiju, Who Endures
 1 Bountiful Promenade
@@ -47,6 +46,7 @@
 3 Mountain
 1 Nature's Lore
 1 Ondu Inversion
+1 Open the Way
 1 Palani's Hatcher
 1 Path of Ancestry
 3 Plains
@@ -54,12 +54,10 @@
 1 Prismatic Vista
 1 Pugnacious Hammerskull
 1 Quartzwood Crasher
-1 Rampaging Ferocidon
 1 Rampant Growth
 1 Ravenous Tyrannosaurus
 1 Regal Behemoth
 1 Regisaur Alpha
-1 Ripjaw Raptor
 1 Rishkar's Expertise
 1 Runic Armasaur
 1 Sacred Foundry
@@ -80,11 +78,13 @@
 1 Topiary Stomper
 1 Tranquil Frillback
 1 Trumpeting Carnosaur
+1 Vaultborn Tyrant
 1 Verdant Sun's Avatar
 1 Wakening Sun's Avatar
 1 Wayward Swordtooth
 1 Welcome to . . .
 1 Wild Growth
+1 Winds of Abandon
 1 Windswept Heath
 1 Wooded Bastion
 1 Wooded Foothills
