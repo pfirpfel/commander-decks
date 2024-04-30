@@ -1,60 +1,64 @@
 1 Acorn Catapult
-1 Akroan Horse
+1 Ancient Tomb
 1 Angelic Ascension
+1 Anointed Procession
 1 Arcane Signet
 1 Archaeomancer's Map
 1 Arid Archway
 1 Awaken the Erstwhile
+1 Bastion of Remembrance
 1 Benevolent Offering
 1 Bennie Bracks, Zoologist
 1 Black Market Connections
-1 Blood Seeker
-1 Bloodvial Purveyor
 1 Bojuka Bog
 1 Bovine Intervention
 1 Brightclimb Pathway
-1 Burnished Hart
 1 Cabal Coffers
 1 Castle Ardenvale
+1 Cavalier of Dawn
 1 Caves of Koilos
-1 Clackbridge Troll
 1 Claim Jumper
+1 Clever Concealment
 1 Combat Calligrapher
 1 Command Tower
 1 Deadly Dispute
+1 Demolition Field
 1 Divine Visitation
 1 Dowsing Dagger
 1 Eiganjo, Seat of the Empire
-1 Elas il-Kor, Sadistic Pilgrim
+1 Elesh Norn, Grand Cenobite
+1 Elspeth, Sun's Champion
 1 Expedition Map
-1 Fanatical Offering
+1 Farewell
 1 Fetid Heath
+1 Field of the Dead
 1 Forbidden Orchard
 1 Generous Gift
+1 Genesis Chamber
+1 Get Lost
 1 Godless Shrine
-1 Haunted Angel
+1 Grand Crescendo
 1 Hunted Bonebrute
 1 Hunted Horror
-1 Hunted Lammasu
-1 Idol of Oblivion
 1 Isolated Chapel
-1 Kabira Takedown
 1 Knight of the White Orchid
 1 Lightning Greaves
-1 Loyal Warhound
+1 Liliana, Dreadhorde General
+1 Mana Crypt
 1 Marching Duodrone
 1 Marsh Flats
 1 Martial Coup
-1 Mentor of the Meek
 1 Mirkwood Bats
 1 Moonshaker Cavalry
 1 Nadier's Nightblade
+1 Nettling Nuisance
+1 Night's Whisper
 1 Ondu Inversion
 1 Orzhov Basilica
+1 Orzhov Signet
 1 Ox Drover
-1 Phyrexian Arena
 1 Phyrexian Tower
-8 Plains
+3 Plains
 1 Plumb the Forbidden
 1 Prismatic Vista
 1 Rite of Oblivion
@@ -64,27 +68,28 @@
 1 Shadrix Silverquill
 1 Shattered Sanctum
 1 Skullclamp
+1 Skyclave Apparition
 1 Slaughter Specialist
+3 Snow-Covered Plains
+2 Snow-Covered Swamp
 1 Sol Ring
-1 Suture Priest
-5 Swamp
-1 Swiftfoot Boots
+1 Stroke of Midnight
+2 Swamp
+1 Sword of the Animist
 1 Takenuma, Abandoned Mire
 1 Talisman of Hierarchy
-1 Teferi's Protection
-1 Teysa Karlov
 1 Thalisse, Reverent Medium
+1 The Meathook Massacre
 1 Transmogrifying Wand
-1 Tribute to Horobi
+1 Trouble in Pairs
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
 1 Vault of Champions
-1 Victimize
-1 Village Rites
+1 Vault of the Archangel
 1 Wayfarer's Bauble
 1 Wedding Ring
-1 Welcoming Vampire
 1 Wernog, Rider's Chaplain
 1 White Sun's Twilight
+1 Yawgmoth, Thran Physician
 
 1 Kambal, Profiteering Mayor
