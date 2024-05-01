@@ -1,20 +1,18 @@
+1 Academy Manufactor
 1 Aetherworks Marvel
 1 Ancient Grudge
 1 Arcane Denial
 1 Arcane Signet
 1 Archmage Emeritus
 1 Basilisk Collar
-1 Black Market Tycoon
 1 Blasphemous Act
 1 Brudiclad, Telchor Engineer
-1 Charisma
 1 Cinder Glade
 1 Combine Chrysalis
 1 Command Tower
-1 Confirm Suspicions
-1 Counterspell
 1 Cultivate
 1 Curse of the Swine
+1 Demand Answers
 1 Dig Through Time
 1 Erdwal Illuminator
 1 Esix, Fractal Bloom
@@ -32,54 +30,62 @@
 1 Hard Evidence
 1 Harrow
 1 Highland Forest
+1 Hinterland Harbor
 1 Idol of Oblivion
 1 Into the North
 1 Izzet Boilerworks
+1 Jaheira, Friend of the Forest
 1 Jori En, Ruin Diver
 1 Junk Winder
 1 Killer Service
 1 Lonis, Cryptozoologist
+1 Many Partings
 1 Mimic Vat
 1 Mythos of Illuna
 1 Nature's Lore
+1 Open the Way
+1 Peregrin Took
 1 Pir's Whim
 1 Rampant Growth
 1 Reality Shift
 1 Reckless Fireweaver
 1 Reliquary Tower
-1 Resculpt
+1 Reverse Engineer
 1 Rimewood Falls
 1 Rise and Shine
 1 Road/Ruin
 1 Sage of Lat-Nam
 1 Sakura-Tribe Elder
+1 Saryth, the Viper's Fang
 1 Seasons Past
-1 Shared Summons
-1 Shimmerdrift Vale
+1 Shifting Grift
 1 Shivan Reef
 1 Silverbluff Bridge
 1 Simic Growth Chamber
 1 Slagwoods Bridge
-6 Snow-Covered Forest
+5 Snow-Covered Forest
 6 Snow-Covered Island
-4 Snow-Covered Mountain
+3 Snow-Covered Mountain
 1 Sol Ring
-1 Storm-Kiln Artist
 1 Tamiyo's Journal
 1 Tanglepool Bridge
 1 Temple of Abandon
 1 Temple of Epiphany
 1 Temple of Mystery
-1 Terramorph
+1 Terramorphic Expanse
+1 The Shire
 1 Think Twice
 1 Thought Monitor
 1 Thoughtcast
-1 Thrill of Possibility
+1 Three Steps Ahead
 1 Tireless Provisioner
+1 Tireless Tracker
 1 Toggo, Goblin Weaponsmith
 1 Trail of Evidence
 1 Trinket Mage
 1 Ulvenwald Mysteries
 1 Volatile Fjord
-1 Whir of Invention
 1 Yavimaya Coast
+
+1 Bjorna, Nightfall Alchemist
+1 Elmar, Ulvenwald Informant
