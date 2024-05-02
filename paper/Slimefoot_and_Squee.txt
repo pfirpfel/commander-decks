@@ -10,6 +10,7 @@
 1 Bayou
 1 Birds of Paradise
 1 Bitter Reunion
+1 Blanchwood Prowler
 1 Blasphemous Act
 1 Blood Crypt
 1 Bloodstained Mire
@@ -48,7 +49,6 @@
 1 Ignoble Hierarch
 1 Invasion of Mercadia
 1 Kogla and Yidaro
-1 Korvold, Fae-Cursed King
 1 Life from the Loam
 1 Luxury Suite
 1 Mountain
