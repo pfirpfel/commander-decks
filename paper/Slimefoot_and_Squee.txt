@@ -1,3 +1,4 @@
+1 Alpha Deathclaw
 1 Altar of Dementia
 1 Animate Dead
 1 Apex Altisaur
@@ -23,10 +24,8 @@
 1 Dragonskull Summit
 1 Druid of Purification
 1 Dusk Mangler
-1 Electric Revelation
 1 Etali, Primal Conqueror
 1 Eternal Witness
-1 Evolutionary Leap
 1 Exotic Orchard
 1 Fable of the Mirror-Breaker
 1 Faithless Looting
@@ -57,6 +56,7 @@
 1 Necrogenesis
 1 Nemata, Primeval Warden
 1 Noxious Gearhulk
+1 Open the Way
 1 Overgrown Tomb
 1 Phyrexian Altar
 1 Phyrexian Tower
@@ -68,6 +68,7 @@
 1 Rootbound Crag
 1 Sakura-Tribe Elder
 1 Satyr Wayfinder
+1 Saw in Half
 1 Sepulchral Primordial
 1 Skullclamp
 1 Snow-Covered Forest
@@ -76,7 +77,6 @@
 1 Sol Ring
 1 Spire Garden
 1 Sprouting Thrinax
-1 Stitcher's Supplier
 1 Stomping Ground
 1 Swamp
 1 Taiga
