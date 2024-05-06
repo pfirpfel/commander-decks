@@ -1,0 +1,79 @@
+1 Argentum Armor
+1 Austere Command
+1 Batterskull
+1 Brimaz, King of Oreskos
+1 Buried Ruin
+1 Burnished Hart
+1 Caged Sun
+1 Cathars' Crusade
+1 Elesh Norn, Grand Cenobite
+1 Elspeth, Sun's Champion
+1 Emeria Shepherd
+1 Emeria, the Sky Ruin
+1 Etched Champion
+1 Flagstones of Trokair
+1 Ghost Quarter
+1 Hedron Archive
+1 Heliod, God of the Sun
+1 Hero of Bladehold
+1 Homeward Path
+1 Indomitable Archangel
+1 Karoo
+1 Kemba, Kha Regent
+1 Knight of the White Orchid
+1 Kor Sanctifiers
+1 Land Tax
+1 Leonin Shikari
+1 Lightning Greaves
+1 Loxodon Warhammer
+1 Marshal's Anthem
+1 Martial Coup
+1 Mask of Memory
+1 Mentor of the Meek
+1 Mind Stone
+1 Mirran Crusader
+1 Mistveil Plains
+1 Moonsilver Spear
+1 Mother of Runes
+1 Myriad Landscape
+1 Nim Deathmantle
+1 Nykthos, Shrine to Nyx
+1 Oreskos Explorer
+1 Path to Exile
+1 Puresteel Paladin
+1 Razor Hippogriff
+1 Relic Seeker
+1 Reliquary Tower
+1 Return to Dust
+1 Rogue's Passage
+1 Sanctum Gargoyle
+1 Serra Ascendant
+1 Silverblade Paladin
+1 Skullclamp
+23 Snow-Covered Plains
+1 Sol Ring
+1 Solemn Simulacrum
+1 Steelshaper's Gift
+1 Stone Haven Outfitter
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Sun Titan
+1 Sunblast Angel
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Sword of the Animist
+1 Sword of War and Peace
+1 Swords to Plowshares
+1 Taj-Nar Swordsmith
+1 Temple of the False God
+1 Terminus
+1 Thran Dynamo
+1 Tithe
+1 Umezawa's Jitte
+1 Wasteland
+1 Wayfarer's Bauble
+1 Windbrisk Heights
+1 Worn Powerstone
+
+1 Nahiri, the Lithomancer

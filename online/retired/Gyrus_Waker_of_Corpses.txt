@@ -1,0 +1,86 @@
+1 Acidic Slime
+1 Acolyte of Affliction
+1 Akoum Refuge
+1 Altar of Dementia
+1 Anger
+1 Azra Oddsmaker
+1 Bane of Progress
+1 Blighted Woodland
+1 Bloodfell Caves
+1 Bolt Bend
+1 Brawn
+1 Buried Alive
+1 Burnished Hart
+1 Chainer, Nightmare Adept
+1 Combustible Gearhulk
+1 Command Tower
+1 Corpse Connoisseur
+1 Corpsejack Menace
+1 Dawntreader Elk
+1 Diligent Farmhand
+1 Disciple of Bolas
+1 Domri, Anarch of Bolas
+1 Domri, Chaos Bringer
+1 Duplicant
+1 Evolutionary Leap
+1 Exotic Orchard
+1 Faithless Looting
+1 Farhaven Elf
+1 Feldon of the Third Path
+1 Final Parting
+1 Fleshbag Marauder
+8 Forest
+1 Garruk's Uprising
+1 Golgari Grave-Troll
+1 Golgari Guildgate
+1 Gonti, Lord of Luxury
+1 Gray Merchant of Asphodel
+1 Greater Good
+1 Grisly Salvage
+1 Gruul Guildgate
+1 Hunter's Insight
+1 Izoni, Thousand-Eyed
+1 Jarad's Orders
+1 Jarad, Golgari Lich Lord
+1 Jungle Hollow
+1 Kazandu Refuge
+1 Lightning Greaves
+1 Massacre Wurm
+1 Mosswort Bridge
+5 Mountain
+1 Myriad Landscape
+1 Neheb, Dreadhorde Champion
+1 Opal Palace
+1 Phyrexian Delver
+1 Plaguecrafter
+1 Rakdos Guildgate
+1 Rakdos the Defiler
+1 Rampant Growth
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Rugged Highlands
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Savage Lands
+1 Seize the Day
+1 Selesnya Eulogist
+1 Sepulchral Primordial
+1 Shriekmaw
+1 Skarrg, the Rage Pits
+1 Skull Prophet
+1 Sol Ring
+1 Solemn Simulacrum
+1 Springbloom Druid
+1 Strionic Resonator
+1 Sundial of the Infinite
+5 Swamp
+1 Tectonic Edge
+1 Temple of Malady
+1 Underrealm Lich
+1 Vivien, Champion of the Wilds
+1 Wood Elves
+
+1 Gyrus, Waker of Corpses

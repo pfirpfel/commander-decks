@@ -1,0 +1,94 @@
+1 Acidic Slime
+1 Ambition's Cost
+1 Ant Queen
+1 Arid Mesa
+1 Avenger of Zendikar
+1 Awakening Zone
+1 Badlands
+1 Bayou
+1 Bitterblossom
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Bone Shredder
+1 Caldera Hellion
+1 Creakwood Liege
+1 Damnation
+1 Decree of Pain
+1 Demonic Tutor
+1 Deranged Hermit
+1 Diabolic Intent
+1 Doubling Season
+1 Dragon Broodmother
+1 Eldrazi Monument
+1 Eternal Witness
+1 Ezuri's Predation
+1 Farhaven Elf
+1 Fauna Shaman
+1 Fire-Lit Thicket
+1 Flametongue Kavu
+1 Fleshbag Marauder
+4 Forest
+1 Furystoke Giant
+1 Gaea's Cradle
+1 Garruk Wildspeaker
+1 Genesis
+1 Goblin Assault
+1 Grave Pact
+1 Grave Titan
+1 Graven Cairns
+1 Growth Spasm
+1 Harmonize
+1 Hell's Caretaker
+1 Helm of Possession
+1 Kher Keep
+1 Maelstrom Pulse
+1 Marsh Flats
+1 Master of the Wild Hunt
+1 Mimic Vat
+1 Miren, the Moaning Well
+1 Misty Rainforest
+3 Mountain
+1 Mycoloth
+1 Necrogenesis
+1 Oran-Rief, the Vastwood
+1 Overgrown Tomb
+1 Pernicious Deed
+1 Phyrexian Arena
+1 Polluted Delta
+1 Raging Ravine
+1 Rakka Mar
+1 Rampaging Baloths
+1 Sakura-Tribe Elder
+1 Sarkhan the Mad
+1 Sarkhan Vol
+1 Savage Lands
+1 Scalding Tarn
+1 Scarland Thrinax
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Shriekmaw
+1 Siege-Gang Commander
+1 Skullclamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Stomping Ground
+1 Stronghold Assassin
+1 Survival of the Fittest
+3 Swamp
+1 Taiga
+1 Treetop Village
+1 Twilight Mire
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Vicious Shadows
+1 Violent Ultimatum
+1 Volrath's Stronghold
+1 Wall of Blossoms
+1 Wall of Roots
+1 Windswept Heath
+1 Wood Elves
+1 Wooded Foothills
+1 Yavimaya Dryad
+
+1 Kresh the Bloodbraided

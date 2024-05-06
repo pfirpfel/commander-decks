@@ -1,0 +1,78 @@
+1 Agadeem Occultist
+1 Altered Ego
+1 Bala Ged Thief
+1 Beastcaller Savant
+1 Birthing Boughs
+1 Body Double
+1 Bojuka Brigand
+1 Cackling Counterpart
+1 Changeling Outcast
+1 Clone
+1 Cryptoplasm
+1 Deathsprout
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Drana's Chosen
+1 Evil Twin
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fact or Fiction
+1 Farseek
+1 Flood of Tears
+9 Forest
+1 Golgari Charm
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Graveshifter
+1 Graypelt Hunter
+1 Hagra Diabolist
+1 Hagra Sharpshooter
+1 Identity Thief
+8 Island
+1 Joraga Bard
+1 Jungle Hollow
+1 Jwari Shapeshifter
+1 Kalastria Healer
+1 Malakir Soothsayer
+1 Mercurial Pretender
+1 Mirror Image
+1 Negate
+1 Nimana Sell-Sword
+1 Nirkana Assassin
+1 Null Brooch
+1 Opulent Palace
+1 Oran-Rief Survivalist
+1 Pillar of Origins
+1 Prismatic Lens
+1 Psychosis Crawler
+1 Putrefy
+1 Quasiduplicate
+1 Rampant Growth
+1 Reality Shift
+1 Renegade Doppelganger
+1 Repudiate/Replicate
+1 Sea Gate Loremaster
+1 Seascape Aerialist
+1 Simic Growth Chamber
+1 Simic Signet
+1 Skyrider Elf
+1 Sultai Charm
+9 Swamp
+1 Tajuru Archer
+1 Tajuru Beastmaster
+1 Tajuru Stalwart
+1 Tajuru Warcaller
+1 Talisman of Curiosity
+1 Talisman of Resilience
+1 Temple of Malady
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Turntimber Ranger
+1 Umara Raptor
+1 Universal Automaton
+1 Vesuvan Shapeshifter
+1 Vizier of Many Faces
+1 Volrath, the Shapestealer
+1 Zulaport Chainmage
+
+1 Damia, Sage of Stone

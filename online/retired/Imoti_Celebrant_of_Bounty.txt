@@ -1,0 +1,88 @@
+1 Agent of Treachery
+1 Alchemist's Refuge
+1 Altered Ego
+1 Ancient Tomb
+1 Arcane Signet
+1 Bala Ged Recovery
+1 Bane of Progress
+1 Barkchannel Pathway
+1 Beanstalk Giant
+1 Beast Within
+1 Breeding Pool
+1 Castle Garenbrig
+1 Command Tower
+1 Consecrated Sphinx
+1 Cryptic Command
+1 Cultivate
+1 Cyclonic Rift
+1 Dawnglade Regent
+1 Dig Through Time
+1 Dreamroot Cascade
+1 End-Raze Forerunners
+1 Eternal Witness
+1 Fabled Passage
+1 Farseek
+1 Flood of Tears
+1 Flooded Grove
+1 Ghalta, Primal Hunger
+1 Gilded Drake
+1 Glasspool Mimic
+1 Glen Elendra Archmage
+1 Greenwarden of Murasa
+1 Growth Spiral
+1 Hinterland Harbor
+1 Into the North
+1 Into the Story
+1 Kamahl, Heart of Krosa
+1 Karn's Temporal Sundering
+1 Kenrith's Transformation
+1 Kodama of the East Tree
+1 Kodama's Reach
+1 Kogla, the Titan Ape
+1 Leyline of Anticipation
+1 Mana Crypt
+1 Mana Reflection
+1 Meteor Golem
+1 Migration Path
+1 Misty Rainforest
+1 Mystic Confluence
+1 Mystic Reflection
+1 Natural Reclamation
+1 Nature's Lore
+1 Oko, Thief of Crowns
+1 Paleoloth
+1 Phyrexian Ingester
+1 Propaganda
+1 Rampant Growth
+1 Reality Shift
+1 Reclamation Sage
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rimewood Falls
+1 Sakura-Tribe Elder
+1 Sea Gate Restoration
+1 Simic Growth Chamber
+1 Skyshroud Claim
+8 Snow-Covered Forest
+7 Snow-Covered Island
+1 Sol Ring
+1 Sphinx of the Second Sun
+1 Strip Mine
+1 Sublime Epiphany
+1 Supreme Will
+1 Sword of Feast and Famine
+1 Sylvan Library
+1 Terastodon
+1 The Great Henge
+1 Three Visits
+1 Treasure Cruise
+1 Tropical Island
+1 Turntimber Symbiosis
+1 Ugin, the Spirit Dragon
+1 Uro, Titan of Nature's Wrath
+1 Wasteland
+1 Waterlogged Grove
+1 World Breaker
+1 Zendikar Resurgent
+
+1 Imoti, Celebrant of Bounty

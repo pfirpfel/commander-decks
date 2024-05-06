@@ -1,0 +1,84 @@
+1 All Is Dust
+1 Ambition's Cost
+1 Avatar of Woe
+1 Bane of the Living
+1 Beacon of Unrest
+1 Bloodchief Ascension
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cabal Coffers
+1 Chainer's Edict
+1 Consume Spirit
+1 Consuming Vapors
+1 Corrupt
+1 Crucible of Worlds
+1 Damnation
+1 Death Cloud
+1 Decree of Pain
+1 Demonic Tutor
+1 Deserted Temple
+1 Diabolic Tutor
+1 Drain Life
+1 Duplicant
+1 Esper Panorama
+1 Everflowing Chalice
+1 Expedition Map
+1 Extraplanar Lens
+1 Gauntlet of Power
+1 Ghost Quarter
+1 Graveborn Muse
+1 Grim Tutor
+1 Grixis Panorama
+1 Imp's Mischief
+1 Imperial Seal
+1 Jund Panorama
+1 Lake of the Dead
+1 Leechridden Swamp
+1 Lightning Greaves
+1 Liliana Vess
+1 Loxodon Warhammer
+1 Magus of the Coffers
+1 Marsh Flats
+1 Mind Twist
+1 Mutilate
+1 Myojin of Night's Reach
+1 Necropotence
+1 Nevinyrral's Disk
+1 Nezumi Graverobber
+1 Night's Whisper
+1 Nirkana Revenant
+1 Oblivion Stone
+1 Phyrexian Arena
+1 Plague Wind
+1 Polluted Delta
+1 Pox
+1 Profane Command
+1 Promise of Power
+1 Ravenous Trap
+1 Reiver Demon
+1 Reliquary Tower
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Shizo, Death's Storehouse
+1 Sign in Blood
+1 Skeletal Scrying
+18 Snow-Covered Swamp
+1 Solemn Simulacrum
+1 Sorin Markov
+1 Strip Mine
+1 Tendrils of Corruption
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Urborg, Tomb of Yawgmoth
+1 Vampire Hexmage
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Vesuva
+1 Volrath's Stronghold
+1 Wasteland
+1 Whispersilk Cloak
+1 Withered Wretch
+1 Xiahou Dun, the One-Eyed
+1 Yawgmoth's Will
+
+1 Ob Nixilis, the Fallen
