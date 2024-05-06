@@ -1,0 +1,99 @@
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Denial
+1 Arcane Signet
+1 Arid Mesa
+1 Azusa, Lost but Seeking
+1 Beast Within
+1 Blasphemous Act
+1 Bloodstained Mire
+1 Bonehoard Dracosaur
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Chimil, the Inner Sun
+1 Command Tower
+1 Commercial District
+1 Consecrated Sphinx
+1 Craterhoof Behemoth
+1 Cyclonic Rift
+1 Delayed Blast Fireball
+1 Doc Aurlock, Grizzled Genius
+1 Dockside Extortionist
+1 Dryad of the Ilysian Grove
+1 Etali, Primal Conqueror
+1 Etali, Primal Storm
+1 Exploration
+1 Faldorn, Dread Wolf Herald
+1 Field of the Dead
+1 Fierce Guardianship
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+1 Garruk Wildspeaker
+1 Haywire Mite
+1 Hedge Maze
+1 Imprisoned in the Moon
+1 Invasion of Ixalan
+1 Invasion of Kaladesh
+1 Invasion of Kaldheim
+1 Invasion of Mercadia
+1 Invasion of Zendikar
+1 Island
+1 Jeska's Will
+1 Keeper of Secrets
+1 Kenrith's Transformation
+1 Ketria Triome
+1 Laelia, the Blade Reforged
+1 Lightning Greaves
+1 Lotus Cobra
+1 Maelstrom Wanderer
+1 Mana Crypt
+1 Mind's Dilation
+1 Misty Rainforest
+1 Mithril Coat
+1 Mountain
+1 Narset, Parter of Veils
+1 Nyxbloom Ancient
+1 Oko, Thief of Crowns
+1 Otawara, Soaring City
+1 Paradox Haze
+1 Phyrexian Metamorph
+1 Polluted Delta
+1 Reflecting Pool
+1 Rhystic Study
+1 Rhythm of the Wild
+1 Roaming Throne
+1 Saheeli, Sublime Artificer
+1 Savvy Trader
+1 Scalding Tarn
+1 Simic Growth Chamber
+2 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Sol Ring
+1 Solemn Simulacrum
+1 Song of the Dryads
+1 Steam Vents
+1 Stomping Ground
+1 Swiftfoot Boots
+1 Sylvan Library
+1 Taiga
+1 Temur Ascendancy
+1 The Lost and the Damned
+1 Thundering Falls
+1 Tireless Provisioner
+1 Tlincalli Hunter
+1 Topiary Stomper
+1 Tropical Island
+1 Ugin, the Spirit Dragon
+1 Utopia Sprawl
+1 Verdant Catacombs
+1 Volcanic Island
+1 Wayfarer's Bauble
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Xenagos, the Reveler
+1 Yavimaya, Cradle of Growth
+
+1 Loot, the Key to Everything

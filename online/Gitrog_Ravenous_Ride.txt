@@ -1,0 +1,95 @@
+1 Alpha Authority
+1 Amulet of Vigor
+1 Ancient Tomb
+1 Archfiend of Ifnir
+1 Assassin's Trophy
+1 Avenger of Zendikar
+1 Bala Ged Recovery
+1 Bane of Progress
+1 Bayou
+1 Beast Within
+1 Beledros Witherbloom
+1 Bitter Triumph
+1 Black Market Connections
+1 Blackblade Reforged
+1 Bloodghast
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Brass Knuckles
+1 Cabal Coffers
+1 Canopy Cover
+1 Cavern of Souls
+1 Command Tower
+1 Cultivate
+1 Daemogoth Titan
+1 Daemogoth Woe-Eater
+1 Damnation
+1 Demolition Field
+1 Dolmen Gate
+1 Farseek
+1 Field of the Dead
+1 Filth
+1 Fireshrieker
+3 Forest
+1 Gaea's Cradle
+1 Ghalta, Stampede Tyrant
+1 Greater Good
+1 Greensleeves, Maro-Sorcerer
+1 Homeward Path
+1 Hunted Bonebrute
+1 Invasion of Shandalar
+1 Kodama's Reach
+1 Lightning Greaves
+1 Llanowar Wastes
+1 Lotus Cobra
+1 Lupine Prototype
+1 Malakir Rebirth
+1 Mana Crypt
+1 Marsh Flats
+1 Misty Rainforest
+1 Mithril Coat
+1 Momentous Fall
+1 Nature's Claim
+1 Nature's Lore
+1 Nissa, Resurgent Animist
+1 Nykthos, Shrine to Nyx
+1 Ob Nixilis, the Fallen
+1 Overgrown Tomb
+1 Petrified Field
+1 Phyrexian Soulgorger
+1 Polluted Delta
+1 Psychosis Crawler
+1 Rampaging Baloths
+1 Rhonas the Indomitable
+1 Rise of the Dark Realms
+1 Rotting Regisaur
+1 Sakura-Tribe Elder
+1 Shadowspear
+1 Shakedown Heavy
+1 Sheltering Ancient
+1 Skullclamp
+1 Skyshroud Claim
+3 Snow-Covered Forest
+2 Snow-Covered Swamp
+1 Sol Ring
+2 Swamp
+1 Swiftfoot Boots
+1 Tainted Wood
+1 Tendershoot Dryad
+1 The Great Henge
+1 Three Visits
+1 Tireless Provisioner
+1 Tireless Tracker
+1 Toxic Deluge
+1 Ulamog, the Infinite Gyre
+1 Underground Mortuary
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 World Shaper
+1 Yargle and Multani
+1 Yavimaya, Cradle of Growth
+
+1 The Gitrog, Ravenous Ride
