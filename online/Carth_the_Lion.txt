@@ -74,6 +74,7 @@
 1 Toxic Deluge
 1 Ugin, the Ineffable
 1 Ugin, the Spirit Dragon
+1 Underground Mortuary
 1 Undergrowth Stadium
 1 Unnatural Restoration
 1 Urborg, Tomb of Yawgmoth
@@ -88,7 +89,6 @@
 1 Windswept Heath
 1 Wooded Foothills
 1 Woodland Cemetery
-1 Woodland Chasm
 1 Yavimaya, Cradle of Growth
 1 Yawgmoth's Vile Offering
 
