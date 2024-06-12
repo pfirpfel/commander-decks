@@ -49,7 +49,7 @@
 1 Open the Way
 1 Palani's Hatcher
 1 Path of Ancestry
-3 Plains
+2 Plains
 1 Plateau
 1 Prismatic Vista
 1 Pugnacious Hammerskull
@@ -68,6 +68,8 @@
 1 Spectator Seating
 1 Spire Garden
 1 Stomping Ground
+1 Stump Stomp
+1 Sunfrill Imitator
 1 Taiga
 1 Temple Garden
 1 Territorial Allosaurus
@@ -80,7 +82,6 @@
 1 Trumpeting Carnosaur
 1 Vaultborn Tyrant
 1 Verdant Sun's Avatar
-1 Wakening Sun's Avatar
 1 Wayward Swordtooth
 1 Welcome to . . .
 1 Wild Growth

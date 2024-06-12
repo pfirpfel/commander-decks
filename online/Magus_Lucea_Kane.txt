@@ -50,12 +50,14 @@
 1 Pest Infestation
 1 Prismatic Vista
 1 Pull from Tomorrow
+1 Rampant Growth
 1 Ravener
 1 Reap the Past
 1 Rejuvenating Springs
 1 Reliquary Tower
 1 Rockfall Vale
 1 Rosheen Meanderer
+1 Rosheen, Roaring Prophet
 1 Scalding Tarn
 1 Selvala, Heart of the Wilds
 1 Shatterskull Smashing
@@ -78,8 +80,6 @@
 1 Three Visits
 1 Training Center
 1 Tropical Island
-1 Twinning Staff
-1 Tyrant Guard
 1 Tyvar's Stand
 1 Unbound Flourishing
 1 Up the Beanstalk

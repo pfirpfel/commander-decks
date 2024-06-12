@@ -7,7 +7,9 @@
 1 Boseiju, Who Endures
 1 Caged Sun
 1 Castle Garenbrig
+1 Delighted Halfling
 1 Durnan of the Yawning Portal
+1 Eladamri, Korvecdal
 1 Emerald Medallion
 1 Exploration
 1 Eye of Vecna
@@ -32,7 +34,6 @@
 1 Kodama of the East Tree
 1 Kogla, the Titan Ape
 1 Kolvori, God of Kinship
-1 Mana Crypt
 1 Mana Reflection
 1 Mirror of Galadriel
 1 Mox Amber
@@ -47,7 +48,6 @@
 1 Pest Infestation
 1 Relic of Legends
 1 Reliquary Tower
-1 Return of the Wildspeaker
 1 Rhonas's Monument
 1 Rishkar's Expertise
 1 Rishkar, Peema Renegade
@@ -56,6 +56,7 @@
 1 Selvala, Heart of the Wilds
 1 Shadowspear
 1 Shigeki, Jukai Visionary
+1 Six
 20 Snow-Covered Forest
 1 Sol Ring
 1 Tectonic Edge
@@ -77,6 +78,5 @@
 1 Wild Growth
 1 Yavimaya Hollow
 1 Yavimaya, Cradle of Growth
-1 Yeva, Nature's Herald
 
 1 Reki, the History of Kamigawa
