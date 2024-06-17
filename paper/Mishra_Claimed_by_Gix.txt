@@ -8,6 +8,7 @@
 1 Black Market Connections
 1 Blightstep Pathway
 1 Blood Crypt
+1 Bloodsoaked Insight
 1 Bloodstained Mire
 1 Bojuka Bog
 1 Bolas's Citadel
@@ -21,7 +22,6 @@
 1 Command Tower
 1 Dauthi Voidwalker
 1 Deadly Rollick
-1 Death Tyrant
 1 Deflecting Swat
 1 Demonic Tutor
 1 Dockside Extortionist
@@ -31,20 +31,21 @@
 1 Expedition Map
 1 Fable of the Mirror-Breaker
 1 Feed the Swarm
+1 Fell the Profane
 1 Fellwar Stone
 1 Fervor
 1 Florian, Voldaren Scion
+1 Garna, Bloodfist of Keld
 1 Gix, Yawgmoth Praetor
 1 Goblin Rabblemaster
 1 Graven Cairns
-1 Hagra Mauling
+1 Grim Hireling
 1 Hanweir Battlements
 1 Hanweir Garrison
 1 Haunted Ridge
 1 Imperial Recruiter
 1 Jadar, Ghoulcaller of Nephalia
 1 Jeska's Will
-1 Karazikar, the Eye Tyrant
 1 Karlach, Fury of Avernus
 1 Krenko, Tin Street Kingpin
 1 Lagomos, Hand of Hatred
@@ -56,7 +57,7 @@
 1 Mana Crypt
 1 Mind Stone
 1 Mishra's Factory
-6 Mountain
+4 Mountain
 1 Night's Whisper
 1 Nihil Spellbomb
 1 Phyrexian Arena
@@ -75,7 +76,8 @@
 1 Sol Ring
 1 Stormfist Crusader
 1 Sulfurous Springs
-3 Swamp
+1 Sundering Eruption
+2 Swamp
 1 Sword of the Animist
 1 Takenuma, Abandoned Mire
 1 Talisman of Indulgence
@@ -84,6 +86,7 @@
 1 Toxic Deluge
 1 Urabrask's Forge
 1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
 1 Urza's Saga
 1 Valakut Awakening
 1 Vandalblast

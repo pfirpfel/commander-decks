@@ -1,3 +1,4 @@
+1 Accursed Marauder
 1 Angel of Despair
 1 Angel of the Ruins
 1 Apprentice Necromancer
@@ -54,7 +55,6 @@
 1 Overcharged Amalgam
 1 Phantasmal Image
 1 Phyrexian Tower
-1 Plaguecrafter
 4 Plains
 1 Polluted Delta
 1 Prairie Stream
