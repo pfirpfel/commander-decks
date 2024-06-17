@@ -33,13 +33,14 @@
 1 Gut Shot
 1 Invasion of Arcavios
 6 Island
+1 Izzet Boilerworks
 1 Izzet Signet
 1 Jeska's Will
 1 Kessig Flamebreather
 1 Lava Dart
 1 Lórien Revealed
 1 Magic Missile
-12 Mountain
+10 Mountain
 1 Murmuring Mystic
 1 Mystic Sanctuary
 1 Needle Drop
@@ -47,6 +48,7 @@
 1 Niv-Mizzet, Parun
 1 Ophidian Eye
 1 Otawara, Soaring City
+1 Pinnacle Monk
 1 Pongify
 1 Prismatic Vista
 1 Prodigal Pyromancer

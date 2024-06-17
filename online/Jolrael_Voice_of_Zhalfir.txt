@@ -4,6 +4,7 @@
 1 Bala Ged Recovery
 1 Blossoming Tortoise
 1 Breeding Pool
+1 Bridgeworks Battle
 1 Broken Bond
 1 Command Tower
 1 Conduit of Worlds
@@ -25,21 +26,17 @@
 1 Filter Out
 1 Flood of Tears
 12 Forest
-1 Growth Spiral
 1 Halimar Tidecaller
 1 Hedge Maze
 1 Hinterland Harbor
 1 Hunter's Insight
-1 Invasion of Zendikar
 1 Ior Ruin Expedition
 1 Irenicus's Vile Duplication
 9 Island
 1 Jaheira's Respite
-1 Jwari Disruption
 1 Kamahl's Will
 1 Kamahl, Heart of Krosa
 1 Keeper of Fables
-1 Khalni Ambush
 1 Khalni Heart Expedition
 1 Kodama's Reach
 1 Lumbering Falls
@@ -47,6 +44,8 @@
 1 Negate
 1 Nissa's Pilgrimage
 1 Nissa, Who Shakes the World
+1 Open the Way
+1 Planar Genesis
 1 Rampaging Baloths
 1 Reliquary Tower
 1 Restless Vinestalk
@@ -57,6 +56,7 @@
 1 Search for Tomorrow
 1 Shigeki, Jukai Visionary
 1 Simic Growth Chamber
+1 Sink into Stupor
 1 Skullwinder
 1 Skyshroud Blessing
 1 Sol Ring

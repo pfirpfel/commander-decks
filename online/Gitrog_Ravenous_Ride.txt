@@ -12,8 +12,9 @@
 1 Bitter Triumph
 1 Black Market Connections
 1 Blackblade Reforged
-1 Bloodghast
 1 Bloodstained Mire
+1 Boggart Trawler
+1 Bojuka Bog
 1 Boseiju, Who Endures
 1 Brass Knuckles
 1 Cabal Coffers
@@ -25,12 +26,12 @@
 1 Daemogoth Woe-Eater
 1 Damnation
 1 Demolition Field
+1 Disciple of Freyalise
 1 Dolmen Gate
 1 Farseek
 1 Field of the Dead
-1 Filth
 1 Fireshrieker
-3 Forest
+2 Forest
 1 Gaea's Cradle
 1 Ghalta, Stampede Tyrant
 1 Greater Good
@@ -47,7 +48,6 @@
 1 Mana Crypt
 1 Marsh Flats
 1 Misty Rainforest
-1 Mithril Coat
 1 Momentous Fall
 1 Nature's Claim
 1 Nature's Lore
@@ -60,6 +60,7 @@
 1 Polluted Delta
 1 Psychosis Crawler
 1 Rampaging Baloths
+1 Revitalizing Repast
 1 Rhonas the Indomitable
 1 Rise of the Dark Realms
 1 Rotting Regisaur
@@ -69,10 +70,11 @@
 1 Sheltering Ancient
 1 Skullclamp
 1 Skyshroud Claim
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 2 Snow-Covered Swamp
 1 Sol Ring
-2 Swamp
+1 Spelunking
+1 Swamp
 1 Swiftfoot Boots
 1 Tainted Wood
 1 Tendershoot Dryad
@@ -84,6 +86,7 @@
 1 Ulamog, the Infinite Gyre
 1 Underground Mortuary
 1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
 1 Verdant Catacombs
 1 Windswept Heath
 1 Wooded Foothills
