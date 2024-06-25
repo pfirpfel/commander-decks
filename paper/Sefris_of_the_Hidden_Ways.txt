@@ -10,12 +10,12 @@
 1 Avacyn, Angel of Hope
 1 Banewhip Punisher
 1 Barrowin of Clan Undurr
+1 Boggart Trawler
 1 Bojuka Bog
 1 Burning-Rune Demon
 1 Cathar Commando
 1 Cavalier of Night
 1 Champion of Wits
-1 Coffin Queen
 1 Command Tower
 1 Dauthi Voidwalker
 1 Deserted Beach
@@ -55,7 +55,7 @@
 1 Overcharged Amalgam
 1 Phantasmal Image
 1 Phyrexian Tower
-4 Plains
+3 Plains
 1 Polluted Delta
 1 Prairie Stream
 1 Priest of Fell Rites
@@ -78,17 +78,19 @@
 1 Spark Double
 1 Sun Titan
 1 Sunken Hollow
-2 Swamp
+1 Swamp
 1 Takenuma, Abandoned Mire
 1 Thassa, Deep-Dwelling
 1 Tortured Existence
 1 Toxrill, the Corrosive
 1 Triumphant Adventurer
+1 Troll of Khazad-dûm
 1 Tundra
 1 Underground Sea
 1 Vanquish the Horde
 1 Vault of Champions
 1 Watery Grave
 1 White Plume Adventurer
+1 Witch Enchanter
 
 1 Sefris of the Hidden Ways
