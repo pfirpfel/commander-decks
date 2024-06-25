@@ -8,6 +8,7 @@
 1 Ashen Rider
 1 Atris, Oracle of Half-Truths
 1 Avacyn, Angel of Hope
+1 Azorius Chancery
 1 Banewhip Punisher
 1 Barrowin of Clan Undurr
 1 Boggart Trawler
@@ -46,7 +47,6 @@
 1 Morphic Pool
 1 Mulldrifter
 1 Nadaar, Selfless Paladin
-1 Nephalia Drownyard
 1 Obsessive Stitcher
 1 Ondu Inversion
 1 Organ Hoarder
@@ -55,6 +55,7 @@
 1 Overcharged Amalgam
 1 Phantasmal Image
 1 Phyrexian Tower
+1 Plaguecrafter
 3 Plains
 1 Polluted Delta
 1 Prairie Stream
@@ -83,7 +84,6 @@
 1 Thassa, Deep-Dwelling
 1 Tortured Existence
 1 Toxrill, the Corrosive
-1 Triumphant Adventurer
 1 Troll of Khazad-dûm
 1 Tundra
 1 Underground Sea
