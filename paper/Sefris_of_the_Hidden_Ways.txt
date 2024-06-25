@@ -28,6 +28,7 @@
 1 Glasspool Mimic
 1 Glen Elendra Archmage
 1 Godless Shrine
+1 Grim Servant
 1 Hallowed Fountain
 1 High Market
 1 Hostage Taker
@@ -42,7 +43,6 @@
 1 Master of Death
 1 Merfolk Looter
 1 Midnight Pathlighter
-1 Moon-Blessed Cleric
 1 Morphic Pool
 1 Mulldrifter
 1 Nadaar, Selfless Paladin
