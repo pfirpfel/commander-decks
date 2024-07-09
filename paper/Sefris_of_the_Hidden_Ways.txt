@@ -2,7 +2,6 @@
 1 Angel of Despair
 1 Angel of the Ruins
 1 Apprentice Necromancer
-1 Arcane Signet
 1 Archfiend of Ifnir
 1 Archon of Cruelty
 1 Ashen Rider
@@ -19,7 +18,9 @@
 1 Champion of Wits
 1 Command Tower
 1 Dauthi Voidwalker
+1 Deep Gnome Terramancer
 1 Deserted Beach
+1 Dimir Aqueduct
 1 Doomed Necromancer
 1 Ertai Resurrected
 1 Fell Stinger
@@ -33,11 +34,11 @@
 1 Hallowed Fountain
 1 High Market
 1 Hostage Taker
-4 Island
+3 Island
+1 Jirina, Dauntless General
 1 Karmic Guide
 1 Knight of the White Orchid
 1 Ledger Shredder
-1 Lightning Greaves
 1 Likeness Looter
 1 Linvala, Shield of Sea Gate
 1 Marsh Flats
@@ -50,7 +51,7 @@
 1 Obsessive Stitcher
 1 Ondu Inversion
 1 Organ Hoarder
-1 Oriq Loremage
+1 Ornithopter of Paradise
 1 Orzhov Basilica
 1 Overcharged Amalgam
 1 Phantasmal Image
@@ -75,7 +76,6 @@
 1 Shriekmaw
 1 Sidisi, Undead Vizier
 1 Skyclave Apparition
-1 Solemn Simulacrum
 1 Spark Double
 1 Sun Titan
 1 Sunken Hollow
@@ -84,6 +84,7 @@
 1 Thassa, Deep-Dwelling
 1 Tortured Existence
 1 Toxrill, the Corrosive
+1 Triumphant Adventurer
 1 Troll of Khazad-dûm
 1 Tundra
 1 Underground Sea
