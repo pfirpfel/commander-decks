@@ -1,4 +1,3 @@
-1 Acidic Slime
 1 Aerial Extortionist
 1 Ancient Tomb
 1 Angel of Sanctions
@@ -66,6 +65,7 @@
 1 Sakura-Tribe Elder
 1 Savannah
 1 Selesnya Sanctuary
+1 Shadow in the Warp
 1 Sol Ring
 1 Solitude
 1 Springheart Nantuko
