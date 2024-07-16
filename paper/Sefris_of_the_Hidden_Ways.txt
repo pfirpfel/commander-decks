@@ -14,8 +14,8 @@
 1 Bojuka Bog
 1 Burning-Rune Demon
 1 Cathar Commando
-1 Cavalier of Night
 1 Champion of Wits
+1 Claim Jumper
 1 Command Tower
 1 Dauthi Voidwalker
 1 Deep Gnome Terramancer
@@ -41,8 +41,8 @@
 1 Ledger Shredder
 1 Likeness Looter
 1 Linvala, Shield of Sea Gate
+1 Malcolm, Alluring Scoundre
 1 Marsh Flats
-1 Master of Death
 1 Merfolk Looter
 1 Midnight Pathlighter
 1 Morphic Pool
@@ -51,7 +51,6 @@
 1 Obsessive Stitcher
 1 Ondu Inversion
 1 Organ Hoarder
-1 Ornithopter of Paradise
 1 Orzhov Basilica
 1 Overcharged Amalgam
 1 Phantasmal Image
@@ -64,7 +63,6 @@
 1 Radiant Solar
 1 Raffine's Tower
 1 Raffine, Scheming Seer
-1 Remorseful Cleric
 1 Reveillark
 1 Rona, Herald of Invasion
 1 Scrubland
@@ -90,7 +88,9 @@
 1 Underground Sea
 1 Vanquish the Horde
 1 Vault of Champions
+1 Vohar, Vodalian Desecrator
 1 Watery Grave
+1 What Must Be Done
 1 White Plume Adventurer
 1 Witch Enchanter
 
