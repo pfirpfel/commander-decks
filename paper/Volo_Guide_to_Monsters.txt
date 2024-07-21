@@ -1,3 +1,4 @@
+1 Abstergo Entertainment
 1 Acidic Slime
 1 Alchemist's Refuge
 1 Amphin Mutineer
@@ -12,6 +13,7 @@
 1 Bladegriff Prototype
 1 Boseiju, Who Endures
 1 Breeding Pool
+1 Bridgeworks Battle
 1 Burnished Hart
 1 Callous Oppressor
 1 Coati Scavenger
@@ -21,6 +23,9 @@
 1 Cyclonic Rift
 1 Delighted Halfling
 1 Diluvian Primordial
+1 Disciple of Freyalise
+1 Drowner of Truth
+1 Dutiful Replicator
 1 End-Raze Forerunners
 1 Esika's Chariot
 1 Fabled Passage
@@ -35,8 +40,6 @@
 1 Heroic Intervention
 1 Hinterland Harbor
 1 Hornet Queen
-1 Hulking Raptor
-1 Incubation/Incongruity
 1 Into the North
 1 Junk Winder
 1 Keiga, the Tide Star
@@ -48,10 +51,8 @@
 1 Misty Rainforest
 1 Mosswort Bridge
 1 Mulldrifter
-1 Mystic Reflection
 1 Nature's Lore
 1 Oko, Thief of Crowns
-1 Ongoing Investigation
 1 Ornithopter of Paradise
 1 Pathbreaker Ibex
 1 Prismatic Vista
@@ -64,12 +65,12 @@
 1 Sakura-Tribe Elder
 1 Scavenger Grounds
 1 Selesnya Eulogist
+1 Silverback Elder
 1 Simic Growth Chamber
-6 Snow-Covered Forest
-8 Snow-Covered Island
+5 Snow-Covered Forest
+7 Snow-Covered Island
 1 Sol Ring
 1 Spark Double
-1 Steelbane Hydra
 1 Strip Mine
 1 Temple of Mystery
 1 Temur Sabertooth
