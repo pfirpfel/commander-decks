@@ -37,7 +37,6 @@
 1 Gruul Signet
 1 Harmonic Prodigy
 1 Hate Mirage
-1 Iroas, God of Victory
 1 Jetmir's Garden
 1 Karmic Guide
 1 Kiki-Jiki, Mirror Breaker
@@ -49,6 +48,7 @@
 4 Mountain
 1 Muster the Departed
 1 Nature's Lore
+1 Ohran Frostfang
 1 Ondu Inversion
 1 Parallel Lives
 1 Phyrexian Rebirth
