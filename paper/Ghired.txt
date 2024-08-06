@@ -50,6 +50,7 @@
 1 Ohran Frostfang
 1 Ondu Inversion
 1 Orthion, Hero of Lavabrink
+1 Outcaster Trailblazer
 1 Parallel Lives
 1 Phyrexian Rebirth
 1 Pinnacle Monk
@@ -88,6 +89,5 @@
 1 Witch Enchanter
 1 Wood Elves
 1 Wooded Foothills
-1 Yavimaya Dryad
 
 1 Ghired, Conclave Exile
