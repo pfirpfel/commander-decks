@@ -6,12 +6,12 @@
 1 Arcane Signet
 1 Arid Mesa
 1 Aura Shards
-1 Aurelia, the Warleader
 1 Bala Ged Recovery
 1 Blade of Selves
 1 Boros Garrison
 1 Boseiju, Who Endures
 1 Canopy Vista
+1 Caretaker's Talent
 1 Cinder Glade
 1 Clifftop Retreat
 1 Command Tower
@@ -32,7 +32,6 @@
 4 Forest
 1 Fury
 1 Garruk's Uprising
-1 Garruk, Primal Hunter
 1 Ghired, Mirror of the Wilds
 1 Gruul Signet
 1 Harmonic Prodigy
@@ -50,6 +49,7 @@
 1 Nature's Lore
 1 Ohran Frostfang
 1 Ondu Inversion
+1 Orthion, Hero of Lavabrink
 1 Parallel Lives
 1 Phyrexian Rebirth
 1 Pinnacle Monk
