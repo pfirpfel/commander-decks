@@ -3,7 +3,6 @@
 1 Angel of the Ruins
 1 Apprentice Necromancer
 1 Archfiend of Ifnir
-1 Archon of Cruelty
 1 Ashen Rider
 1 Atris, Oracle of Half-Truths
 1 Avacyn, Angel of Hope
@@ -12,12 +11,12 @@
 1 Barrowin of Clan Undurr
 1 Boggart Trawler
 1 Bojuka Bog
+1 Boromir, Warden of the Tower
 1 Burning-Rune Demon
 1 Cathar Commando
 1 Champion of Wits
 1 Claim Jumper
 1 Command Tower
-1 Dauthi Voidwalker
 1 Deep Gnome Terramancer
 1 Deserted Beach
 1 Dimir Aqueduct
@@ -34,6 +33,7 @@
 1 Hallowed Fountain
 1 High Market
 1 Hostage Taker
+1 Hour of Revelation
 3 Island
 1 Jirina, Dauntless General
 1 Karmic Guide
@@ -41,7 +41,6 @@
 1 Ledger Shredder
 1 Likeness Looter
 1 Linvala, Shield of Sea Gate
-1 Malcolm, Alluring Scoundrel
 1 Marsh Flats
 1 Merfolk Looter
 1 Midnight Pathlighter
@@ -63,7 +62,6 @@
 1 Radiant Solar
 1 Raffine's Tower
 1 Raffine, Scheming Seer
-1 Reveillark
 1 Rona, Herald of Invasion
 1 Scrubland
 1 Sea of Clouds
@@ -73,13 +71,15 @@
 1 Shipwreck Marsh
 1 Shriekmaw
 1 Sidisi, Undead Vizier
+1 Sister Hospitaller
 1 Skyclave Apparition
+1 Space Marine Scout
 1 Spark Double
-1 Sun Titan
 1 Sunken Hollow
 1 Swamp
 1 Takenuma, Abandoned Mire
 1 Thassa, Deep-Dwelling
+1 Thought Courier
 1 Tortured Existence
 1 Toxrill, the Corrosive
 1 Triumphant Adventurer
@@ -88,7 +88,7 @@
 1 Underground Sea
 1 Vanquish the Horde
 1 Vault of Champions
-1 Vohar, Vodalian Desecrator
+1 Warren Soultrader
 1 Watery Grave
 1 What Must Be Done
 1 White Plume Adventurer
