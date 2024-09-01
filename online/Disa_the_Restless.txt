@@ -1,0 +1,101 @@
+1 Accursed Marauder
+1 Aftermath Analyst
+1 Ancient Tomb
+1 Arcane Signet
+1 Ashes of the Fallen
+1 Assassin's Trophy
+1 Badlands
+1 Barrowgoyf
+1 Bayou
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boggart Trawler
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Brass's Tunnel-Grinder
+1 Breach the Multiverse
+1 Buried Alive
+1 Cabal Coffers
+1 Chainer, Nightmare Adept
+1 Command Tower
+1 Commercial District
+1 Conspiracy
+1 Deflecting Swat
+1 Demonic Tutor
+1 Disciple of Freyalise
+1 Dismissive Pyromancer
+1 Eternal Witness
+1 Faithless Looting
+1 Farseek
+1 Fauna Shaman
+1 Fell the Profane
+1 Field of the Dead
+1 Forest
+1 Graveshifter
+1 Grist, the Hunger Tide
+1 Gruul Turf
+1 Haywire Mite
+1 Hermit Druid
+1 Ignoble Hierarch
+1 Invasion of Ikoria
+1 Invasion of Mercadia
+1 Junji, the Midnight Sky
+1 Kogla and Yidaro
+1 Lhurgoyf
+1 Lightning Greaves
+1 Lumra, Bellow of the Woods
+1 Mana Crypt
+1 Masked Vandal
+1 Maskwood Nexus
+1 Matzalantli, the Great Door
+1 Morality Shift
+1 Mortivore
+1 Mountain
+1 Nature's Lore
+1 Open the Way
+1 Overgrown Tomb
+1 Pinnacle Monk
+1 Polygoyf
+1 Pyrogoyf
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Realmwalker
+1 Revitalizing Repast
+1 Sakura-Tribe Elder
+1 Sazacap's Brew
+1 Seasoned Pyromancer
+1 Selvala, Heart of the Wilds
+1 Shifting Woodland
+1 Shigeki, Jukai Visionary
+1 Six
+1 Skyshroud Claim
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Stomping Ground
+1 Stump Stomp
+1 Swamp
+1 Syr Konrad, the Grim
+1 Taiga
+1 Takenuma, Abandoned Mire
+1 Tarmogoyf
+1 Tarmogoyf Nest
+1 Taurean Mauler
+1 Terror of the Peaks
+1 Three Visits
+1 Timeless Witness
+1 Tortured Existence
+1 Toxic Deluge
+1 Troll of Khazad-dûm
+1 Trumpeting Carnosaur
+1 Underground Mortuary
+1 Underrealm Lich
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Ziatora's Proving Ground
+
+1 Disa the Restless
