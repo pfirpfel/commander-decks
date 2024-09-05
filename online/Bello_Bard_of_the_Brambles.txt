@@ -6,6 +6,7 @@
 1 Bala Ged Recovery
 1 Beast Within
 1 Berserkers' Onslaught
+1 Birds of Paradise
 1 Blasphemous Act
 1 Bloodstained Mire
 1 Boseiju, Who Endures
@@ -17,7 +18,6 @@
 1 Command Tower
 1 Commercial District
 1 Cragcrown Pathway
-1 Cultivate
 1 Deflecting Swat
 1 Echoing Assault
 1 Eidolon of Blossoms
@@ -26,19 +26,21 @@
 1 Farseek
 1 Fiery Emancipation
 1 Fire-Lit Thicket
+1 Frontier Siege
 1 Garruk's Uprising
 1 Gilded Lotus
+1 Gimli's Reckless Might
 1 Glorious Sunrise
 1 Gratuitous Violence
 1 Gruul Turf
 1 Gruul War Chant
 1 Guardian Project
+1 Hedron Archive
 1 Heroic Intervention
 1 Hoard Hauler
 1 Jeska's Will
 1 Karplusan Forest
 1 Lightning Greaves
-1 Mana Crypt
 1 Mana Reflection
 1 Mithril Coat
 1 Molten Echoes
@@ -46,9 +48,9 @@
 1 Nature's Will
 1 Nautiloid Ship
 1 Nevinyrral's Disk
+1 Open the Way
 1 Portal to Phyrexia
 1 Prismatic Vista
-1 Rampant Growth
 1 Reliquary Tower
 1 Roaming Throne
 1 Rockfall Vale
@@ -56,10 +58,8 @@
 1 Rootbound Crag
 1 Sakura-Tribe Elder
 1 Sanctum Weaver
-1 Setessan Champion
 1 Shifting Woodland
 1 Sight of the Scalelords
-1 Skyshroud Claim
 1 Skysovereign, Consul Flagship
 5 Snow-Covered Forest
 7 Snow-Covered Mountain
