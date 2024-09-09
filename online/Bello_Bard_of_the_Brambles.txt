@@ -5,6 +5,7 @@
 1 Asceticism
 1 Bala Ged Recovery
 1 Beast Within
+1 Bedlam
 1 Berserkers' Onslaught
 1 Birds of Paradise
 1 Blasphemous Act
@@ -17,11 +18,11 @@
 1 Cinder Glade
 1 Command Tower
 1 Commercial District
+1 Court of Bounty
 1 Cragcrown Pathway
 1 Deflecting Swat
 1 Echoing Assault
 1 Eidolon of Blossoms
-1 Esika's Chariot
 1 Fanatic of Rhonas
 1 Farseek
 1 Fiery Emancipation
@@ -37,16 +38,15 @@
 1 Guardian Project
 1 Hedron Archive
 1 Heroic Intervention
-1 Hoard Hauler
 1 Jeska's Will
 1 Karplusan Forest
 1 Lightning Greaves
+1 Mana Echoes
 1 Mana Reflection
 1 Mithril Coat
 1 Molten Echoes
 1 Nature's Lore
 1 Nature's Will
-1 Nautiloid Ship
 1 Nevinyrral's Disk
 1 Open the Way
 1 Portal to Phyrexia
@@ -76,9 +76,9 @@
 1 The Immortal Sun
 1 The Mightstone and Weakstone
 1 The One Ring
-1 Thickest in the Thicket
 1 Thran Dynamo
 1 Three Visits
+1 Thunderhawk Gunship
 1 Trailtracker Scout
 1 Unnatural Growth
 1 Utopia Sprawl
