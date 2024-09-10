@@ -13,12 +13,13 @@
 1 Boseiju, Who Endures
 1 Bridgeworks Battle
 1 Case of the Locked Hothouse
+1 Chain Reaction
 1 Chaos Warp
 1 Chimil, the Inner Sun
 1 Cinder Glade
+1 Collective Resistance
 1 Command Tower
 1 Commercial District
-1 Court of Bounty
 1 Cragcrown Pathway
 1 Deflecting Swat
 1 Echoing Assault
@@ -58,11 +59,12 @@
 1 Rootbound Crag
 1 Sakura-Tribe Elder
 1 Sanctum Weaver
+1 Shatterskull Smashing
 1 Shifting Woodland
 1 Sight of the Scalelords
 1 Skysovereign, Consul Flagship
 5 Snow-Covered Forest
-7 Snow-Covered Mountain
+6 Snow-Covered Mountain
 1 Sol Ring
 1 Solemn Simulacrum
 1 Spire Garden
@@ -79,7 +81,6 @@
 1 Thran Dynamo
 1 Three Visits
 1 Thunderhawk Gunship
-1 Trailtracker Scout
 1 Unnatural Growth
 1 Utopia Sprawl
 1 Warstorm Surge
