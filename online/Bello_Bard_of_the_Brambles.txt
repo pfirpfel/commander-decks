@@ -2,6 +2,7 @@
 1 Akroma's Memorial
 1 Ancient Tomb
 1 Arcane Signet
+1 Arid Archway
 1 Asceticism
 1 Bala Ged Recovery
 1 Beast Within
@@ -29,7 +30,6 @@
 1 Fiery Emancipation
 1 Fire-Lit Thicket
 1 Frontier Siege
-1 Garruk's Uprising
 1 Gilded Lotus
 1 Gimli's Reckless Might
 1 Glorious Sunrise
@@ -38,7 +38,6 @@
 1 Gruul War Chant
 1 Guardian Project
 1 Hedron Archive
-1 Heroic Intervention
 1 Jeska's Will
 1 Karplusan Forest
 1 Lightning Greaves
@@ -81,6 +80,7 @@
 1 Thran Dynamo
 1 Three Visits
 1 Thunderhawk Gunship
+1 Tyvar's Stand
 1 Unnatural Growth
 1 Utopia Sprawl
 1 Warstorm Surge
