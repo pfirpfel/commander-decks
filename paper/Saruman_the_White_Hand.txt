@@ -3,6 +3,7 @@
 1 Arcane Signet
 1 Badlands
 1 Bedevil
+1 Big Score
 1 Blasphemous Act
 1 Blood Crypt
 1 Bloodstained Mire
@@ -29,8 +30,10 @@
 1 Fellwar Stone
 1 Field of the Dead
 1 Flame of Anor
+1 Fling
 1 Foray of Orcs
 1 Frantic Search
+1 Island
 1 Izzet Boilerworks
 1 Izzet Signet
 1 Jeska's Will
@@ -43,6 +46,7 @@
 1 Metallurgic Summonings
 1 Mindsplice Apparatus
 1 Morphic Pool
+1 Mountain
 1 Mystic Remora
 1 Mystic Retrieval
 1 No Mercy
@@ -50,6 +54,7 @@
 1 Palantír of Orthanc
 1 Pinnacle Monk
 1 Polluted Delta
+1 Ponder
 1 Price of Fame
 1 Rakdos Signet
 1 Reflecting Pool
@@ -63,9 +68,6 @@
 1 Shatterskull Smashing
 1 Shipwreck Marsh
 1 Silundi Vision
-1 Sink into Stupor
-1 Snow-Covered Island
-1 Snow-Covered Mountain
 1 Sol Ring
 1 Steam Vents
 1 Stormcarved Coast
@@ -90,11 +92,9 @@
 1 Urza's Saga
 1 Valakut Awakening
 1 Volcanic Island
-1 Volcanic Salvo
 1 Waterlogged Teachings
 1 Watery Grave
 1 Wheel of Fortune
-1 Wheel of Misfortune
 1 Widespread Brutality
 1 Xander's Lounge
 
