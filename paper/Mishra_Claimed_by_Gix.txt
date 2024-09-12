@@ -24,6 +24,7 @@
 1 Deadly Rollick
 1 Deflecting Swat
 1 Demonic Tutor
+1 Diresight
 1 Dockside Extortionist
 1 Dolmen Gate
 1 Dragonskull Summit
@@ -39,7 +40,6 @@
 1 Gix, Yawgmoth Praetor
 1 Goblin Rabblemaster
 1 Graven Cairns
-1 Grim Hireling
 1 Hanweir Battlements
 1 Hanweir Garrison
 1 Haunted Ridge
@@ -68,9 +68,9 @@
 1 Ragavan, Nimble Pilferer
 1 Rakdos Carnarium
 1 Rakdos Signet
-1 Read the Bones
 1 Release the Gremlins
 1 Shatterskull Smashing
+1 Siege-Gang Lieutenant
 1 Skullclamp
 1 Sokenzan, Crucible of Defiance
 1 Sol Ring
