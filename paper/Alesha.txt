@@ -21,7 +21,6 @@
 1 Demonic Tutor
 1 Dictate of Erebos
 1 Dismissive Pyromancer
-1 Dockside Extortionist
 1 Dragonskull Summit
 1 Duergar Hedge-Mage
 1 Duplicant
@@ -50,6 +49,7 @@
 1 Liliana, Heretical Healer
 1 Living Death
 1 Luxury Suite
+1 Marionette Apprentice
 1 Marsh Flats
 1 Master of Cruelties
 1 Mentor of the Meek
