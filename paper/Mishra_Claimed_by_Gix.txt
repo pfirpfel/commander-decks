@@ -25,7 +25,6 @@
 1 Deflecting Swat
 1 Demonic Tutor
 1 Diresight
-1 Dockside Extortionist
 1 Dolmen Gate
 1 Dragonskull Summit
 1 Dreadhorde Invasion
@@ -54,7 +53,7 @@
 1 Liquimetal Torque
 1 Loyal Apprentice
 1 Luxury Suite
-1 Mana Crypt
+1 Marionette Apprentice
 1 Mind Stone
 1 Mishra's Factory
 4 Mountain
@@ -69,6 +68,7 @@
 1 Rakdos Carnarium
 1 Rakdos Signet
 1 Release the Gremlins
+1 Restless Vents
 1 Shatterskull Smashing
 1 Siege-Gang Lieutenant
 1 Skullclamp

@@ -8,6 +8,7 @@
 1 Aura Shards
 1 Bala Ged Recovery
 1 Blade of Selves
+1 Bloom Tender
 1 Boros Garrison
 1 Boseiju, Who Endures
 1 Canopy Vista
@@ -42,7 +43,6 @@
 1 Kodama's Reach
 1 Krosan Verge
 1 Lightning Greaves
-1 Mana Crypt
 1 Mimic Vat
 4 Mountain
 1 Muster the Departed

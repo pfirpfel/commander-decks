@@ -33,8 +33,8 @@
 1 Kodama of the East Tree
 1 Kogla, the Titan Ape
 1 Kolvori, God of Kinship
-1 Mana Crypt
 1 Mana Reflection
+1 Mana Vault
 1 Mirror of Galadriel
 1 Mox Amber
 1 Nature's Lore

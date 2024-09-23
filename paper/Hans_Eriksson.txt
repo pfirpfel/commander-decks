@@ -38,7 +38,6 @@
 1 Kogla, the Titan Ape
 1 Lurking Predators
 1 Magebane Armor
-1 Mana Crypt
 1 Manglehorn
 1 Maze of Ith
 1 Mirri's Guile
@@ -71,6 +70,7 @@
 1 Spire Garden
 1 Stomping Ground
 1 Stonehoof Chieftain
+1 Stump Stomp
 1 Sylvan Library
 1 Taiga
 1 Talisman of Impulse
