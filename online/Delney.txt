@@ -8,13 +8,13 @@
 1 Charming Prince
 1 Court of Ardenvale
 1 Deep Gnome Terramancer
-1 Discerning Financier
 1 Distinguished Conjurer
 1 Duplicant
 1 Dusk/Dawn
 1 Eerie Interlude
 1 Eiganjo, Seat of the Empire
 1 Emeria, the Sky Ruin
+1 Enduring Innocence
 1 Esper Sentinel
 1 Felidar Guardian
 1 Flare of Fortitude
