@@ -1,0 +1,96 @@
+1 Aether Channeler
+1 Agate Instigator
+1 Anim Pakal, Thousandth Moon
+1 Anointed Procession
+1 Arcane Signet
+1 Arid Mesa
+1 Azorius Signet
+1 Boros Signet
+1 Brudiclad, Telchor Engineer
+1 Calamity of Cinders
+1 Caretaker's Talent
+1 Cayth, Famed Mechanist
+1 Clifftop Retreat
+1 Command Tower
+1 Counterspell
+1 Cyclonic Rift
+1 Delney, Streetwise Lookout
+1 Deserted Beach
+1 Devilish Valet
+1 Echoing Assault
+1 Elspeth, Sun's Champion
+1 Enduring Curiosity
+1 Enduring Innocence
+1 Esper Sentinel
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flawless Maneuver
+1 Flooded Strand
+1 Generous Gift
+1 Gilded Drake
+1 Glacial Fortress
+1 Grand Crescendo
+1 Hallowed Fountain
+1 Helm of the Host
+1 Hour of Reckoning
+1 Idol of Oblivion
+1 Impact Tremors
+2 Island
+1 Izzet Signet
+1 Jeska's Will
+1 Junk Winder
+1 Molten Gatekeeper
+1 Mondrak, Glory Dominus
+1 Moonshaker Cavalry
+2 Mountain
+1 Nesting Dovehawk
+1 Ocelot Pride
+1 Ojer Taq, Deepest Foundation
+1 Oltec Matterweaver
+1 Otawara, Soaring City
+1 Path to Exile
+4 Plains
+1 Plateau
+1 Pollywog Prodigy
+1 Purphoros, God of the Forge
+1 Raugrin Triome
+1 Recruiter of the Guard
+1 Reliquary Tower
+1 Rhystic Study
+1 Rootborn Defenses
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Season of Weaving
+1 Selfless Spirit
+1 Skullclamp
+1 Smothering Tithe
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Solemn Simulacrum
+1 Song of the Worldsoul
+1 Spectator Seating
+1 Spirited Companion
+1 Steam Vents
+1 Storm of Souls
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sundown Pass
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Talisman of Progress
+1 Teferi's Protection
+1 The Jolly Balloon Man
+1 Toby, Beastie Befriender
+1 Training Center
+1 Tundra
+1 Volatile Stormdrake
+1 Volcanic Island
+1 Warleader's Call
+1 Warren Warleader
+1 Welcoming Vampire
+1 Witch Enchanter
+1 Witty Roastmaster
+
+1 Zinnia, Valley's Voice
