@@ -9,7 +9,6 @@
 1 Collective Resistance
 1 Commander's Plate
 1 Coordinated Clobbering
-1 Crop Rotation
 1 Cultivate
 1 Cultivator's Caravan
 1 Defense of the Heart
@@ -19,9 +18,11 @@
 1 Emerald Medallion
 1 Esika's Chariot
 1 Ezuri's Predation
-21 Forest
+19 Forest
 1 Gaea's Cradle
 1 Garruk's Uprising
+1 Generous Ent
+1 Greenwarden of Murasa
 1 Heroic Intervention
 1 Holdout Settlement
 1 Homeward Path
@@ -36,6 +37,7 @@
 1 Nature's Lore
 1 Nykthos, Shrine to Nyx
 1 Nyxbloom Ancient
+1 Old Gnawbone
 1 Outcaster Trailblazer
 1 Paradise Mantle
 1 Portal to Phyrexia
@@ -70,7 +72,7 @@
 1 Unlicensed Hearse
 1 Urza's Saga
 1 Vaultborn Tyrant
-1 Vorinclex, Voice of Hunger
+1 War Room
 1 Wondrous Crucible
 1 Worldly Tutor
 1 Worldspine Wurm
