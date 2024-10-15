@@ -1,0 +1,81 @@
+1 Ancient Tomb
+1 Archdruid's Charm
+1 Archetype of Endurance
+1 Bala Ged Recovery
+1 Beast Within
+1 Boseiju, Who Endures
+1 Bridgeworks Battle
+1 Castle Garenbrig
+1 Collective Resistance
+1 Commander's Plate
+1 Coordinated Clobbering
+1 Crop Rotation
+1 Cultivate
+1 Cultivator's Caravan
+1 Defense of the Heart
+1 Demolition Field
+1 Disciple of Freyalise
+1 Elemental Bond
+1 Emerald Medallion
+1 Esika's Chariot
+1 Ezuri's Predation
+21 Forest
+1 Gaea's Cradle
+1 Garruk's Uprising
+1 Heroic Intervention
+1 Holdout Settlement
+1 Homeward Path
+1 Honor-Worn Shaku
+1 Kenrith's Transformation
+1 Kodama of the East Tree
+1 Kodama's Reach
+1 Kogla, the Titan Ape
+1 Lightning Greaves
+1 Manglehorn
+1 Mithril Coat
+1 Nature's Lore
+1 Nykthos, Shrine to Nyx
+1 Nyxbloom Ancient
+1 Outcaster Trailblazer
+1 Paradise Mantle
+1 Portal to Phyrexia
+1 Rampant Growth
+1 Reclamation Sage
+1 Regal Force
+1 Relic of Legends
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Sakura-Tribe Elder
+1 Sandwurm Convergence
+1 Skyshroud Claim
+1 Smuggler's Copter
+1 Smuggler's Surprise
+1 Sol Ring
+1 Song of the Dryads
+1 Soul of the Harvest
+1 Springleaf Drum
+1 Survivors' Encampment
+1 Swiftfoot Boots
+1 Sylvan Library
+1 Tamiyo's Safekeeping
+1 Terastodon
+1 The Great Henge
+1 The Shire
+1 Thorn Mammoth
+1 Three Visits
+1 Titan of Industry
+1 Traverse the Outlands
+1 Tribute to the World Tree
+1 Turntimber Symbiosis
+1 Unlicensed Hearse
+1 Urza's Saga
+1 Vaultborn Tyrant
+1 Vorinclex, Voice of Hunger
+1 Wondrous Crucible
+1 Worldly Tutor
+1 Worldspine Wurm
+1 Yavimaya Hollow
+1 Yavimaya, Cradle of Growth
+1 Zendikar Resurgent
+
+1 Kona, Rescue Beastie
