@@ -1,3 +1,4 @@
+1 Akroma's Memorial
 1 Ancient Tomb
 1 Archdruid's Charm
 1 Archetype of Endurance
@@ -9,32 +10,31 @@
 1 Collective Resistance
 1 Commander's Plate
 1 Coordinated Clobbering
-1 Cultivate
 1 Cultivator's Caravan
-1 Defense of the Heart
 1 Demolition Field
 1 Disciple of Freyalise
 1 Elemental Bond
 1 Emerald Medallion
 1 Esika's Chariot
 1 Ezuri's Predation
-19 Forest
 1 Gaea's Cradle
 1 Garruk's Uprising
 1 Generous Ent
+1 Glimpse the Core
 1 Greenwarden of Murasa
 1 Heroic Intervention
 1 Holdout Settlement
 1 Homeward Path
 1 Honor-Worn Shaku
+1 Into the North
 1 Kenrith's Transformation
 1 Kodama of the East Tree
-1 Kodama's Reach
 1 Kogla, the Titan Ape
 1 Lightning Greaves
 1 Manglehorn
 1 Mithril Coat
 1 Nature's Lore
+1 Nissa's Pilgrimage
 1 Nykthos, Shrine to Nyx
 1 Nyxbloom Ancient
 1 Old Gnawbone
@@ -49,19 +49,19 @@
 1 Rishkar's Expertise
 1 Sakura-Tribe Elder
 1 Sandwurm Convergence
-1 Skyshroud Claim
 1 Smuggler's Copter
 1 Smuggler's Surprise
+19 Snow-Covered Forest
 1 Sol Ring
 1 Song of the Dryads
 1 Soul of the Harvest
 1 Springleaf Drum
 1 Survivors' Encampment
-1 Swiftfoot Boots
 1 Sylvan Library
 1 Tamiyo's Safekeeping
 1 Terastodon
 1 The Great Henge
+1 The Immortal Sun
 1 The Shire
 1 Thorn Mammoth
 1 Three Visits
