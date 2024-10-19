@@ -1,18 +1,18 @@
-1 Anger
+1 Alpha Deathclaw
+1 Ancient Copper Dragon
 1 Animate Dead
 1 Arcane Signet
 1 Archon of Cruelty
 1 Archpriest of Shadows
 1 Assassin's Trophy
 1 Atsushi, the Blazing Sky
-1 Avenger of Zendikar
 1 Badlands
-1 Bane of Progress
 1 Bayou
 1 Birds of Paradise
 1 Birthing Ritual
 1 Blood Crypt
 1 Bloodstained Mire
+1 Boggart Trawler
 1 Bojuka Bog
 1 Boseiju, Who Endures
 1 Braids, Arisen Nightmare
@@ -26,22 +26,23 @@
 1 Druid of Purification
 1 Elves of Deep Shadow
 1 Elvish Mystic
+1 Etali, Primal Conqueror
 1 Etali, Primal Storm
+1 Evercoat Ursine
 1 Exotic Orchard
 1 Feed the Swarm
 1 Fell the Profane
 3 Forest
+1 Gamekeeper
 1 Garruk's Uprising
 1 Giant Adephage
-1 Grave Titan
 1 Graven Cairns
 1 Gruul Turf
-1 High Market
+1 Gwenna, Eyes of Gaea
 1 Honest Rutstein
 1 Ignoble Hierarch
-1 Indrik Stomphowler
 1 Junji, the Midnight Sky
-1 Kessig Cagebreakers
+1 Kogla, the Titan Ape
 1 Life's Legacy
 1 Living Death
 1 Llanowar Elves
@@ -49,15 +50,14 @@
 1 Malakir Rebirth
 1 Massacre Girl
 1 Massacre Wurm
-1 Master of Cruelties
-1 Mitotic Slime
 1 Moraug, Fury of Akoum
 3 Mountain
+1 Necron Deathmark
+1 Not Dead After All
 1 Noxious Gearhulk
 1 Ojer Kaslem, Deepest Growth
 1 Overgrown Tomb
-1 Painful Truths
-1 Pathbreaker Ibex
+1 Overlord of the Balemurk
 1 Rakshasa Debaser
 1 Rampant Rejuvenator
 1 Raucous Theater
@@ -65,31 +65,32 @@
 1 Reanimate
 1 Reliquary Tower
 1 Revitalizing Repast
-1 Rise of the Dark Realms
+1 Roxanne, Starfall Savant
 1 Seedguide Ash
 1 Shadow in the Warp
+1 Shifting Woodland
 1 Skullclamp
 1 Sol Ring
 1 Solemn Simulacrum
 1 Spire Garden
 1 Stomping Ground
-2 Swamp
+1 Swamp
 1 Taiga
 1 Takenuma, Abandoned Mire
+1 Timeless Witness
 1 Treeshaker Chimera
 1 Underground Mortuary
 1 Undergrowth Stadium
 1 Undying Evil
+1 Up the Beanstalk
 1 Utopia Sprawl
-1 Vandalblast
+1 Vaultborn Tyrant
 1 Verdant Catacombs
 1 Victimize
-1 Village Rites
 1 Wild Growth
 1 Wooded Foothills
 1 Woodfall Primus
 1 Yavimaya, Cradle of Growth
-1 Yawgmoth, Thran Physician
 1 Ziatora's Proving Ground
 1 Ziatora, the Incinerator
 
