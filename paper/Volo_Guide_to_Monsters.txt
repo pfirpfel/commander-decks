@@ -30,7 +30,6 @@
 1 Esika's Chariot
 1 Fabled Passage
 1 Farseek
-1 Fblthp, the Lost
 1 Fierce Guardianship
 1 Flooded Grove
 1 Gemrazer
@@ -40,6 +39,7 @@
 1 Heroic Intervention
 1 Hinterland Harbor
 1 Hornet Queen
+1 Insidious Fungus
 1 Into the North
 1 Junk Winder
 1 Keiga, the Tide Star
