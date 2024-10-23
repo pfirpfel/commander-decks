@@ -21,6 +21,7 @@
 1 Cathartic Reunion
 1 Command Tower
 1 Deathcap Glade
+1 Demonic Tutor
 1 Dictate of Erebos
 1 Disciple of Freyalise
 1 Dragonskull Summit
@@ -64,7 +65,6 @@
 1 Ramunap Excavator
 1 Razaketh, the Foulblooded
 1 Reanimate
-1 Ritual of the Machine
 1 Rockfall Vale
 1 Rootbound Crag
 1 Sakura-Tribe Elder
