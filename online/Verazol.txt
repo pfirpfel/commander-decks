@@ -5,19 +5,20 @@
 1 Blink of an Eye
 1 Boseiju, Who Endures
 1 Breeding Pool
+1 Bridgeworks Battle
 1 Castle Garenbrig
 1 Castle Vantress
 1 Citanul Woodreaders
 1 Command Tower
 1 Coralhelm Chronicler
 1 Cyclonic Rift
+1 Depth Defiler
 1 Elfhame Druid
 1 Everflowing Chalice
 1 Fabled Passage
 1 Farseek
 1 Fathom Mage
 1 Field Research
-1 Fierce Guardianship
 1 Fight Rigging
 1 Flooded Grove
 7 Forest
@@ -47,17 +48,15 @@
 1 Murasa Sproutling
 1 Myriad Construct
 1 Mystic Sanctuary
-1 Nature's Claim
 1 Nature's Lore
 1 Oran-Rief, the Vastwood
 1 Ordeal of Nylea
 1 Ordeal of Thassa
+1 Ornery Tumblewagg
 1 Pir, Imaginative Rascal
 1 Primal Growth
-1 Prime Speaker Zegana
 1 Rejuvenating Springs
 1 Reliquary Tower
-1 Rishkar, Peema Renegade
 1 Rite of Replication
 1 Rogue's Passage
 1 Roost of Drakes
@@ -67,6 +66,7 @@
 1 Skyclave Relic
 1 Slinn Voda, the Rising Deep
 1 Sol Ring
+1 Sowing Mycospawn
 1 Sphinx of Lost Truths
 1 Strength of the Tajuru
 1 Strip Mine
@@ -79,10 +79,10 @@
 1 Tropical Island
 1 Turntimber Symbiosis
 1 Twinning Staff
-1 Urban Evolution
 1 Vastwood Surge
 1 Verdeloth the Ancient
 1 Vineshaper Prodigy
+1 Wastescape Battlemage
 1 Wolfbriar Elemental
 1 Yavimaya Coast
 
