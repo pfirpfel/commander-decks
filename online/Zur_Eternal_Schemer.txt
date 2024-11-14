@@ -1,0 +1,100 @@
+1 Adarkar Wastes
+1 Alseid of Life's Bounty
+1 Aminatou, Veil Piercer
+1 Ancient Tomb
+1 Anguished Unmaking
+1 Arcane Signet
+1 Archetype of Courage
+1 Azorius Chancery 
+1 Azorius Signet
+1 Cabal Coffers
+1 Caves of Koilos
+1 Claim Jumper
+1 Command Tower
+1 Copy Land
+1 Court of Vantress
+1 Damn
+1 Demon of Fate's Design
+1 Demonic Tutor
+1 Dimir Aqueduct
+1 Doomwake Giant
+1 Eiganjo, Seat of the Empire
+1 Enduring Curiosity
+1 Enduring Tenacity
+1 Entity Tracker
+1 Erebos, God of the Dead
+1 Expedition Map
+1 Fell the Profane 
+1 Fierce Guardianship
+1 Flawless Maneuver
+1 Flooded Strand
+1 Ghostly Dancers
+1 Glacial Fortress
+1 Godless Shrine
+1 Grasp of Fate
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Hallowed Haunting
+1 Imprisoned in the Moon
+1 Irrigated Farmland
+1 Island
+1 Isolated Chapel
+1 Lightning Greaves
+1 Malakir Rebirth
+1 Mana Drain
+1 Marsh Flats
+1 Martyr's Bond
+1 Mesa Enchantress
+1 Meticulous Archive
+1 Mirrormade
+1 Morphic Pool
+1 Nightmare Shepherd
+1 Nykthos Paragon
+1 Orzhov Basilica
+1 Orzhov Signet
+1 Otawara, Soaring City
+1 Oubliette
+1 Overlord of the Floodpits
+1 Overlord of the Mistmoors
+1 Phyrexian Arena
+2 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Propaganda
+1 Raffine's Tower
+1 Reconnaissance Mission
+1 Replenish
+1 Rhystic Study
+1 Scrubland
+1 Sea of Clouds
+1 Serra's Sanctum
+1 Sigil of the Empty Throne
+1 Silent Hallcreeper
+1 Sink into Stupor
+1 Smothering Tithe
+1 Soaring Lightbringer
+1 Sol Ring
+1 Space Marine Scout
+1 Sphere of Safety
+1 Starfield of Nyx
+1 Swamp
+1 Swords to Plowshares
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Teferi's Protection
+1 Tithe
+1 Trouble in Pairs
+1 Tundra
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Urza's Saga
+1 Vault of Champions
+1 Virtue of Persistence
+1 Void Rend
+1 Watery Grave
+1 Witch Enchanter
+1 Zur the Enchanter
+
+1 Zur, Eternal Schemer
