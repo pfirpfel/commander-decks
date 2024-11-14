@@ -1,7 +1,6 @@
 1 Ancient Tomb
 1 Arcane Signet
 1 Arid Mesa
-1 Asceticism
 1 Augur of Autumn
 1 Bala Ged Recovery
 1 Balefire Dragon
@@ -16,15 +15,18 @@
 1 Cragcrown Pathway
 1 Cream of the Crop
 1 Darksteel Plate
-1 Deflecting Swat
 1 Disaster Radius
+1 Disciple of Freyalise
 1 Dragonlord Atarka
 1 Drakuseth, Maw of Flames
 1 Druid of Purification
 1 Elemental Bond
+1 Evercoat Ursine
+1 Family's Favor
 1 Farseek
 1 Garruk's Uprising
 1 Gruul Signet
+1 Gruul Turf
 1 Hellkite Tyrant
 1 Heroic Intervention
 1 Highland Forest
@@ -35,15 +37,15 @@
 1 Kenrith's Transformation
 1 Kessig Wolf Run
 1 Kodama of the East Tree
+1 Kogla and Yidaro
 1 Kogla, the Titan Ape
 1 Lurking Predators
-1 Magebane Armor
 1 Manglehorn
 1 Maze of Ith
 1 Mirri's Guile
+1 Mithril Coat
 1 Moraug, Fury of Akoum
 1 Mwonvuli Beast Tracker
-1 Myriad Landscape
 1 Nature's Claim
 1 Nature's Lore
 1 Noxious Revival
@@ -57,14 +59,13 @@
 1 Rogue's Passage
 1 Rootbound Crag
 1 Sakura-Tribe Elder
-1 Savage Ventmaw
 1 Scavenger Grounds
 1 Scourge of the Throne
 1 Scroll Rack
 1 Selvala, Heart of the Wilds
 1 Sensei's Divining Top
 1 Sheltered Thicket
-6 Snow-Covered Forest
+5 Snow-Covered Forest
 6 Snow-Covered Mountain
 1 Sol Ring
 1 Spire Garden
