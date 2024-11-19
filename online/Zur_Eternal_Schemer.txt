@@ -1,14 +1,12 @@
-1 Adarkar Wastes
 1 Alseid of Life's Bounty
 1 Aminatou, Veil Piercer
 1 Ancient Tomb
 1 Anguished Unmaking
 1 Arcane Signet
 1 Archetype of Courage
-1 Azorius Chancery 
+1 Azorius Chancery
 1 Azorius Signet
 1 Cabal Coffers
-1 Caves of Koilos
 1 Claim Jumper
 1 Command Tower
 1 Copy Land
@@ -24,7 +22,7 @@
 1 Entity Tracker
 1 Erebos, God of the Dead
 1 Expedition Map
-1 Fell the Profane 
+1 Fell the Profane
 1 Fierce Guardianship
 1 Flawless Maneuver
 1 Flooded Strand
@@ -68,6 +66,7 @@
 1 Scrubland
 1 Sea of Clouds
 1 Serra's Sanctum
+1 Shadowy Backstreet
 1 Sigil of the Empty Throne
 1 Silent Hallcreeper
 1 Sink into Stupor
@@ -86,6 +85,7 @@
 1 Tithe
 1 Trouble in Pairs
 1 Tundra
+1 Undercity Sewers
 1 Underground Sea
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Cave
