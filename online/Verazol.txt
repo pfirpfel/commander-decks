@@ -12,18 +12,20 @@
 1 Command Tower
 1 Coralhelm Chronicler
 1 Cyclonic Rift
+1 Demolition Field
 1 Depth Defiler
+1 Drowner of Truth
 1 Elfhame Druid
 1 Everflowing Chalice
 1 Fabled Passage
 1 Farseek
 1 Fathom Mage
 1 Field Research
+1 Fierce Guardianship
 1 Fight Rigging
 1 Flooded Grove
-7 Forest
+5 Forest
 1 Forgotten Ancient
-1 Gnarlid Colony
 1 Grow from the Ashes
 1 Gyre Sage
 1 Hadana's Climb
@@ -42,19 +44,18 @@
 1 Karn's Bastion
 1 Kenrith's Transformation
 1 Kodama of the West Tree
-1 Master Biomancer
 1 Misty Rainforest
 1 Mold Shambler
 1 Murasa Sproutling
 1 Myriad Construct
-1 Mystic Sanctuary
+1 Nature's Claim
 1 Nature's Lore
 1 Oran-Rief, the Vastwood
 1 Ordeal of Nylea
 1 Ordeal of Thassa
 1 Ornery Tumblewagg
 1 Pir, Imaginative Rascal
-1 Primal Growth
+1 Prime Speaker Zegana
 1 Rejuvenating Springs
 1 Reliquary Tower
 1 Rite of Replication
@@ -79,9 +80,10 @@
 1 Tropical Island
 1 Turntimber Symbiosis
 1 Twinning Staff
+1 Urban Evolution
 1 Vastwood Surge
-1 Verdeloth the Ancient
 1 Vineshaper Prodigy
+1 Vorinclex, Monstrous Raider
 1 Wastescape Battlemage
 1 Wolfbriar Elemental
 1 Yavimaya Coast
