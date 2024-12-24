@@ -1,4 +1,5 @@
 1 Ancient Tomb
+1 Angel of Destiny
 1 Arcane Signet
 1 Archivist of Oghma
 1 Arid Archway
@@ -26,6 +27,7 @@
 1 Gilraen, Dúnedain Protector
 1 Guide of Souls
 1 Guildless Commons
+1 Helpful Hunter
 1 Inspiring Overseer
 1 Karmic Guide
 1 Karoo
@@ -34,12 +36,12 @@
 1 Loran of the Third Path
 1 Lotus Field
 1 Lotus Vale
-1 Mangara, the Diplomat
 1 Meekstone
 1 Mentor of the Meek
 1 Militia Bugler
 1 Mind Stone
 1 Mirror Entity
+1 Moonshaker Cavalry
 1 Nykthos, Shrine to Nyx
 1 Palace Jailer
 1 Pearl Medallion
@@ -55,7 +57,6 @@
 1 Scholar of New Horizons
 1 Scorched Ruins
 1 Scouting Hawk
-1 Search Party Captain
 1 Skullclamp
 1 Skyclave Apparition
 1 Skyhunter Strike Force
@@ -65,7 +66,6 @@
 1 Space Marine Scout
 1 Spirited Companion
 1 Swords to Plowshares
-1 Tax Collector
 1 Teleportation Circle
 1 The Battle of Bywater
 1 Thraben Charm
