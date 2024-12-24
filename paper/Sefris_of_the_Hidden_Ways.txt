@@ -29,14 +29,15 @@
 1 Glasspool Mimic
 1 Glen Elendra Archmage
 1 Godless Shrine
-1 Grim Servant
 1 Hallowed Fountain
 1 High Market
 1 Hostage Taker
 1 Hour of Revelation
-3 Island
+1 Hydroelectric Specimen
+2 Island
 1 Jirina, Dauntless General
 1 Karmic Guide
+1 Kiora, the Rising Tide
 1 Knight of the White Orchid
 1 Ledger Shredder
 1 Likeness Looter
@@ -52,6 +53,7 @@
 1 Organ Hoarder
 1 Orzhov Basilica
 1 Overcharged Amalgam
+1 Overlord of the Balemurk
 1 Phantasmal Image
 1 Phyrexian Tower
 1 Plaguecrafter
@@ -88,7 +90,6 @@
 1 Underground Sea
 1 Vanquish the Horde
 1 Vault of Champions
-1 Warren Soultrader
 1 Watery Grave
 1 What Must Be Done
 1 White Plume Adventurer
