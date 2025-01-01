@@ -2,7 +2,6 @@
 1 Academy Ruins
 1 An Offer You Can't Refuse
 1 Ancient Tomb
-1 Angelic Destiny
 1 Anguished Unmaking
 1 Arcane Signet
 1 Arcbound Condor
@@ -26,6 +25,7 @@
 1 Damn
 1 Danitha Capashen, Paragon
 1 Deserted Beach
+1 Dimir Aqueduct
 1 Dowsing Dagger
 1 Esper Sentinel
 1 Fell the Profane
@@ -42,7 +42,6 @@
 1 Kemba's Banner
 1 Knight of the White Orchid
 1 Ledger Shredder
-1 Lion Sash
 1 Mantle of the Ancients
 1 Marsh Flats
 1 Meticulous Archive
@@ -51,7 +50,9 @@
 1 Nerd Rage
 1 Nettlecyst
 1 Ocelot Pride
+1 Open the Armory
 1 Orzhov Basilica
+1 Orzhov Signet
 1 Phantom Blade
 3 Plains
 1 Polluted Delta
@@ -64,6 +65,7 @@
 1 Sea of Clouds
 1 Shadowy Backstreet
 1 Shattered Sanctum
+1 Sheltered by Ghosts
 1 Shipwreck Marsh
 1 Sigarda's Aid
 1 Sink into Stupor
@@ -88,10 +90,8 @@
 1 Twisted Embrace
 1 Undercity Sewers
 1 Underground Sea
-1 Unfinished Business
 1 Vault of Champions
 1 Watery Grave
-1 Wayfarer's Bauble
 1 Witch Enchanter
 
 1 Arna Kennerüd, Skycaptain
