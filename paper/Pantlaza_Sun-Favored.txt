@@ -30,7 +30,6 @@
 1 Gruul Signet
 1 Gruul Turf
 1 Guardian Project
-1 Herald's Horn
 1 Heroic Intervention
 1 Hulking Raptor
 1 Hunting Velociraptor
@@ -40,15 +39,16 @@
 1 Kessig Wolf Run
 1 Kogla and Yidaro
 1 Krosan Verge
-1 Lurking Predators
 1 Marauding Raptor
 1 Monster Manual
+1 Mosswort Bridge
 3 Mountain
 1 Nature's Lore
 1 Ondu Inversion
+1 Open the Way
 1 Palani's Hatcher
 1 Path of Ancestry
-3 Plains
+2 Plains
 1 Plateau
 1 Prismatic Vista
 1 Pugnacious Hammerskull
@@ -57,17 +57,19 @@
 1 Ravenous Tyrannosaurus
 1 Regal Behemoth
 1 Regisaur Alpha
-1 Ripjaw Raptor
 1 Rishkar's Expertise
 1 Runic Armasaur
 1 Sacred Foundry
 1 Savannah
 1 Scion of Calamity
 1 Scytheclaw Raptor
+1 Skyshroud Claim
+1 Smuggler's Surprise
 1 Sol Ring
 1 Spectator Seating
 1 Spire Garden
 1 Stomping Ground
+1 Stump Stomp
 1 Sunfrill Imitator
 1 Taiga
 1 Temple Garden
@@ -79,8 +81,8 @@
 1 Topiary Stomper
 1 Tranquil Frillback
 1 Trumpeting Carnosaur
+1 Vaultborn Tyrant
 1 Verdant Sun's Avatar
-1 Wakening Sun's Avatar
 1 Wayward Swordtooth
 1 Welcome to . . .
 1 Wild Growth
@@ -89,7 +91,6 @@
 1 Wooded Bastion
 1 Wooded Foothills
 1 Wrathful Raptors
-1 Yavimaya Hollow
 1 Yavimaya, Cradle of Growth
 
 1 Kaheera, the Orphanguard
