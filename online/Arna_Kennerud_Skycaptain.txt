@@ -2,10 +2,7 @@
 1 Academy Ruins
 1 An Offer You Can't Refuse
 1 Ancient Tomb
-1 Anguished Unmaking
 1 Arcane Signet
-1 Arcbound Condor
-1 Archway of Innovation
 1 Ardenn, Intrepid Archaeologist
 1 Armored Skyhunter
 1 Assassin Gauntlet
@@ -21,24 +18,26 @@
 1 Codsworth, Handy Helper
 1 Combat Research
 1 Command Tower
+1 Curiosity
 1 Cyclonic Rift
 1 Damn
 1 Danitha Capashen, Paragon
-1 Deserted Beach
 1 Dimir Aqueduct
 1 Dowsing Dagger
 1 Esper Sentinel
 1 Fell the Profane
-1 Fellwar Stone
 1 Flooded Strand
+1 Floodfarm Verge
 1 Forge Anew
 1 Glasswing Grace
 1 Glimmer Lens
+1 Gloomlake Verge
 1 Godless Shrine
 1 Gold-Forged Thopteryx
 1 Hallowed Fountain
 1 Halvar, God of Battle
 2 Island
+1 Isolated Chapel
 1 Kemba's Banner
 1 Knight of the White Orchid
 1 Ledger Shredder
@@ -51,11 +50,14 @@
 1 Nettlecyst
 1 Ocelot Pride
 1 Open the Armory
+1 Ordeal of Thassa
 1 Orzhov Basilica
 1 Orzhov Signet
+1 Otawara, Soaring City
 1 Phantom Blade
 3 Plains
 1 Polluted Delta
+1 Pollywog Prodigy
 1 Puresteel Paladin
 1 Raffine's Tower
 1 Ratonhnhaké:ton
@@ -64,9 +66,7 @@
 1 Scrubland
 1 Sea of Clouds
 1 Shadowy Backstreet
-1 Shattered Sanctum
 1 Sheltered by Ghosts
-1 Shipwreck Marsh
 1 Sigarda's Aid
 1 Sink into Stupor
 1 Sol Ring
@@ -74,10 +74,10 @@
 1 Staggering Insight
 1 Stoneforge Mystic
 2 Swamp
+1 Swiftfoot Boots
 1 Sword of Feast and Famine
 1 Sword of Fire and Ice
 1 Sword of Forge and Frontier
-1 Sword of Hearth and Home
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
