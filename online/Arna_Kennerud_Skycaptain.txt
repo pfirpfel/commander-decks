@@ -8,16 +8,15 @@
 1 Assassin Gauntlet
 1 Assimilation Aegis
 1 Azorius Chancery
-1 Azorius Signet
 1 Baleful Strix
 1 Basim Ibn Ishaq
-1 Bojuka Bog
 1 Breena, the Demagogue
 1 Citizen's Crowbar
 1 Claim Jumper
 1 Codsworth, Handy Helper
 1 Combat Research
 1 Command Tower
+1 Conqueror's Flail
 1 Curiosity
 1 Cyclonic Rift
 1 Damn
@@ -25,6 +24,7 @@
 1 Dimir Aqueduct
 1 Dowsing Dagger
 1 Esper Sentinel
+1 Faerie Mastermind
 1 Fell the Profane
 1 Flooded Strand
 1 Floodfarm Verge
@@ -38,9 +38,11 @@
 1 Halvar, God of Battle
 2 Island
 1 Isolated Chapel
+1 Kaya's Ghostform
 1 Kemba's Banner
 1 Knight of the White Orchid
 1 Ledger Shredder
+1 Lórien Revealed
 1 Mantle of the Ancients
 1 Marsh Flats
 1 Meticulous Archive
@@ -57,10 +59,8 @@
 1 Phantom Blade
 3 Plains
 1 Polluted Delta
-1 Pollywog Prodigy
 1 Puresteel Paladin
 1 Raffine's Tower
-1 Ratonhnhaké:ton
 1 Requisition Raid
 1 Rousing Read
 1 Scrubland
