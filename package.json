@@ -4,9 +4,9 @@
   "description": "My deck list collection for the Magic: The Gathering Commander format",
   "main": "index.js",
   "scripts": {
-    "test": "find . -name \"*.txt\" | xargs node_modules/mtgo-deck-formatter/format.js -c",
-    "format-all": "find . -name \"*.txt\" | xargs node_modules/mtgo-deck-formatter/format.js",
-    "format": "node node_modules/mtgo-deck-formatter/format.js"
+    "test": "glob --windows-path-no-escape -c \"mtgo-deck-formatter -c \" {paper,online}/**/*.txt",
+    "format-all": "glob --windows-path-no-escape -c \"mtgo-deck-formatter -w \" {paper,online}/**/*.txt",
+    "format": "mtgo-deck-formatter -w"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/pfirpfel/commander-decks#readme",
   "devDependencies": {
-    "mtgo-deck-formatter": "^2.0.2",
+    "glob": "^11.0.1",
+    "mtgo-deck-formatter": "^2.0.3",
     "pre-commit": "^1.2.2"
   }
 }
