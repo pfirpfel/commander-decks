@@ -1,0 +1,92 @@
+1 Aggravated Assault
+1 Aqueous Form
+1 Arcane Signet
+1 Beast Within
+1 Bident of Thassa
+1 Blasphemous Act
+1 Bloodthirsty Blade
+1 Brainstorm
+1 Breeding Pool
+1 Castle Vantress
+1 Cavalier of Gales
+1 Chaos Warp
+1 Collective Restraint
+1 Command Tower
+1 Courser of Kruphix
+1 Cultivate
+1 Cunning Evasion
+1 Cyclonic Rift
+1 Disrupt Decorum
+1 Dream Cache
+1 Druids' Repository
+1 Etali, Primal Storm
+1 Evacuation
+1 Expel from Orazca
+1 Fabled Passage
+1 Farseek
+4 Forest
+1 Frontier Bivouac
+1 Fumiko the Lowblood
+1 Fury of the Horde
+1 Future Sight
+1 Grenzo, Havoc Raiser
+1 Halimar Depths
+1 Hinterland Harbor
+1 Hour of Devastation
+4 Island
+1 Jace, the Mind Sculptor
+1 Kazuul, Tyrant of the Cliffs
+1 Ketria Triome
+1 Kodama's Reach
+1 Memory Lapse
+1 Misty Rainforest
+4 Mountain
+1 Mystic Remora
+1 Nature's Lore
+1 Nature's Will
+1 Noxious Revival
+1 Oracle of Mul Daya
+1 Path of Ancestry
+1 Ponder
+1 Pondering Mage
+1 Predatory Impetus
+1 Prismatic Vista
+1 Propaganda
+1 Psychic Impetus
+1 Rampant Growth
+1 Reality Shift
+1 Relentless Assault
+1 Reliquary Tower
+1 Rhystic Study
+1 Rogue's Passage
+1 Rootbound Crag
+1 Savage Beating
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Shiny Impetus
+1 Sol Ring
+1 Steam Vents
+1 Stomping Ground
+1 Sulfur Falls
+1 Sword of Feast and Famine
+1 Sylvan Library
+1 Taiga
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Temporal Spring
+1 Temur Charm
+1 Thassa, God of the Sea
+1 Three Visits
+1 Totally Lost
+1 Tropical Island
+1 Trove of Temptation
+1 Vigor
+1 Volcanic Island
+1 Windfall
+1 Wonder
+1 Wooded Foothills
+1 Zhalfirin Void
+
+1 Haldan, Avid Arcanist
+1 Pako, Arcane Retriever
