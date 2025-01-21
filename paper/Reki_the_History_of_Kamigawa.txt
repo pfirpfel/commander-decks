@@ -1,3 +1,4 @@
+1 Abstergo Entertainment
 1 Akroma's Memorial
 1 Ancient Tomb
 1 Archdruid's Charm
@@ -5,36 +6,39 @@
 1 Bala Ged Recovery
 1 Bitterthorn, Nissa's Animus
 1 Boseiju, Who Endures
+1 Bridgeworks Battle
 1 Caged Sun
 1 Castle Garenbrig
+1 Delighted Halfling
+1 Disciple of Freyalise
 1 Doric, Nature's Warden
 1 Durnan of the Yawning Portal
+1 Eladamri, Korvecdal
+1 Elvish Mystic
 1 Emerald Medallion
 1 Exploration
 1 Eye of Vecna
 1 Ezuri's Predation
 1 Finale of Devastation
+1 Fyndhorn Elves
 1 Gaea's Touch
 1 Garruk Wildspeaker
 1 Garruk, Primal Hunter
 1 Gilanra, Caller of Wirewood
-1 God-Eternal Rhonas
 1 Goreclaw, Terror of Qal Sisma
 1 Growing Rites of Itlimoc
 1 Gwenna, Eyes of Gaea
 1 Halana, Kessig Ranger
 1 Heroes' Podium
 1 Heroic Intervention
-1 Jolrael, Mwonvuli Recluse
 1 Kamahl's Druidic Vow
 1 Kamahl, Fist of Krosa
-1 Kamahl, Heart of Krosa
 1 Kenrith's Transformation
 1 Kodama of the East Tree
 1 Kogla, the Titan Ape
 1 Kolvori, God of Kinship
+1 Loot, Exuberant Explorer
 1 Mana Reflection
-1 Mana Vault
 1 Mirror of Galadriel
 1 Mox Amber
 1 Nature's Lore
@@ -44,6 +48,7 @@
 1 Nykthos, Shrine to Nyx
 1 Nylea, Keen-Eyed
 1 Oath of Nissa
+1 Ojer Kaslem, Deepest Growth
 1 Old Gnawbone
 1 Pest Infestation
 1 Relic of Legends
@@ -55,28 +60,24 @@
 1 Saryth, the Viper's Fang
 1 Scavenger Grounds
 1 Selvala, Heart of the Wilds
-1 Shadowspear
 1 Shigeki, Jukai Visionary
-20 Snow-Covered Forest
+1 Six
+19 Snow-Covered Forest
 1 Sol Ring
-1 Tectonic Edge
+1 Strip Mine
 1 The Great Henge
 1 The Irencrag
 1 The One Ring
+1 The Ring Goes South
 1 Three Visits
 1 Toski, Bearer of Secrets
-1 Tranquil Thicket
 1 Turntimber Symbiosis
+1 Tyvar, the Pummeler
 1 Untaidake, the Cloud Keeper
 1 Utopia Sprawl
 1 Vivien Reid
-1 Vorinclex
-1 Vorinclex, Monstrous Raider
 1 War Room
-1 Wasteland
 1 Wild Growth
-1 Yavimaya Hollow
 1 Yavimaya, Cradle of Growth
-1 Yeva, Nature's Herald
 
 1 Reki, the History of Kamigawa
