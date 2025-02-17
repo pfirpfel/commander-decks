@@ -17,7 +17,6 @@
 1 Champion of Wits
 1 Claim Jumper
 1 Command Tower
-1 Deep Gnome Terramancer
 1 Deserted Beach
 1 Dimir Aqueduct
 1 Doomed Necromancer
@@ -30,6 +29,7 @@
 1 Glen Elendra Archmage
 1 Godless Shrine
 1 Hallowed Fountain
+1 Hashaton, Scarab's Fist
 1 High Market
 1 Hostage Taker
 1 Hour of Revelation
@@ -53,7 +53,6 @@
 1 Organ Hoarder
 1 Orzhov Basilica
 1 Overcharged Amalgam
-1 Overlord of the Balemurk
 1 Phantasmal Image
 1 Phyrexian Tower
 1 Plaguecrafter
@@ -90,6 +89,7 @@
 1 Underground Sea
 1 Vanquish the Horde
 1 Vault of Champions
+1 Vohar, Vodalian Desecrator
 1 Watery Grave
 1 What Must Be Done
 1 White Plume Adventurer
