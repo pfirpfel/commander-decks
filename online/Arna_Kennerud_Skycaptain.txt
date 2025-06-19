@@ -1,7 +1,6 @@
 1 Abstergo Entertainment
 1 Academy Ruins
 1 An Offer You Can't Refuse
-1 Ancient Tomb
 1 Arcane Signet
 1 Ardenn, Intrepid Archaeologist
 1 Armored Skyhunter
@@ -10,9 +9,12 @@
 1 Azorius Chancery
 1 Baleful Strix
 1 Basim Ibn Ishaq
+1 Bleachbone Verge
 1 Breena, the Demagogue
+1 Buster Sword
 1 Citizen's Crowbar
 1 Claim Jumper
+1 Cloud, Midgar Mercenary
 1 Codsworth, Handy Helper
 1 Combat Research
 1 Command Tower
@@ -33,13 +35,11 @@
 1 Glimmer Lens
 1 Gloomlake Verge
 1 Godless Shrine
-1 Gold-Forged Thopteryx
 1 Hallowed Fountain
 1 Halvar, God of Battle
 2 Island
 1 Isolated Chapel
 1 Kaya's Ghostform
-1 Kemba's Banner
 1 Knight of the White Orchid
 1 Ledger Shredder
 1 Lórien Revealed
@@ -82,7 +82,7 @@
 1 Talisman of Hierarchy
 1 Talisman of Progress
 1 Teferi's Protection
-1 The Key to the Vault
+1 Thief's Knife
 1 Thieving Skydiver
 1 Thran Power Suit
 1 Toxic Deluge
