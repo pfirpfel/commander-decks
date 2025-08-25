@@ -14,46 +14,46 @@
 1 Cityscape Leveler
 1 Combustible Gearhulk
 1 Command Tower
+1 Cryogen Relic
 1 Cursed Mirror
 1 Cyclonic Rift
-1 Dalakos, Crafter of Wonders
 1 Emry, Lurker of the Loch
 1 Esoteric Duplicator
 1 Fable of the Mirror-Breaker
+1 Fellwar Stone
 1 Fomori Vault
 1 Fury
 1 Gilded Lotus
-1 Gleaming Geardrake
 1 Goblin Welder
-1 Goldspan Dragon
 1 Great Furnace
 1 Ichor Wellspring
 1 Idol of Oblivion
 1 Inventors' Fair
-4 Island
+3 Island
 1 Izzet Boilerworks
 1 Izzet Signet
 1 Legion Extruder
 1 Lightning Greaves
 1 Lórien Revealed
-1 Mana Crypt
 1 Mana Drain
+1 Melded Moxite
 1 Meteor Golem
 1 Midnight Clock
 1 Minamo, School at Water's Edge
 1 Mind Stone
 1 Mishra's Workshop
-1 Molten Duplication
 6 Mountain
 1 Mox Amber
 1 Mox Opal
 1 Myr Battlesphere
+1 Myr Retriever
 1 Otawara, Soaring City
 1 Phyrexian Metamorph
 1 Pinnacle Monk
 1 Portal to Phyrexia
 1 Prismatic Vista
 1 Riverglide Pathway
+1 Riverpyre Verge
 1 Scalding Tarn
 1 Scrap Trawler
 1 Sculpting Steel
@@ -71,7 +71,6 @@
 1 Stormcarved Coast
 1 Sulfur Falls
 1 Sundial of the Infinite
-1 Swiftfoot Boots
 1 Talisman of Creativity
 1 Terror of the Peaks
 1 The Everflowing Well
@@ -86,7 +85,9 @@
 1 Transmutation Font
 1 Trumpeting Carnosaur
 1 Urza's Saga
+1 Uthros, Titanic Godcore
 1 Volcanic Island
+1 Warmaker Gunship
 1 Worldwalker Helm
 1 Wurmcoil Engine
 
