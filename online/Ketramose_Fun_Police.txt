@@ -75,7 +75,6 @@
 1 Solitude
 1 Space Marine Scout
 1 Spirited Companion
-1 Starfall Invocation
 1 Summon: Bahamut
 1 Summon: Primal Odin
 1 Summon: Yojimbo
@@ -90,6 +89,7 @@
 1 Wall of Omens
 1 Wayfarer's Bauble
 1 Weathered Wayfarer
+1 What Must Be Done
 1 Witch Enchanter
 
 1 Ketramose, the New Dawn
