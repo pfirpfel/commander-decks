@@ -1,6 +1,7 @@
 1 Abstergo Entertainment
 1 Academy Ruins
 1 An Offer You Can't Refuse
+1 Angler's Shield
 1 Arcane Signet
 1 Ardenn, Intrepid Archaeologist
 1 Armored Skyhunter
@@ -28,6 +29,7 @@
 1 Esper Sentinel
 1 Faerie Mastermind
 1 Fell the Profane
+1 Flare of Fortitude
 1 Flooded Strand
 1 Floodfarm Verge
 1 Forge Anew
@@ -36,7 +38,6 @@
 1 Gloomlake Verge
 1 Godless Shrine
 1 Hallowed Fountain
-1 Halvar, God of Battle
 1 Hengegate Pathway
 1 Ishgard, the Holy See
 2 Island
@@ -49,6 +50,7 @@
 1 Meticulous Archive
 1 Monumental Henge
 1 Morphic Pool
+1 Mystery Key
 1 Nerd Rage
 1 Nettlecyst
 1 Ocelot Pride
@@ -82,8 +84,6 @@
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
-1 Teferi's Protection
-1 Thief's Knife
 1 Thieving Skydiver
 1 Thran Power Suit
 1 Toxic Deluge

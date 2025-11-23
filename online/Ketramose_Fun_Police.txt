@@ -74,10 +74,10 @@
 1 Solitude
 1 Space Marine Scout
 1 Spirited Companion
-1 Summon: Bahamut
 1 Summon: Primal Odin
 1 Sun Titan
 1 Susur Secundi, Void Altar
+1 Swords to Plowshares
 1 Teleportation Circle
 1 The Terminus of Return
 1 Trouble in Pairs
