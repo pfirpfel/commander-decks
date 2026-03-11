@@ -85,6 +85,7 @@
 1 Toxrill, the Corrosive
 1 Troll of Khazad-dûm
 1 Tundra
+1 Twilight Diviner
 1 Undercity Sewers
 1 Underground Sea
 1 Vanquish the Horde
@@ -93,7 +94,6 @@
 1 Warren Soultrader
 1 Watery Grave
 1 What Must Be Done
-1 White Plume Adventurer
 1 Witch Enchanter
 
 1 Sefris of the Hidden Ways
