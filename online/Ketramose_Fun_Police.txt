@@ -48,14 +48,13 @@
 1 Marsh Flats
 1 Mind Stone
 1 Night's Whisper
+1 Northampton Farm
 1 Ondu Inversion
 1 Orzhov Basilica
 1 Parting Gust
 1 Planar Cleansing
 1 Puppeteer Clique
 1 Qoneus, Horizon Splicer
-1 Read the Bones
-1 Relic of Progenitus
 1 Scavenger Grounds
 1 Scorched Ruins
 1 Scouting Hawk
@@ -67,7 +66,7 @@
 1 Sheoldred
 1 Skyclave Apparition
 5 Snow-Covered Plains
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 1 Snowfield Sinkhole
 1 Sol Ring
 1 Solemn Simulacrum
@@ -79,6 +78,8 @@
 1 Susur Secundi, Void Altar
 1 Swords to Plowshares
 1 Teleportation Circle
+1 The Legend of Yangchen
+1 The Ooze
 1 The Terminus of Return
 1 Trouble in Pairs
 1 Urborg, Tomb of Yawgmoth
