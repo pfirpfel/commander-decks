@@ -1,90 +1,91 @@
-1 Academy Manufactor
-1 Ancient Tomb
+1 Adagia, Windswept Bastion
 1 Anointed Procession
 1 Arcane Signet
 1 Ashnod's Altar
-1 Beast Within
 1 Birthing Pod
+1 Birthing Ritual
 1 Blade Splicer
-1 Blasting Station
+1 Boromir, Warden of the Tower
 1 Boseiju, Who Endures
 1 Bountiful Promenade
 1 Breeding Pool
 1 Cankerbloom
+1 Caretaker's Talent
+1 Clifftop Lookout
 1 Coiling Oracle
 1 Command Tower
-1 Cradle Clearcutter
-1 Cultivate
-1 Cyclonic Rift
+1 Curiosity Crafter
 1 Darksteel Splicer
-1 Deserted Beach
+1 Dawntreader Elk
 1 Disciple of Freyalise
-1 Dreamroot Cascade
+1 Duplicant
 1 Eiganjo, Seat of the Empire
 1 Esper Sentinel
 1 Eternal Witness
+1 Evendo, Waking Haven
 1 Evolutionary Leap
+1 Exalted Sunborn
 1 Farseek
-1 Fierce Guardianship
-1 Flawless Maneuver
 1 Flooded Strand
-4 Forest
+3 Forest
 1 Foundation Breaker
-1 Generous Gift
-1 Gilded Goose
 1 Hallowed Fountain
 1 Haywire Mite
+1 Hedge Maze
 1 High Market
 1 Ich-Tekik, Salvage Splicer
 3 Island
-1 Kodama's Reach
 1 Krosan Verge
+1 Losheel, Clockwork Scholar
+1 Lush Portico
 1 Malcator, Purity Overseer
 1 Master Splicer
-1 Maul Splicer
 1 Meteor Golem
+1 Meticulous Archive
 1 Misty Rainforest
 1 Mondrak, Glory Dominus
 1 Moonshaker Cavalry
 1 Motivated Pony
 1 Mulldrifter
+1 Muster the Departed
 1 Nature's Lore
 1 Nesting Dovehawk
+1 Noble Hierarch
+1 Ocelot Pride
+1 Octomancer
 1 Oltec Matterweaver
 1 Ondu Inversion
 1 Open the Way
 1 Otawara, Soaring City
-1 Overgrown Farmland
 1 Parallel Lives
 1 Phyrexian Altar
 3 Plains
 1 Prime Speaker Vannifar
-1 Pyre of Heroes
 1 Rampant Growth
 1 Rejuvenating Springs
-1 Rootwire Amalgam
+1 Rootcast Apprenticeship
 1 Sakura-Tribe Elder
 1 Sandstorm Salvager
 1 Savannah
 1 Sea of Clouds
+1 Season of Weaving
 1 Selesnya Sanctuary
 1 Selfless Spirit
-1 Sensor Splicer
 1 Skullclamp
+1 Skyclave Apparition
 1 Sol Ring
 1 Solemn Simulacrum
 1 Solitude
 1 Spara's Headquarters
-1 Swan Song
 1 Swords to Plowshares
 1 Temple Garden
 1 Thought Monitor
 1 Three Visits
-1 Triplicate Titan
 1 Tropical Island
 1 Tundra
 1 Uro, Titan of Nature's Wrath
 1 Urza's Saga
+1 Viridian Emissary
 1 Vital Splicer
 1 Windswept Heath
 1 Wing Splicer
