@@ -13,6 +13,7 @@
 1 Brotherhood Regalia
 1 Cavern Whisperer
 1 Chittering Harvester
+1 Collective Resistance
 1 Combat Research
 1 Command Tower
 1 Counterspell
@@ -26,7 +27,6 @@
 1 Farseek
 1 Favor of the Overbeing
 1 Fell the Profane
-1 Forgotten Ancient
 1 Gemrazer
 1 Glasspool Mimic
 1 Glowstone Recluse
@@ -39,40 +39,40 @@
 1 Lavaspur Boots
 1 Migratory Greathorn
 1 Mindleecher
+1 Mirror Room // Fractured Realm
 1 Mistrise Village
 1 Misty Rainforest
 1 Morphic Pool
 1 Nature's Lore
 1 Negate
+1 No Mercy
 1 Oko, Thief of Crowns
 1 Otrimi, the Ever-Playful
 1 Overgrown Tomb
 1 Planar Genesis
 1 Polluted Delta
 1 Pouncing Shoreshark
+1 Quasiduplicate
 1 Rampant Growth
 1 Rancor
 1 Rejuvenating Springs
 1 Royal Treatment
-1 Sab-Sunen, Luxa Embodied
-1 Sakashima of a Thousand Faces
 1 Sakura-Tribe Elder
 1 Sawtusk Demolisher
 1 Shared Roots
 1 Shizo, Death's Storehouse
+1 Silent Hallcreeper
 1 Simic Growth Chamber
-1 Skyshroud Claim
 1 Slip Out the Back
-1 Slippery Bogbonder
 1 Snakeskin Veil
 5 Snow-Covered Forest
 2 Snow-Covered Island
 2 Snow-Covered Swamp
 1 Sol Ring
-1 Spark Double
 1 Swan Song
 1 Swiftfoot Boots
 1 Tear Asunder
+1 Three Steps Ahead
 1 Three Visits
 1 Toski, Bearer of Secrets
 1 Tropical Island
