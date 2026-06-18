@@ -36,15 +36,14 @@
 1 Hedge Maze
 1 Hinterland Harbor
 1 Indomitable Might
-1 Lavaspur Boots
 1 Migratory Greathorn
 1 Mindleecher
 1 Mirror Room // Fractured Realm
 1 Mistrise Village
 1 Misty Rainforest
 1 Morphic Pool
+1 Mystic Remora
 1 Nature's Lore
-1 Negate
 1 No Mercy
 1 Oko, Thief of Crowns
 1 Otrimi, the Ever-Playful
@@ -59,6 +58,7 @@
 1 Royal Treatment
 1 Sakura-Tribe Elder
 1 Sawtusk Demolisher
+1 Shadowspear
 1 Shared Roots
 1 Shizo, Death's Storehouse
 1 Silent Hallcreeper
