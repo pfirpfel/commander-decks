@@ -2,18 +2,20 @@
 1 Adaptive Omnitool
 1 Adarkar Wastes
 1 Ancient Den
+1 Angel of the Ruins
 1 Arcane Signet
+1 Artificer Class
 1 Bident of Thassa
 1 Command Tower
 1 Cyberdrive Awakener
-1 Desynchronization
+1 Dance of the Manse
+1 Deserted Beach
 1 Digsite Engineer
 1 Eiganjo, Seat of the Empire
 1 Emry, Lurker of the Loch
 1 Esper Sentinel
+1 Essence Reliquary
 1 Etherium Sculptor
-1 Ethersworn Canonist
-1 Ethersworn Sphinx
 1 Flooded Strand
 1 Floodfarm Verge
 1 Fomori Vault
@@ -22,9 +24,7 @@
 1 Fugitive Droid
 1 Gingerbrute
 1 Glacial Fortress
-1 Gold-Forged Thopteryx
 1 Hallowed Fountain
-1 Hangarback Walker
 1 Hedron Archive
 1 Hengegate Pathway
 1 Hope of Ghirapur
@@ -33,62 +33,63 @@
 5 Island
 1 Jhoira's Familiar
 1 Kappa Cannoneer
+1 Lonely Arroyo
 1 Lórien Revealed
-1 Master of Etherium
-1 Merchant's Dockhand
+1 Mandibular Kite
 1 Meticulous Archive
 1 Midnight Clock
 1 Mind Stone
+1 Monumental Henge
 1 Mox Amber
 1 Mox Opal
+1 Mystery Key
 1 Mystic Forge
 1 Mystic Gate
+1 Oltec Matterweaver
 1 Organic Extinction
 1 Otawara, Soaring City
-1 Padeem, Consul of Innovation
 1 Path to Exile
 1 Phyrexian Metamorph
-4 Plains
+3 Plains
+1 Racers' Scoreboard
 1 Razortide Bridge
-1 Reality Heist
 1 Relic of Legends
 1 Repurposing Bay
 1 Research Thief
 1 Riptide Gearhulk
 1 Sai, Master Thopterist
+1 Salvation Engine
 1 Scrawling Crawler
 1 Sculpting Steel
 1 Sea of Clouds
 1 Seachrome Coast
 1 Seat of the Synod
-1 Sensei's Divining Top
 1 Shadowspear
+1 Sicarian Infiltrator
 1 Silver Raven
 1 Simulacrum Synthesizer
 1 Sink into Stupor
 1 Skrelv, Defector Mite
 1 Skullclamp
-1 Skycloud Expanse
 1 Sol Ring
 1 Solemn Simulacrum
 1 Staff of the Storyteller
+1 Stock Up
+1 Stonecoil Serpent
 1 Swan Song
 1 Swords to Plowshares
 1 The Mightstone and Weakstone
 1 The Mycosynth Gardens
 1 Thought Monitor
 1 Thoughtcast
-1 Three Steps Ahead
+1 Thran Dynamo
 1 Treasure Vault
 1 Ultron, Artificial Malevolence
-1 Unctus, Grand Metatect
 1 Urza's Saga
 1 Urza, Lord High Artificer
-1 Urza, Lord Protector
+1 Uthros Research Craft
 1 Uthros, Titanic Godcore
-1 Voyage Home
 1 Voyager Quickwelder
-1 Whir of Invention
 1 Witch Enchanter
 
 1 Mendicant Core, Guidelight
