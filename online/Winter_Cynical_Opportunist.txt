@@ -1,0 +1,98 @@
+1 Amzu, Swarm's Hunger
+1 Animate Dead
+1 Arcane Signet
+1 Archon of Cruelty
+1 Assassin's Trophy
+1 Bala Ged Recovery
+1 Bayou
+1 Boggart Trawler
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Cache Grab
+1 Colossal Grave-Reaver
+1 Command Tower
+1 Convert to Slime
+1 Darkmoss Bridge
+1 Darksteel Citadel
+1 Deathcap Glade
+1 Demolisher Spawn
+1 Demonic Covenant
+1 Dryad Arbor
+1 Eyeblight's Ending
+1 Fell the Profane
+3 Forest
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Grapple with the Past
+1 Grave Betrayal
+1 Grave Researcher
+1 Greater Tanuki
+1 Grisly Salvage
+1 Grist, the Hunger Tide
+1 Haywire Mite
+1 Hedge Shredder
+1 Heroic Intervention
+1 Invasion of Fiora
+1 Key to the City
+1 Life from the Loam
+1 Lightning Greaves
+1 Lignify
+1 Llanowar Wastes
+1 Lumra, Bellow of the Woods
+1 Malevolent Rumble
+1 Marsh Flats
+1 Massacre Wurm
+1 Matzalantli, the Great Door
+1 Millikin
+1 Misty Rainforest
+1 Mulch
+1 Necron Deathmark
+1 Night's Whisper
+1 Noxious Gearhulk
+1 Nyx Weaver
+1 Overgrown Tomb
+1 Overlord of the Balemurk
+1 Palantír of Orthanc
+1 Polluted Cistern // Dim Oubliette
+1 Polluted Delta
+1 Portal to Phyrexia
+1 Reanimate
+1 Revitalizing Repast
+1 Ripples of Undeath
+1 Rise of the Witch-king
+1 Sakura-Tribe Elder
+1 Sanctum Weaver
+1 Sandwurm Convergence
+1 Satyr Wayfinder
+1 Shifting Woodland
+1 Shigeki, Jukai Visionary
+1 Shizo, Death's Storehouse
+1 Six
+1 Smuggler's Surprise
+1 Sol Ring
+1 Stitcher's Supplier
+1 Summon: Bahamut
+1 Summon: Titan
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 The Terminus of Return
+1 The World Spell
+1 Toxic Deluge
+1 Tree of Tales
+1 Turbulent Fen
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Valgavoth's Lair
+1 Valgavoth, Terror Eater
+1 Vault of Whispers
+1 Verdant Catacombs
+1 Vernal Fen
+1 Virtue of Persistence
+1 Wastewood Verge
+1 Whip of Erebos
+1 Winding Way
+1 Windswept Heath
+1 Wondrous Crucible
+1 Wrenn and Seven
+
+1 Winter, Cynical Opportunist
