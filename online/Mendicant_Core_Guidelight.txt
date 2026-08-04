@@ -24,6 +24,7 @@
 1 Forensic Gadgeteer
 1 Foundry Inspector
 1 Fugitive Droid
+1 Gilded Lotus
 1 Gingerbrute
 1 Glacial Fortress
 1 Hallowed Fountain
@@ -70,7 +71,6 @@
 1 Simulacrum Synthesizer
 1 Sink into Stupor
 1 Skrelv, Defector Mite
-1 Skullclamp
 1 Sol Ring
 1 Solemn Simulacrum
 1 Staff of the Storyteller
