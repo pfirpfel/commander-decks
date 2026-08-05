@@ -1,0 +1,90 @@
+1 Arasta of the Endless Web
+1 Arcane Signet
+1 Arid Mesa
+1 Aura of Silence
+1 Blind Obedience
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brilliant Restoration
+1 Brushland
+1 Burgeoning
+1 Cache Grab
+1 Command Beacon
+1 Command Tower
+1 Commune with the Gods
+1 Destiny Spinner
+1 Dredger's Insight
+1 Eidolon of Blossoms
+1 Elspeth Conquers Death
+1 Enchantress's Presence
+1 Eternal Witness
+1 Exotic Orchard
+1 Fall of the Thran
+1 Flawless Maneuver
+1 Flooded Strand
+7 Forest
+1 Garnet, Princess of Alexandria
+1 Ghostly Prison
+1 Grapple with the Past
+1 Grasp of Fate
+1 Hall of Heliod's Generosity
+1 Ishgard, the Holy See
+1 Jukai Naturalist
+1 Karmic Guide
+1 Kruphix's Insight
+1 Lush Portico
+1 Malevolent Rumble
+1 Mirari's Wake
+1 Mulch
+1 Nature's Lore
+1 Nesting Grounds
+1 Nyxbloom Ancient
+1 Ondu Spiritdancer
+1 Overgrown Farmland
+1 Overlord of the Hauntwoods
+1 Overlord of the Mistmoors
+1 Overwhelming Splendor
+1 Parallax Wave
+6 Plains
+1 Power Conduit
+1 Privileged Position
+1 Replenish
+1 Sanctum Weaver
+1 Sandwurm Convergence
+1 Satyr Wayfinder
+1 Savannah
+1 Shifting Woodland
+1 Shigeki, Jukai Visionary
+1 Sol Ring
+1 Sphere of Safety
+1 Spirited Companion
+1 Starfield of Nyx
+1 Static Prison
+1 Sterling Grove
+1 Strength of the Harvest
+1 Summon: Bahamut
+1 Summon: Good King Mog XII
+1 Summon: Ixion
+1 Summon: Knights of Round
+1 Summon: Titan
+1 Summon: Yojimbo
+1 Sunpetal Grove
+1 Survival of the Fittest
+1 Swords to Plowshares
+1 Sythis, Harvest's Hand
+1 Talisman of Unity
+1 Teachings of the Kirin
+1 Temple Garden
+1 The Binding of the Titans
+1 Three Visits
+1 Town Greeter
+1 Utopia Sprawl
+1 Verdant Catacombs
+1 Verduran Enchantress
+1 Weaver of Harmony
+1 Wild Growth
+1 Windswept Heath
+1 Witch Enchanter
+1 Wooded Foothills
+
+1 Yuna, Hope of Spira
