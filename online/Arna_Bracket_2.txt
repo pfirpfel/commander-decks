@@ -1,7 +1,6 @@
 1 Abstergo Entertainment
 1 Academy Ruins
 1 An Offer You Can't Refuse
-1 Angler's Shield
 1 Arcane Signet
 1 Ardenn, Intrepid Archaeologist
 1 Assassin Gauntlet
@@ -80,6 +79,7 @@
 1 Sword of Feast and Famine
 1 Sword of Fire and Ice
 1 Sword of Forge and Frontier
+1 Swordsman's Steel
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
