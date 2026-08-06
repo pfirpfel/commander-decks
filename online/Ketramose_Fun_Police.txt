@@ -1,6 +1,5 @@
 1 Accursed Marauder
 1 Aerial Extortionist
-1 All-Fates Stalker
 1 Angel of the Ruins
 1 Anticausal Vestige
 1 Arid Archway
@@ -16,29 +15,28 @@
 1 Claim Jumper
 1 Cloudshift
 1 Command Tower
-1 Commander's Sphere
-1 Court of Ardenvale
 1 Crabomination
 1 Dauthi Voidwalker
+1 Deadly Rollick
 1 Demolition Field
 1 Devastating Mastery
+1 Eclipsed Steppe
 1 Eerie Interlude
 1 Emperor of Bones
 1 Ephemerate
 1 Esper Sentinel
 1 Expedition Map
-1 Farewell
 1 Fell the Profane
 1 Fetid Heath
 1 Final Showdown
 1 Flagstones of Trokair
+1 Fortune, Loyal Steed
 1 Ghost Vacuum
 1 Godless Shrine
 1 Gonti, Lord of Luxury
 1 Great Arashin City
 1 Helpful Hunter
 1 Hour of Revelation
-1 Insatiable Avarice
 1 Isolated Chapel
 1 Junji, the Midnight Sky
 1 Knight of the White Orchid
@@ -53,10 +51,11 @@
 1 Ondu Inversion
 1 Orzhov Basilica
 1 Parting Gust
+1 Phelia, Exuberant Shepherd
 1 Planar Cleansing
 1 Puppeteer Clique
 1 Qoneus, Horizon Splicer
-1 Scavenger Grounds
+1 Raven Eagle
 1 Scorched Ruins
 1 Scouting Hawk
 1 Scrubland
@@ -67,21 +66,22 @@
 1 Skyclave Apparition
 5 Snow-Covered Plains
 2 Snow-Covered Swamp
-1 Snowfield Sinkhole
 1 Sol Ring
 1 Solemn Simulacrum
 1 Solitude
 1 Space Marine Scout
-1 Spirited Companion
 1 Summon: Primal Odin
 1 Sun Titan
 1 Susur Secundi, Void Altar
 1 Swords to Plowshares
+1 Tataru Taru
 1 Teleportation Circle
 1 The Legend of Yangchen
+1 The Mind Stone
 1 The Ooze
 1 The Terminus of Return
 1 Trouble in Pairs
+1 Turbulent Moor
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Cave
 1 Urza's Saga
