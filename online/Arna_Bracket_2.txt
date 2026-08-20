@@ -1,5 +1,4 @@
 1 Abstergo Entertainment
-1 Academy Ruins
 1 Adaptive Omnitool
 1 An Offer You Can't Refuse
 1 Arcane Signet
@@ -72,6 +71,7 @@
 1 Sheltered by Ghosts
 1 Sigarda's Aid
 1 Sink into Stupor
+1 Skateboard
 1 Sol Ring
 1 Sram, Senior Edificer
 1 Staggering Insight
