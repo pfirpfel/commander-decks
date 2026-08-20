@@ -37,12 +37,12 @@
 1 Kediss, Emberclaw Familiar
 1 Leap
 1 Mana Geyser
-1 Marang River Regent // Coil and Catch
+1 Marang River Regent
 7 Mountain
 1 Mulldrifter
 1 Mystic Sanctuary
 1 Nevermaker
-1 Pinnacle Monk // Mystic Peak
+1 Pinnacle Monk
 1 Ponder
 1 Pongify
 1 Port Razer
