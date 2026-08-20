@@ -1,5 +1,6 @@
 1 Abstergo Entertainment
 1 Academy Ruins
+1 Adaptive Omnitool
 1 An Offer You Can't Refuse
 1 Arcane Signet
 1 Ardenn, Intrepid Archaeologist
@@ -9,7 +10,7 @@
 1 Baleful Strix
 1 Basim Ibn Ishaq
 1 Bleachbone Verge
-1 Breena, the Demagogue
+1 Brotherhood Outcast
 1 Buster Sword
 1 Chains of Custody
 1 Citizen's Crowbar
@@ -24,13 +25,13 @@
 1 Danitha Capashen, Paragon
 1 Dimir Aqueduct
 1 Dowsing Dagger
+1 Dragonfire Blade
 1 Esper Sentinel
 1 Faerie Mastermind
 1 Fell the Profane
 1 Flare of Fortitude
 1 Flooded Strand
 1 Floodfarm Verge
-1 Forge Anew
 1 Glasswing Grace
 1 Glimmer Lens
 1 Gloomlake Verge
@@ -41,7 +42,9 @@
 2 Island
 1 Kaya's Ghostform
 1 Knight of the White Orchid
+1 Kíli the Resourceful
 1 Ledger Shredder
+1 Lion Sash
 1 Lórien Revealed
 1 Mantle of the Ancients
 1 Marsh Flats
@@ -52,7 +55,6 @@
 1 Nerd Rage
 1 Nettlecyst
 1 Ocelot Pride
-1 Open the Armory
 1 Ordeal of Thassa
 1 Orzhov Basilica
 1 Orzhov Signet
@@ -76,8 +78,6 @@
 1 Stoneforge Mystic
 2 Swamp
 1 Swiftfoot Boots
-1 Sword of Feast and Famine
-1 Sword of Fire and Ice
 1 Sword of Forge and Frontier
 1 Swordsman's Steel
 1 Talisman of Dominance
