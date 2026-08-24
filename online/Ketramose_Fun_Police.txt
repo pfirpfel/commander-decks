@@ -20,7 +20,6 @@
 1 Deadly Rollick
 1 Demolition Field
 1 Devastating Mastery
-1 Eclipsed Steppe
 1 Eerie Interlude
 1 Emperor of Bones
 1 Ephemerate
@@ -40,10 +39,10 @@
 1 Isolated Chapel
 1 Junji, the Midnight Sky
 1 Knight of the White Orchid
+1 Lazotep Quarry
 1 Loran of the Third Path
 1 Lotus Field
 1 Lotus Vale
-1 Loyal Warhound
 1 Marsh Flats
 1 Mind Stone
 1 Night's Whisper
@@ -56,6 +55,8 @@
 1 Puppeteer Clique
 1 Qoneus, Horizon Splicer
 1 Raven Eagle
+1 Sand Scout
+1 Scavenger Grounds
 1 Scorched Ruins
 1 Scouting Hawk
 1 Scrubland
@@ -72,7 +73,6 @@
 1 Space Marine Scout
 1 Summon: Primal Odin
 1 Sun Titan
-1 Susur Secundi, Void Altar
 1 Swords to Plowshares
 1 Tataru Taru
 1 Teleportation Circle
