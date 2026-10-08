@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0 # full history for the deck change log
-      - uses: pfirpfel/mtg-deck-site@v1.1.1
+      - uses: pfirpfel/mtg-deck-site@v1.2.0
       - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
