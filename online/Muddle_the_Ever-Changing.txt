@@ -1,3 +1,4 @@
+1 Aether Channeler
 1 Amonkhet Raceway
 1 An Offer You Can't Refuse
 1 Ancient Copper Dragon
@@ -10,7 +11,6 @@
 1 Artful Dodge
 1 Bladegriff Prototype
 1 Bloodthirster
-1 Bria, Riptide Rogue
 1 Combustible Gearhulk
 1 Command Beacon
 1 Command Tower
@@ -19,7 +19,6 @@
 1 Curiosity Crafter
 1 Cursed Mirror
 1 Dazzling Sphinx
-1 Diamond City
 1 Distortion Strike
 1 Dolmen Gate
 1 Enduring Curiosity
@@ -29,7 +28,6 @@
 1 Fiery Islet
 1 Frantic Search
 1 Gitaxian Probe
-1 Goldlust Triad
 1 Isengard Unleashed
 10 Island
 1 Izzet Boilerworks
@@ -82,4 +80,7 @@
 1 Training Center
 1 Turbulent Springs
 1 Twinflame Tyrant
+1 Volcanic Island
 1 You Come to a River
+
+1 Muddle, the Ever-Changing
