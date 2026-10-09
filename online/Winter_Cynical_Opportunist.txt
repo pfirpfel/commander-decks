@@ -33,7 +33,6 @@
 1 Hedge Shredder
 1 Heroic Intervention
 1 Invasion of Fiora
-1 Key to the City
 1 Life from the Loam
 1 Lightning Greaves
 1 Lignify
@@ -47,6 +46,7 @@
 1 Misty Rainforest
 1 Mulch
 1 Necron Deathmark
+1 Nesting Grounds
 1 Night's Whisper
 1 Noxious Gearhulk
 1 Nyx Weaver
@@ -72,11 +72,11 @@
 1 Sol Ring
 1 Stitcher's Supplier
 1 Summon: Bahamut
+1 Summon: Primal Odin
 1 Summon: Titan
 2 Swamp
 1 Takenuma, Abandoned Mire
 1 The Terminus of Return
-1 The World Spell
 1 Toxic Deluge
 1 Tree of Tales
 1 Turbulent Fen
