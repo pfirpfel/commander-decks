@@ -9,15 +9,18 @@
 1 Bident of Thassa
 1 Cloud Key
 1 Command Tower
+1 Crystal Skull, Isu Spyglass
 1 Cyberdrive Awakener
 1 Cyclonic Rift
 1 Dance of the Manse
 1 Deserted Beach
+1 Dispatch
 1 Eiganjo, Seat of the Empire
-1 Emry, Lurker of the Loch
+1 Emergency Regeneration
 1 Esper Sentinel
 1 Essence Reliquary
 1 Etherium Sculptor
+1 Federation Probe
 1 Flooded Strand
 1 Floodfarm Verge
 1 Fomori Vault
@@ -49,7 +52,6 @@
 1 Mystic Gate
 1 Organic Extinction
 1 Otawara, Soaring City
-1 Path to Exile
 1 Phyrexian Metamorph
 2 Plains
 1 Racers' Scoreboard
@@ -58,7 +60,6 @@
 1 Repurposing Bay
 1 Research Thief
 1 Riptide Gearhulk
-1 Sai, Master Thopterist
 1 Salvation Engine
 1 Scrawling Crawler
 1 Sculpting Steel
@@ -74,7 +75,6 @@
 1 Sol Ring
 1 Solemn Simulacrum
 1 Staff of the Storyteller
-1 Stock Up
 1 Stonecoil Serpent
 1 Swords to Plowshares
 1 Talisman of Progress
